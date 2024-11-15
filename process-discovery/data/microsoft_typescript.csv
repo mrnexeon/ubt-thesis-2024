@@ -1,0 +1,2217 @@
+case_id,timestamp,activity,subject,object
+59117,2024-07-02T19:06:38+00:00,create issue,patrickracicot,"Regression issue with React import when using `""jsx"": ""react""` compiler"
+59117,2024-07-05T21:34:54Z,assign user to issue,andrewbranch,andrewbranch
+59117,2024-07-05T21:35:04Z,add label to issue,andrewbranch,Bug
+59117,2024-07-05T21:35:16Z,add milestone to issue,andrewbranch,TypeScript 5.5.3
+59117,2024-07-08T23:06:08Z,commit changes,andrewbranch,b99009602ba99bbf4e2023af0de1b3ebaecb4bb2
+59117,2024-07-08T23:10:20+00:00,create PR,andrewbranch,59193
+59117,2024-07-08T23:10:21Z,link PR to issue,andrewbranch,59193
+59117,2024-07-08T23:10:23Z,assign user to PR,andrewbranch,andrewbranch
+59117,2024-07-08T23:10:23Z,add label to PR,typescript-bot,Author: Team
+59117,2024-07-08T23:10:25Z,add label to issue,typescript-bot,Fix Available
+59117,2024-07-08T23:10:25Z,add label to PR,typescript-bot,For Milestone Bug
+59117,2024-07-08T23:10:30Z,request review for PR,andrewbranch,weswigham
+59117,2024-07-08T23:11:28Z,head ref force pushed,andrewbranch,
+59117,2024-07-08T23:12:47Z,head ref force pushed,andrewbranch,
+59117,2024-07-08T23:14:04Z,head ref force pushed,andrewbranch,
+59117,2024-07-09T16:05:01Z,remove milestone from issue,andrewbranch,TypeScript 5.5.3
+59117,2024-07-09T16:05:01Z,add milestone to issue,andrewbranch,TypeScript 5.5.4
+59117,2024-07-10T16:45:14Z,request review for PR,andrewbranch,jakebailey
+59117,2024-07-16T18:28:23Z,review PR,jakebailey,59193
+59117,2024-07-16T20:46:38Z,merge PR,DanielRosenwasser,
+59117,2024-07-16T20:46:38Z,close PR,DanielRosenwasser,
+59117,2024-07-16T20:46:39Z,close issue,DanielRosenwasser,
+59117,2024-08-29T10:26:19Z,link PR to issue,George-Payne,5959
+59473,2023-01-02T21:33:09Z,commit changes,Andarist,f6074e850dd4ffc444b1ae9d3118b6604a6100fb
+59473,2023-01-02T21:47:52Z,commit changes,Andarist,5b9a5ddf78698b24f2c405cf00f2c3790248f7da
+59473,2023-01-04T06:15:50Z,commit changes,Andarist,bafe4fbe48eeced8c4e13f8ef7fa483772e0e331
+59473,2023-01-04T07:08:25+00:00,create PR,Andarist,52095
+59473,2023-01-04T07:08:36Z,add label to PR,typescript-bot,For Backlog Bug
+59473,2023-01-17T07:42:59Z,commit changes,Andarist,6bb681ef2c60f7c2d8988693c96efc7f28a1286f
+59473,2023-01-19T00:48:41Z,add PR to project,sandersn,3886818
+59473,2023-02-14T17:13:21Z,assign user to PR,ahejlsberg,ahejlsberg
+59473,2023-02-14T17:13:29Z,request review for PR,sandersn,ahejlsberg
+59473,2023-02-14T17:13:29Z,request review for PR,sandersn,gabritto
+59473,2023-03-22T08:31:30Z,commit changes,Andarist,59414ae683c6384ca3e5dbd8b99effa017a1200e
+59473,2023-05-22T14:50:25Z,commit changes,Andarist,19ab1c5e0fcaa453895e7480167cc1788d563933
+59473,2023-05-22T19:39:05Z,commit changes,Andarist,3ab57738eb32fe8715fbbd14bccbf1e96e5ddf65
+59473,2023-05-22T22:35:36Z,commit changes,Andarist,48faaa32a667eabd52232271fdb0f285df9cd318
+59473,2023-05-22T22:38:53Z,commit changes,Andarist,937a0ea6d37fccecd267b256942cb0f36cddeb04
+59473,2023-06-13T09:10:01Z,commit changes,Andarist,5861cc05c0695064770f466e911169b34ed59120
+59473,2023-07-25T14:25:56Z,commit changes,Andarist,b9a92852eed80ecda744c45a7ae2f617a8e6ff23
+59473,2023-07-25T16:34:33Z,commit changes,Andarist,6d24ca825d1726d0b07d3e99e7bf0fbee394e1f8
+59473,2023-07-25T16:46:57Z,commit changes,Andarist,ea31c96a72f5c19b3d960b45dae3cdba83cbbb53
+59473,2023-12-12T14:58:27Z,commit changes,Andarist,f9744e8e4829871d5b7adffd9727c51944c45a07
+59473,2024-03-13T11:31:45Z,commit changes,Andarist,2fe75f101058c1e86c1c271aad204ddad209da29
+59473,2024-07-30T01:05:58Z,commit changes,Andarist,04bfab19d5775332feb80406d0b0fa0f5ab65dae
+59473,2024-07-30T01:10:51Z,commit changes,Andarist,1f9c4ea28ae2166045e1b62e4e7c2876019f1102
+59473,2024-07-30T05:29:54Z,commit changes,Andarist,52effa593957dbbc1ef261368ca10dd916c499cb
+59473,2024-07-30T15:59:11+00:00,create issue,jedwards1211,Literal inference causes unexpected errors on a values that trivially satisfy compound type intersections containing any
+59473,2024-07-30T19:07:10Z,rename issue,jedwards1211,Weird error for JSX property type intersected with any
+59473,2024-07-31T18:44:30Z,commit changes,Andarist,7211b09a41c0c476f05d26e7a23f4ad5f1ef013c
+59473,2024-08-01T22:04:58Z,commit changes,Andarist,0b89c0f0aa1a5139276f21366f9f0065a7ad5d43
+59473,2024-08-02T01:50:38Z,rename issue,jedwards1211,Literal inference causes unexpected error on a value that trivially satisfies object intersection type
+59473,2024-08-02T02:38:56Z,rename issue,jedwards1211,Literal inference causes unexpected errors on a values that trivially satisfy compound type intersections with any
+59473,2024-08-02T02:39:17Z,rename issue,jedwards1211,Literal inference causes unexpected errors on a values that trivially satisfy compound type intersections containing any
+59473,2024-08-02T06:41:53Z,commit changes,Andarist,7e90ef7318d3e2e0133303b644d0e866ec53e93a
+59473,2024-08-02T06:43:34Z,commit changes,Andarist,49bfb7355aa8988cc182cb97f808d5e191417830
+59473,2024-08-02T16:13:17Z,assign user to issue,ahejlsberg,ahejlsberg
+59473,2024-08-02T16:13:21Z,add label to issue,RyanCavanaugh,Needs Investigation
+59473,2024-08-03T00:40:30Z,commit changes,Andarist,01c20d4fba65816172af501b0f8fe002f8a5d552
+59473,2024-08-03T08:59:17Z,commit changes,Andarist,b0012cf2d51d4e89c64c79bdc0d2bd79e53ebada
+59473,2024-08-03T08:59:45Z,link PR to issue,Andarist,52095
+59473,2024-08-03T17:35:34Z,commit changes,Andarist,a1c7ba192cdd13f636ea1936feb9467ca5beb56c
+59473,2024-08-03T18:01:30Z,commit changes,ahejlsberg,dae40d5f7bdfb4d2c32cd7441ee04792d73b6e2e
+59473,2024-08-03T18:04:53Z,commit changes,ahejlsberg,c308f58239df871dfa5811ec3a06ecd0c5b894c4
+59473,2024-08-03T18:10:38+00:00,create PR,ahejlsberg,59528
+59473,2024-08-03T18:10:39Z,link PR to issue,ahejlsberg,59528
+59473,2024-08-03T18:10:41Z,assign user to PR,ahejlsberg,ahejlsberg
+59473,2024-08-03T18:10:42Z,add label to PR,typescript-bot,Author: Team
+59473,2024-08-03T18:10:44Z,add label to PR,typescript-bot,For Backlog Bug
+59473,2024-08-03T18:13:29Z,remove label from issue,ahejlsberg,Needs Investigation
+59473,2024-08-03T18:13:29Z,add label to issue,ahejlsberg,Bug
+59473,2024-08-03T18:13:37Z,add milestone to issue,ahejlsberg,TypeScript 5.7.0
+59473,2024-08-03T21:46:57Z,commit changes,Andarist,e3f9169989481fed52a8d8fc69a2e80daf994f11
+59473,2024-08-03T21:47:09Z,add label to issue,typescript-bot,Fix Available
+59473,2024-08-05T15:37:30Z,review PR,ahejlsberg,52095
+59473,2024-08-05T16:00:05Z,commit changes,Andarist,8645b94cd4fbfff4ce18345acf5f1745c28df752
+59473,2024-08-06T12:37:59Z,commit changes,Andarist,dac6f7036b44b64163ce32367d533de2bef5da37
+59473,2024-08-06T15:23:39Z,commit changes,Andarist,adee09fe97f04713fd9c3c7d37a615ceab0e9f10
+59473,2024-08-06T17:54:15Z,review PR,ahejlsberg,52095
+59473,2024-08-06T17:55:24Z,close PR,ahejlsberg,
+59473,2024-08-07T10:01:27Z,commit changes,Andarist,e9502f976ec8db0703a6ae9e6e1a25a099a788b4
+59473,2024-08-19T09:38:55Z,commit changes,Andarist,f96d66e66b992bad9a6d58254a3591d9e5277361
+59473,2024-08-19T10:20:55Z,commit changes,Andarist,c0e99ae1cc9718f07c0b7c4afea7665bbb5f541c
+59473,2024-08-19T10:25:17Z,commit changes,Andarist,f218b978b7cf8286e495179104a1017f45d314c7
+59473,2024-08-19T17:28:58Z,review PR,gabritto,52095
+59473,2024-08-19T21:14:14Z,close issue,gabritto,
+6496,2016-01-15T03:25:09+00:00,create issue,kimamula,Duplicate type declarations with npm link
+6496,2016-01-15T03:30:31Z,rename issue,kimamula,Private properties defined in an external npm package interrupt variable assignment
+6496,2016-01-15T03:32:58Z,add label to issue,RyanCavanaugh,Bug
+6496,2016-02-02T11:21:18Z,close issue,kimamula,
+6496,2016-02-02T18:51:32Z,reopen issue,RyanCavanaugh,
+6496,2016-02-04T20:50:34Z,add label to issue,mhegazy,Suggestion
+6496,2016-02-04T20:50:34Z,remove label from issue,mhegazy,Bug
+6496,2016-02-04T20:50:38Z,add label to issue,mhegazy,In Discussion
+6496,2016-03-10T22:37:33Z,add label to issue,mhegazy,Typings
+6496,2016-07-29T05:10:04Z,link PR to issue,david-driscoll,1853
+60392,2024-11-01T21:33:41+00:00,create issue,jamiebuilds,rewriteRelativeImportExtensions and resolveJsonModule
+60392,2024-11-01T23:14:01Z,add label to issue,RyanCavanaugh,Needs Investigation
+60392,2024-11-01T23:14:07Z,assign user to issue,andrewbranch,andrewbranch
+60392,2024-11-01T23:14:12Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.1
+60392,2024-11-04T17:30:41Z,remove label from issue,andrewbranch,Needs Investigation
+60392,2024-11-04T17:30:41Z,add label to issue,andrewbranch,Bug
+60392,2024-11-04T17:48:51Z,commit changes,andrewbranch,33366d1a276ba5ac1e597ba99a575bf0eb3f57ff
+60392,2024-11-04T17:50:10+00:00,create PR,andrewbranch,60415
+60392,2024-11-04T17:50:11Z,link PR to issue,andrewbranch,60415
+60392,2024-11-04T17:50:14Z,assign user to PR,andrewbranch,andrewbranch
+60392,2024-11-04T17:50:15Z,add label to PR,typescript-bot,Author: Team
+60392,2024-11-04T17:50:16Z,add label to PR,typescript-bot,For Milestone Bug
+60392,2024-11-04T17:50:17Z,add label to issue,typescript-bot,Fix Available
+60392,2024-11-04T17:52:06Z,request review for PR,andrewbranch,sandersn
+60392,2024-11-05T19:18:27Z,request review for PR,andrewbranch,jakebailey
+60392,2024-11-05T19:19:06Z,review PR,jakebailey,60415
+60392,2024-11-05T20:50:18Z,merge PR,andrewbranch,
+60392,2024-11-05T20:50:18Z,close PR,andrewbranch,
+60392,2024-11-05T20:50:19Z,close issue,andrewbranch,
+60392,2024-11-05T20:50:22Z,delete PR branch,andrewbranch,60415
+59936,2024-09-10T20:47:03+00:00,create issue,burtek,Binding element incorrectly reported as having `any` type in JS with JSDoc starting with 5.6.2
+59936,2024-09-10T20:47:52Z,link PR to issue,burtek,154
+59936,2024-09-11T19:09:51Z,add label to issue,RyanCavanaugh,Bug
+59936,2024-09-11T19:09:59Z,add milestone to issue,RyanCavanaugh,Backlog
+59936,2024-09-15T21:15:39Z,commit changes,Andarist,b836d23fa5be6ad3458f41a08eec7e4ba068e931
+59936,2024-09-15T21:16:13+00:00,create PR,Andarist,59975
+59936,2024-09-15T21:16:14Z,link PR to issue,Andarist,59975
+59936,2024-09-15T21:16:16Z,add label to PR,typescript-bot,For Backlog Bug
+59936,2024-09-17T09:39:27Z,commit changes,Andarist,909bac282e05fafa4b0961f4465ee08b642c2450
+59936,2024-09-17T09:39:53Z,rename PR,Andarist,Only pad initializer types for parameters without annotations and contextual signatures
+59936,2024-09-24T22:46:48Z,request review for PR,jakebailey,ahejlsberg
+59936,2024-09-27T13:47:53Z,commit changes,ahejlsberg,7c893fec0ea9ff2d9298f36937863a0ef24f5e67
+59936,2024-09-27T14:01:04Z,commit changes,ahejlsberg,8ee94a9d401737b3ec9afa7a29737f81aa8aba4c
+59936,2024-09-27T14:01:13Z,commit changes,ahejlsberg,39364eed3a1c30b417f17e314cd9aa22bfa46514
+59936,2024-09-27T14:03:11+00:00,create PR,ahejlsberg,60083
+59936,2024-09-27T14:03:13Z,link PR to issue,ahejlsberg,60083
+59936,2024-09-27T14:03:15Z,assign user to PR,ahejlsberg,ahejlsberg
+59936,2024-09-27T14:03:16Z,add label to PR,typescript-bot,Author: Team
+59936,2024-09-27T14:03:17Z,add label to PR,typescript-bot,For Backlog Bug
+59936,2024-09-27T14:03:32Z,request review for PR,ahejlsberg,jakebailey
+59936,2024-09-27T14:41:17Z,close PR,Andarist,
+59936,2024-09-27T18:50:57Z,commit changes,jakebailey,1c25b1a91ad1d4070238684dbad0d330ddd865e0
+59936,2024-09-27T18:52:53Z,rename PR,jakebailey,Don't issue implicit any when obtaining the implied type for a binding pattern
+59936,2024-10-01T04:38:48Z,review PR,jakebailey,60083
+59936,2024-10-01T04:38:53Z,merge PR,jakebailey,
+59936,2024-10-01T04:38:53Z,close PR,jakebailey,
+59936,2024-10-01T04:38:55Z,close issue,jakebailey,
+59936,2024-10-01T04:38:55Z,delete PR branch,jakebailey,60083
+59062,2024-06-28T10:16:54+00:00,create issue,wasabi315,`getTypeListId` crashes with `TypeError: Cannot read properties of undefined (reading 'id')`
+59062,2024-06-30T17:11:31Z,commit changes,davide.tanca,6679bbed56ea70efe56d30cdf4a56f6e796262d4
+59062,2024-06-30T17:13:03+00:00,create PR,gdavidetanca,59080
+59062,2024-06-30T17:13:04Z,link PR to issue,gdavidetanca,59080
+59062,2024-06-30T17:13:07Z,add label to PR,typescript-bot,For Uncommitted Bug
+59062,2024-07-01T07:27:16Z,commit changes,Andarist,ca0295b04710c78ac1ce146e8f800064d98f02c0
+59062,2024-07-01T07:27:50+00:00,create PR,Andarist,59089
+59062,2024-07-01T07:27:51Z,link PR to issue,Andarist,59089
+59062,2024-07-01T07:27:53Z,add label to PR,typescript-bot,For Uncommitted Bug
+59062,2024-07-01T14:59:36Z,close PR,gdavidetanca,
+59062,2024-07-01T23:13:49Z,review PR,andrewbranch,59089
+59062,2024-07-01T23:14:02Z,add label to issue,andrewbranch,Bug
+59062,2024-07-01T23:14:02Z,add label to issue,andrewbranch,Crash
+59062,2024-07-01T23:14:35Z,request review for PR,andrewbranch,sandersn
+59062,2024-07-01T23:14:46Z,request review for PR,andrewbranch,gabritto
+59062,2024-07-02T21:33:29Z,review PR,DanielRosenwasser,59089
+59062,2024-07-15T21:20:07Z,commit changes,gabritto,229855129d36246ccc8e67e06facb262d42b06dc
+59062,2024-07-15T21:39:25Z,merge PR,gabritto,
+59062,2024-07-15T21:39:25Z,close PR,gabritto,
+59062,2024-07-15T21:39:26Z,close issue,gabritto,
+59062,2024-07-15T22:01:49Z,delete PR branch,Andarist,59089
+59704,2024-08-21T00:10:33+00:00,create issue,DanielRosenwasser,`lib.d.ts` Updates for TypeScript 5.7
+59704,2024-08-21T00:10:41Z,add label to issue,DanielRosenwasser,Bug
+59704,2024-08-21T00:10:41Z,add label to issue,DanielRosenwasser,Domain: lib.d.ts
+59704,2024-08-21T20:27:38Z,assign user to issue,sandersn,sandersn
+59704,2024-08-21T20:27:41Z,add milestone to issue,DanielRosenwasser,TypeScript 5.7.0
+59704,2024-09-25T17:21:05Z,commit changes,sandersn,36f1d00e600b51b4f8b48a725826581fcc43add6
+59704,2024-09-25T17:26:14+00:00,create PR,sandersn,60061
+59704,2024-09-25T17:26:15Z,link PR to issue,sandersn,60061
+59704,2024-09-25T17:26:17Z,assign user to PR,sandersn,sandersn
+59704,2024-09-25T17:26:18Z,add label to PR,typescript-bot,Author: Team
+59704,2024-09-25T17:26:19Z,add label to PR,typescript-bot,For Milestone Bug
+59704,2024-09-25T17:26:20Z,add label to issue,typescript-bot,Fix Available
+59704,2024-09-25T17:26:32Z,request review for PR,sandersn,DanielRosenwasser
+59704,2024-09-26T21:46:32Z,auto squash enabled,sandersn,
+59704,2024-09-27T22:32:18Z,review PR,jakebailey,60061
+59704,2024-09-27T22:32:19Z,merge PR,sandersn,
+59704,2024-09-27T22:32:20Z,close PR,sandersn,
+59704,2024-09-27T22:32:21Z,close issue,sandersn,
+59116,2024-06-28T10:03:39+00:00,create issue,hediet,Codefix add missing function declaration inserts function in wrong file
+59116,2024-06-28T10:03:39Z,assign user to issue,mjbvz,mjbvz
+59116,2024-07-02T18:42:37Z,transferred,mjbvz,
+59116,2024-07-02T18:42:41Z,unassign user from issue,mjbvz,mjbvz
+59116,2024-07-05T17:28:45Z,rename issue,andrewbranch,Codefix add missing function declaration inserts function in wrong file
+59116,2024-07-05T17:41:42Z,add label to issue,andrewbranch,Bug
+59116,2024-07-05T17:42:00Z,add label to issue,andrewbranch,Help Wanted
+59116,2024-07-05T17:42:00Z,add label to issue,andrewbranch,Domain: Quick Fixes
+59116,2024-07-05T17:42:31Z,add label to issue,andrewbranch,Effort: Casual
+59116,2024-07-05T17:42:54Z,add milestone to issue,andrewbranch,Backlog
+59116,2024-07-09T22:42:47Z,commit changes,a-tarasyuk,8d50d214af14d7da1f5660b25e4213713cd24d6a
+59116,2024-07-09T22:43:32+00:00,create PR,a-tarasyuk,59213
+59116,2024-07-09T22:43:33Z,link PR to issue,a-tarasyuk,59213
+59116,2024-07-09T22:43:36Z,add label to PR,typescript-bot,For Backlog Bug
+59116,2024-07-25T02:43:35Z,review PR,jakebailey,59213
+59116,2024-07-25T02:45:52Z,merge PR,jakebailey,
+59116,2024-07-25T02:45:52Z,close PR,jakebailey,
+59116,2024-07-25T02:45:54Z,close issue,jakebailey,
+59843,2024-09-03T21:21:12+00:00,create issue,jkrems,Module resolution: Imported files are missing from emit when imported via `package.json#imports`
+59843,2024-09-05T17:19:43Z,add label to issue,RyanCavanaugh,Needs Investigation
+59843,2024-09-05T17:19:46Z,assign user to issue,andrewbranch,andrewbranch
+59843,2024-09-05T17:19:51Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59843,2024-10-14T23:24:48Z,commit changes,andrewbranch,cc703518efdb658ace1c65d836d1bccd1f69d73b
+59843,2024-10-14T23:43:00Z,remove label from issue,andrewbranch,Needs Investigation
+59843,2024-10-14T23:43:00Z,add label to issue,andrewbranch,Bug
+59843,2024-10-14T23:43:16Z,remove milestone from issue,andrewbranch,TypeScript 5.7.0
+59843,2024-10-14T23:43:17Z,add milestone to issue,andrewbranch,TypeScript 5.7.1
+59843,2024-10-14T23:55:57Z,commit changes,andrewbranch,4b9afad9508d0df22eab1a77197c7044bd178b97
+59843,2024-10-15T00:02:16+00:00,create PR,andrewbranch,60228
+59843,2024-10-15T00:02:17Z,link PR to issue,andrewbranch,60228
+59843,2024-10-15T00:02:19Z,assign user to PR,andrewbranch,andrewbranch
+59843,2024-10-15T00:02:20Z,add label to PR,typescript-bot,Author: Team
+59843,2024-10-15T00:02:21Z,add label to PR,typescript-bot,For Milestone Bug
+59843,2024-10-15T00:02:22Z,add label to issue,typescript-bot,Fix Available
+59843,2024-10-15T00:02:36Z,request review for PR,andrewbranch,jakebailey
+59843,2024-10-15T17:38:26Z,review PR,jakebailey,60228
+59843,2024-10-15T17:53:32Z,merge PR,andrewbranch,
+59843,2024-10-15T17:53:32Z,close PR,andrewbranch,
+59843,2024-10-15T17:53:33Z,close issue,andrewbranch,
+59843,2024-10-15T17:53:48Z,delete PR branch,andrewbranch,60228
+58752,2024-06-03T16:41:18Z,commit changes,dragomirtitian,61213562fa3aecb1d1edc2b63e6c572fd6d63e20
+58752,2024-06-03T16:59:50+00:00,create issue,dragomirtitian,[ts-5.5]Some types are excessively expanded in keyof and index access types
+58752,2024-06-03T17:00:08Z,rename issue,dragomirtitian,[ts-5.5]Some types are excessively expanded in keyof and index access types
+58752,2024-06-03T18:30:52+00:00,create PR,dragomirtitian,58758
+58752,2024-06-03T18:30:52Z,link PR to issue,dragomirtitian,58758
+58752,2024-06-03T18:30:55Z,add label to PR,typescript-bot,For Uncommitted Bug
+58752,2024-06-03T20:30:04Z,add label to issue,DanielRosenwasser,Bug
+58752,2024-06-03T20:30:04Z,add label to issue,DanielRosenwasser,Domain: Declaration Emit
+58752,2024-06-03T20:30:04Z,add label to issue,DanielRosenwasser,Domain: Isolated Declarations
+58752,2024-06-03T20:30:12Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.2
+58752,2024-06-03T22:24:52Z,commit changes,dragomirtitian,a73a14579a714f5c01a52df6ddd5a327e962ccc0
+58752,2024-06-03T22:24:57Z,remove label from PR,typescript-bot,For Uncommitted Bug
+58752,2024-06-03T22:24:58Z,add label to issue,typescript-bot,Fix Available
+58752,2024-06-03T22:24:58Z,add label to PR,typescript-bot,For Milestone Bug
+58752,2024-06-03T23:16:04Z,review PR,DanielRosenwasser,58758
+58752,2024-06-03T23:21:48Z,merge PR,DanielRosenwasser,
+58752,2024-06-03T23:21:48Z,close PR,DanielRosenwasser,
+58752,2024-06-03T23:21:49Z,close issue,DanielRosenwasser,
+59470,2024-07-30T11:06:13+00:00,create issue,d-eder,Namespace missing in generated .d.ts 
+59470,2024-07-30T11:12:06Z,rename issue,d-eder,Namespace missing in .d.ts 
+59470,2024-07-30T11:12:18Z,rename issue,d-eder,Namespace missing in generated .d.ts 
+59470,2024-07-31T16:35:41Z,add label to issue,RyanCavanaugh,Bug
+59470,2024-07-31T16:35:43Z,assign user to issue,weswigham,weswigham
+59470,2024-07-31T16:35:47Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59470,2024-07-31T22:21:27Z,commit changes,weswigham,0f15bd5cbcf4f6563039f291ca06983c443dbe11
+59470,2024-07-31T22:32:31Z,commit changes,weswigham,bbc39410f83353eb9aaef36f28553f640c84c4f7
+59470,2024-07-31T22:35:52+00:00,create PR,weswigham,59493
+59470,2024-07-31T22:35:52Z,request review for PR,weswigham,sandersn
+59470,2024-07-31T22:35:52Z,request review for PR,weswigham,jakebailey
+59470,2024-07-31T22:35:53Z,link PR to issue,weswigham,59493
+59470,2024-07-31T22:35:54Z,assign user to PR,weswigham,weswigham
+59470,2024-07-31T22:35:55Z,add label to PR,typescript-bot,Author: Team
+59470,2024-07-31T22:35:57Z,add label to issue,typescript-bot,Fix Available
+59470,2024-07-31T22:35:57Z,add label to issue,typescript-bot,Fix Available
+59470,2024-07-31T22:35:57Z,add label to PR,typescript-bot,For Milestone Bug
+59470,2024-07-31T22:35:57Z,add label to PR,typescript-bot,For Milestone Bug
+59470,2024-07-31T22:36:14Z,rename PR,weswigham,Use local symbol rather then target symbol for tracking reused references
+59470,2024-07-31T22:38:31Z,review PR,jakebailey,59493
+59470,2024-07-31T22:46:46Z,request review for PR,weswigham,DanielRosenwasser
+59470,2024-07-31T22:52:05Z,merge PR,weswigham,
+59470,2024-07-31T22:52:05Z,close PR,weswigham,
+59470,2024-07-31T22:52:06Z,close issue,weswigham,
+59470,2024-07-31T22:52:09Z,delete PR branch,weswigham,59493
+58801,2024-06-07T17:14:03+00:00,create issue,DanielRosenwasser,"""Move to file"" on global code unnecessarily imports/exports, generates invalid code"
+58801,2024-06-07T17:14:03Z,add label to issue,DanielRosenwasser,Bug
+58801,2024-06-07T17:14:03Z,add label to issue,DanielRosenwasser,Domain: Refactorings
+58801,2024-06-08T00:39:32Z,add label to issue,DanielRosenwasser,Help Wanted
+58801,2024-06-08T00:39:32Z,add label to issue,DanielRosenwasser,Effort: Moderate
+58801,2024-06-09T20:32:48Z,commit changes,a-tarasyuk,5726e7260bdd600fe92e6aa8694a5255dfc38d43
+58801,2024-06-09T20:34:03+00:00,create PR,a-tarasyuk,58811
+58801,2024-06-09T20:34:03Z,link PR to issue,a-tarasyuk,58811
+58801,2024-06-09T20:34:06Z,add label to PR,typescript-bot,For Uncommitted Bug
+58801,2024-06-10T23:57:35Z,request review for PR,DanielRosenwasser,andrewbranch
+58801,2024-06-10T23:57:35Z,request review for PR,DanielRosenwasser,gabritto
+58801,2024-06-10T23:57:36Z,request review for PR,DanielRosenwasser,navya9singh
+58801,2024-06-11T16:45:39Z,review PR,andrewbranch,58811
+58801,2024-06-12T18:01:06Z,assign user to PR,andrewbranch,andrewbranch
+58801,2024-06-12T20:32:55Z,assign user to PR,navya9singh,navya9singh
+58801,2024-06-12T20:32:55Z,unassign user from PR,andrewbranch,andrewbranch
+58801,2024-06-18T23:31:53Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.2
+58801,2024-06-19T00:23:59Z,review PR,DanielRosenwasser,58811
+58801,2024-06-19T00:24:22Z,merge PR,DanielRosenwasser,
+58801,2024-06-19T00:24:23Z,close PR,DanielRosenwasser,
+58801,2024-06-19T00:24:24Z,close issue,DanielRosenwasser,
+59262,2024-07-13T16:13:30+00:00,create issue,PhoebeSzmucer,Incorrect ES5 code emitted for closures in loops when noCheck is enabled
+59262,2024-07-15T04:53:40Z,commit changes,jakebailey,54003a5812d66edb8decd8b6334dc97581ca33ef
+59262,2024-07-15T20:26:48Z,commit changes,jakebailey,033a906e0c55172fbf38044c2a5818895b9123fa
+59262,2024-07-15T20:27:18Z,commit changes,jakebailey,7e1e976c807b8f87f3770a07ffb431d0b6f322d0
+59262,2024-07-15T20:30:34+00:00,create PR,jakebailey,59285
+59262,2024-07-15T20:30:34Z,link PR to issue,jakebailey,59285
+59262,2024-07-15T20:30:34Z,request review for PR,jakebailey,weswigham
+59262,2024-07-15T20:30:36Z,assign user to PR,jakebailey,jakebailey
+59262,2024-07-15T20:30:37Z,add label to PR,typescript-bot,Author: Team
+59262,2024-07-15T20:30:38Z,add label to PR,typescript-bot,For Uncommitted Bug
+59262,2024-07-15T20:47:10Z,review PR,weswigham,59285
+59262,2024-07-15T20:50:16Z,request review for PR,jakebailey,rbuckton
+59262,2024-07-15T23:43:28Z,add label to issue,DanielRosenwasser,Bug
+59262,2024-07-15T23:43:54Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.4
+59262,2024-07-16T18:29:49Z,milestoned,jakebailey,
+59262,2024-07-16T18:29:52Z,remove label from PR,typescript-bot,For Uncommitted Bug
+59262,2024-07-16T18:29:53Z,add label to issue,typescript-bot,Fix Available
+59262,2024-07-16T18:29:53Z,add label to PR,typescript-bot,For Milestone Bug
+59262,2024-07-16T18:53:27Z,commit changes,jakebailey,f820ca52fb0c179c77fcdd4682a3edab54608bed
+59262,2024-07-16T19:09:02Z,commit changes,jakebailey,6c910bfe073703a0c6abbaa90e8012b1cee4a251
+59262,2024-07-16T19:10:03Z,commit changes,jakebailey,66113d3b71c707f8390f6aac82ea2afea176830a
+59262,2024-07-16T19:11:46Z,review PR,rbuckton,59285
+59262,2024-07-16T20:30:52Z,close issue,jakebailey,
+60186,2024-10-10T11:37:42+00:00,create issue,golopot,"Quick fix ""add missing properties"" fails with enums from other module"
+60186,2024-10-10T16:55:52Z,commit changes,a-tarasyuk,459fa9cb3834a98e5b2f98d44690c0cb9cb141b1
+60186,2024-10-10T16:56:19+00:00,create PR,a-tarasyuk,60191
+60186,2024-10-10T16:56:20Z,link PR to issue,a-tarasyuk,60191
+60186,2024-10-10T16:56:23Z,add label to PR,typescript-bot,For Uncommitted Bug
+60186,2024-10-14T18:30:25Z,review PR,DanielRosenwasser,60191
+60186,2024-10-14T18:30:34Z,merge PR,DanielRosenwasser,
+60186,2024-10-14T18:30:35Z,close issue,DanielRosenwasser,
+60186,2024-10-14T18:30:35Z,close PR,DanielRosenwasser,
+60186,2024-10-14T18:30:52Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.1
+60186,2024-10-14T18:30:59Z,remove milestone from issue,DanielRosenwasser,TypeScript 5.6.1
+60186,2024-10-14T18:30:59Z,add milestone to issue,DanielRosenwasser,TypeScript 5.7.1
+60186,2024-10-14T18:31:12Z,add label to issue,DanielRosenwasser,Bug
+60186,2024-10-14T18:31:12Z,add label to issue,DanielRosenwasser,Fixed
+60186,2024-10-14T18:31:12Z,add label to issue,DanielRosenwasser,Domain: Quick Fixes
+59263,2024-07-13T22:06:36Z,commit changes,jsonnull,9ab4d22601d2261a6c418393b3b49b6a3a7d2575
+59263,2024-07-13T23:08:18+00:00,create issue,jsonnull,Iterator and AsyncIterator missing Symbol.dispose method in esnext.disposable
+59263,2024-07-13T23:09:13+00:00,create PR,jsonnull,59264
+59263,2024-07-13T23:09:14Z,link PR to issue,jsonnull,59264
+59263,2024-07-13T23:09:17Z,add label to PR,typescript-bot,For Uncommitted Bug
+59263,2024-07-13T23:11:36Z,rename issue,jsonnull,Iterator and AsyncIterator missing Symbol.dispose method in esnext.disposable
+59263,2024-07-15T12:53:54Z,convert to draft,jsonnull,
+59263,2024-07-26T22:10:10Z,assign user to issue,rbuckton,rbuckton
+59263,2024-07-26T22:10:16Z,add label to issue,RyanCavanaugh,Bug
+59263,2024-07-26T22:10:16Z,add label to issue,RyanCavanaugh,Help Wanted
+59263,2024-07-26T22:10:22Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59263,2024-07-27T14:12:03Z,close PR,jsonnull,
+59263,2024-07-27T14:12:05Z,assign user to PR,rbuckton,rbuckton
+59263,2024-08-14T18:09:27Z,commit changes,rbuckton,8b41d8bc582a0d457463091a022b863772aa1992
+59263,2024-08-14T18:13:42+00:00,create PR,rbuckton,59633
+59263,2024-08-14T18:13:43Z,link PR to issue,rbuckton,59633
+59263,2024-08-14T18:13:46Z,assign user to PR,rbuckton,rbuckton
+59263,2024-08-14T18:13:46Z,add label to PR,typescript-bot,Author: Team
+59263,2024-08-14T18:13:48Z,add label to PR,typescript-bot,For Milestone Bug
+59263,2024-08-14T18:13:49Z,add label to issue,typescript-bot,Fix Available
+59263,2024-08-14T18:14:03Z,request review for PR,rbuckton,weswigham
+59263,2024-08-14T18:14:09Z,request review for PR,rbuckton,sandersn
+59263,2024-08-14T19:36:15Z,commit changes,rbuckton,cad0f46842bd5b1688ad804bf5137202165e35d3
+59263,2024-08-15T21:00:48Z,review PR,sandersn,59633
+59263,2024-08-16T15:57:06Z,merge PR,rbuckton,
+59263,2024-08-16T15:57:06Z,close PR,rbuckton,
+59263,2024-08-16T15:57:07Z,close issue,rbuckton,
+59263,2024-08-16T15:57:08Z,delete PR branch,rbuckton,59633
+59505,2024-08-01T19:47:00+00:00,create issue,dasa,False positive for error: TS2873: This kind of expression is always falsy.
+59505,2024-08-01T20:22:28Z,assign user to issue,RyanCavanaugh,RyanCavanaugh
+59505,2024-08-01T21:14:08Z,add label to issue,RyanCavanaugh,Bug
+59505,2024-08-01T21:15:54Z,commit changes,RyanCavanaugh,1c8d09a1e9bb7bc320cb113c967ea0b98ed5ba42
+59505,2024-08-01T21:19:38+00:00,create PR,RyanCavanaugh,59507
+59505,2024-08-01T21:19:39Z,link PR to issue,RyanCavanaugh,59507
+59505,2024-08-01T21:19:41Z,assign user to PR,RyanCavanaugh,RyanCavanaugh
+59505,2024-08-01T21:19:42Z,add label to PR,typescript-bot,Author: Team
+59505,2024-08-01T21:19:43Z,add label to PR,typescript-bot,For Uncommitted Bug
+59505,2024-08-01T22:49:29Z,review PR,DanielRosenwasser,59507
+59505,2024-08-02T19:51:07Z,merge PR,RyanCavanaugh,
+59505,2024-08-02T19:51:08Z,close PR,RyanCavanaugh,
+59505,2024-08-02T19:51:09Z,close issue,RyanCavanaugh,
+59505,2024-08-02T19:51:13Z,delete PR branch,RyanCavanaugh,59507
+59539,2024-08-05T21:57:07+00:00,create issue,mjbvz,Paste with imports corrupts other parts of file
+59539,2024-08-05T22:18:58Z,rename issue,mjbvz,Paste with imports corrupts other parts of file
+59539,2024-08-06T22:04:05Z,assign user to issue,navya9singh,navya9singh
+59539,2024-08-06T22:04:07Z,add label to issue,RyanCavanaugh,Bug
+59539,2024-08-06T22:04:10Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.0
+59539,2024-08-06T22:04:14Z,remove milestone from issue,RyanCavanaugh,TypeScript 5.6.0
+59539,2024-08-06T22:04:14Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.1
+59539,2024-09-13T16:43:39Z,remove milestone from issue,RyanCavanaugh,TypeScript 5.6.1
+59539,2024-09-13T16:43:39Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59539,2024-10-16T17:55:52Z,close issue,mjbvz,
+58948,2024-06-20T19:05:19+00:00,create issue,bgenia,Isolated declarations quick fix suggests `boolean` return type for predicates
+58948,2024-06-20T23:00:28Z,add label to issue,RyanCavanaugh,Bug
+58948,2024-06-20T23:00:28Z,add label to issue,RyanCavanaugh,Help Wanted
+58948,2024-06-20T23:00:30Z,add milestone to issue,RyanCavanaugh,Backlog
+58948,2024-06-21T13:49:51Z,commit changes,Andarist,d06de21d8268714b263269b516f2980324aad2da
+58948,2024-06-21T13:50:34+00:00,create PR,Andarist,58958
+58948,2024-06-21T13:50:35Z,link PR to issue,Andarist,58958
+58948,2024-06-21T13:50:37Z,add label to PR,typescript-bot,For Backlog Bug
+58948,2024-06-21T16:35:49Z,commit changes,Andarist,ded2819e942c9217f8b7e3f085321f08eef8178b
+58948,2024-06-21T16:54:21Z,commit changes,Andarist,e3b065b95828b0ad3e17c33f48c27dbd06bc8e54
+58948,2024-06-21T17:14:16Z,commit changes,Andarist,f71c0b57ad5c5cb11e1ea321b35d9281617c462a
+58948,2024-06-21T17:29:55Z,commit changes,Andarist,cf267853c174c584dfbf3724d28b34388f809b7e
+58948,2024-06-21T18:57:48Z,commit changes,Andarist,f5bcdabe73854dd313f26291272eae435ae553d3
+58948,2024-06-28T13:20:37Z,request review for PR,sandersn,weswigham
+58948,2024-06-28T13:20:37Z,request review for PR,sandersn,iisaduan
+58948,2024-06-28T13:20:44Z,assign user to PR,weswigham,weswigham
+58948,2024-07-25T22:23:31Z,review PR,jakebailey,58958
+58948,2024-07-26T17:21:18Z,merge PR,jakebailey,
+58948,2024-07-26T17:21:19Z,close PR,jakebailey,
+58948,2024-07-26T17:21:21Z,close issue,jakebailey,
+58948,2024-07-26T21:39:32Z,delete PR branch,Andarist,58958
+59115,2024-07-02T18:37:19+00:00,create issue,andrewbranch,Scanner crash in services (TypeScript 5.5)
+59115,2024-07-02T18:37:48Z,add label to issue,andrewbranch,Bug
+59115,2024-07-02T18:37:48Z,add label to issue,andrewbranch,Domain: Organize Imports
+59115,2024-07-02T18:37:48Z,add label to issue,andrewbranch,Crash
+59115,2024-07-02T18:37:54Z,assign user to issue,iisaduan,iisaduan
+59115,2024-07-02T18:38:03Z,add milestone to issue,andrewbranch,TypeScript 5.6.0
+59115,2024-07-03T17:27:34Z,commit changes,andrewbranch,557d7b2c2e81cf2f5760f349c469b44a0d082e87
+59115,2024-07-03T17:32:54Z,rename issue,andrewbranch,Scanner crash in services (TypeScript 5.5)
+59115,2024-07-03T17:37:17Z,commit changes,andrewbranch,734beba75e530bd76e685eb38108597a36466e4a
+59115,2024-07-03T18:08:01+00:00,create PR,andrewbranch,59130
+59115,2024-07-03T18:08:02Z,link PR to issue,andrewbranch,59130
+59115,2024-07-03T18:08:05Z,assign user to PR,andrewbranch,andrewbranch
+59115,2024-07-03T18:08:06Z,add label to PR,typescript-bot,Author: Team
+59115,2024-07-03T18:08:07Z,assign user to PR,iisaduan,iisaduan
+59115,2024-07-03T18:08:08Z,add label to issue,typescript-bot,Fix Available
+59115,2024-07-03T18:08:08Z,add label to issue,typescript-bot,Fix Available
+59115,2024-07-03T18:08:08Z,add label to PR,typescript-bot,For Milestone Bug
+59115,2024-07-03T18:08:08Z,add label to PR,typescript-bot,For Milestone Bug
+59115,2024-07-03T22:54:35Z,commit changes,iisaduan,b50f2e4eef9e848ea3b25e5bb311e08c42490fd6
+59115,2024-07-03T22:55:43+00:00,create PR,iisaduan,59135
+59115,2024-07-03T22:55:44Z,link PR to issue,iisaduan,59135
+59115,2024-07-03T22:55:46Z,assign user to PR,iisaduan,iisaduan
+59115,2024-07-03T22:55:46Z,add label to PR,typescript-bot,Author: Team
+59115,2024-07-03T22:55:48Z,add label to PR,typescript-bot,For Milestone Bug
+59115,2024-07-03T23:40:28Z,commit changes,iisaduan,2761af77709cdd9703080781c2beca254b7db129
+59115,2024-07-03T23:42:54+00:00,create PR,iisaduan,59137
+59115,2024-07-03T23:42:54Z,link PR to issue,iisaduan,59137
+59115,2024-07-03T23:42:57Z,assign user to PR,iisaduan,iisaduan
+59115,2024-07-03T23:42:58Z,add label to PR,typescript-bot,Author: Team
+59115,2024-07-03T23:43:00Z,add label to PR,typescript-bot,For Milestone Bug
+59115,2024-07-03T23:48:51Z,convert to draft,iisaduan,
+59115,2024-07-04T00:30:38Z,commit changes,iisaduan,422ee94965dd5ab4c3e0583a5f957b89604f66e6
+59115,2024-07-04T22:03:43Z,request review for PR,iisaduan,weswigham
+59115,2024-07-04T22:03:43Z,request review for PR,iisaduan,andrewbranch
+59115,2024-07-05T23:03:47Z,commit changes,iisaduan,9aeb8a3304c85a6eafe2261e780a79801ff1ac4d
+59115,2024-07-08T16:58:36Z,review PR,andrewbranch,59137
+59115,2024-07-08T17:00:20Z,review PR,weswigham,59137
+59115,2024-07-08T17:10:27Z,remove milestone from issue,DanielRosenwasser,TypeScript 5.6.0
+59115,2024-07-08T17:10:27Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.4
+59115,2024-07-16T20:50:07Z,milestoned,DanielRosenwasser,
+59115,2024-07-16T20:50:17Z,merge PR,DanielRosenwasser,
+59115,2024-07-16T20:50:17Z,close PR,DanielRosenwasser,
+59115,2024-07-16T20:50:18Z,close issue,DanielRosenwasser,
+59115,2024-07-16T20:51:23Z,delete PR branch,iisaduan,59137
+59115,2024-07-23T17:41:31Z,close PR,andrewbranch,
+59115,2024-07-23T17:41:35Z,delete PR branch,andrewbranch,59130
+60223,2024-10-14T19:39:14+00:00,create issue,dirkluijk,Update ESNext with Promise.try (stage 4)
+60223,2024-10-14T21:19:35Z,rename issue,dirkluijk,Update ESNext/ES2024 with Promise.try (stage 4)
+60223,2024-10-14T22:53:49Z,add label to issue,DanielRosenwasser,Domain: lib.d.ts
+60223,2024-10-14T22:54:37Z,assign user to issue,gabritto,gabritto
+60223,2024-10-14T22:54:45Z,add label to issue,DanielRosenwasser,Bug
+60223,2024-10-14T22:54:45Z,add label to issue,DanielRosenwasser,Help Wanted
+60223,2024-10-14T22:55:13Z,add milestone to issue,DanielRosenwasser,TypeScript 5.8.0
+60223,2024-10-14T22:55:24Z,add label to issue,DanielRosenwasser,Good First Issue
+60223,2024-10-15T07:51:23+00:00,create PR,dirkluijk,60232
+60223,2024-10-15T07:51:24Z,link PR to issue,dirkluijk,60232
+60223,2024-10-15T07:51:27Z,assign user to PR,gabritto,gabritto
+60223,2024-10-15T07:51:28Z,add label to PR,typescript-bot,For Milestone Bug
+60223,2024-10-15T07:51:29Z,add label to issue,typescript-bot,Fix Available
+60223,2024-10-15T07:56:11Z,head ref force pushed,dirkluijk,
+60223,2024-10-15T08:13:07Z,head ref force pushed,dirkluijk,
+60223,2024-10-15T12:07:25Z,commit changes,dirkluijk,6d6e6d24e118f68411358707184da54622d619e1
+60223,2024-10-15T12:07:33Z,head ref force pushed,dirkluijk,
+60223,2024-10-15T12:07:45Z,rename PR,dirkluijk,fix(60223): add Promise.try() to ESNext lib
+60223,2024-10-15T12:22:16Z,head ref force pushed,dirkluijk,
+60223,2024-10-15T12:47:39Z,rename issue,dirkluijk,Update ESNext with Promise.try (stage 4)
+60223,2024-10-15T12:59:10Z,head ref force pushed,dirkluijk,
+60223,2024-10-15T17:33:45Z,review PR,gabritto,60232
+60223,2024-10-15T19:54:45Z,commit changes,dirkluijk,69b6cbb53033be0a5516534977cf67b459bb3168
+60223,2024-10-15T22:02:49Z,request review for PR,gabritto,gabritto
+60223,2024-10-16T07:37:25Z,commit changes,dirkluijk,699170e365c9b45ab8ec2ccca394232b401e7645
+60223,2024-10-16T15:35:10Z,commit changes,dirkluijk,3af5da0f026d8529a09fb30459f84bb4f7ea54f4
+60223,2024-10-16T21:01:22Z,commit changes,dirkluijk,57e3f87d924b5fbfcb66c2245133af25d84371eb
+60223,2024-10-16T21:10:38Z,review PR,gabritto,60232
+60223,2024-11-06T01:14:03Z,merge PR,gabritto,
+60223,2024-11-06T01:14:03Z,close PR,gabritto,
+60223,2024-11-06T01:14:04Z,close issue,gabritto,
+60141,2024-10-04T16:46:56+00:00,create issue,sandersn,@types/node's URL is no longer assignable to TS 5.6's DOM URL type
+60141,2024-10-04T16:50:06Z,add label to issue,sandersn,Recent Regression
+60141,2024-10-04T16:50:10Z,add label to issue,sandersn,Bug
+60141,2024-10-04T16:50:23Z,assign user to issue,sandersn,sandersn
+60141,2024-10-04T16:50:28Z,add milestone to issue,sandersn,TypeScript 5.7.0
+60141,2024-10-16T22:29:33Z,link PR to issue,Renegade334,70648
+60141,2024-10-16T23:19:07Z,close issue,typescript-bot,
+58781,2024-06-05T20:11:11+00:00,create issue,MichaelMitchell-at,[compiler crash] TypeError: Cannot read properties of undefined (reading 'kind')
+58781,2024-06-06T09:38:24Z,commit changes,Andarist,fe6890ad539e8394b77f9f16b137ad8fb4788f49
+58781,2024-06-06T09:39:05+00:00,create PR,Andarist,58786
+58781,2024-06-06T09:39:06Z,link PR to issue,Andarist,58786
+58781,2024-06-06T09:39:09Z,add label to PR,typescript-bot,For Uncommitted Bug
+58781,2024-06-06T09:42:39Z,commit changes,Andarist,27d94c52297a67f4a873f787b284e47fe4fbe17b
+58781,2024-06-06T21:29:50Z,commit changes,Andarist,f119176fdf85c049e4d2d626c6fc812ba3db2b40
+58781,2024-06-06T21:33:31Z,commit changes,Andarist,2a0a4a07b257d876d5280a1fca51c35ef7d34dad
+58781,2024-06-06T21:34:54Z,commit changes,Andarist,52d1f44d2c6991da2faf3b0b93f4f8608bd04e0d
+58781,2024-06-06T22:07:43Z,commit changes,Andarist,227a0f6a3527239990dd29c0db0ddd6f9ba9f0e7
+58781,2024-06-06T22:08:44Z,request review for PR,Andarist,weswigham
+58781,2024-06-07T16:07:47Z,add label to issue,RyanCavanaugh,Bug
+58781,2024-06-07T16:07:56Z,add milestone to issue,RyanCavanaugh,TypeScript 5.5.2
+58781,2024-06-07T16:08:01Z,assign user to issue,andrewbranch,andrewbranch
+58781,2024-06-13T17:58:59Z,review PR,weswigham,58786
+58781,2024-06-13T17:59:26Z,merge PR,weswigham,
+58781,2024-06-13T17:59:26Z,close PR,weswigham,
+58781,2024-06-13T17:59:27Z,close issue,weswigham,
+58781,2024-06-13T17:59:29Z,assign user to PR,andrewbranch,andrewbranch
+58781,2024-06-13T18:45:10Z,assign user to issue,weswigham,weswigham
+58781,2024-06-13T18:45:10Z,unassign user from issue,andrewbranch,andrewbranch
+59845,2024-09-04T08:08:04+00:00,create issue,Andarist,Error: Debug Failure. False expression. at tryGetImportFromModuleSpecifier
+59845,2024-09-04T21:57:15Z,add label to issue,RyanCavanaugh,Bug
+59845,2024-09-04T21:57:29Z,assign user to issue,andrewbranch,andrewbranch
+59845,2024-09-04T21:57:31Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59845,2024-09-07T21:28:12Z,commit changes,Andarist,81b2e2c89b65a89b15bfaa5c26f46483dca876b1
+59845,2024-09-07T21:28:54+00:00,create PR,Andarist,59889
+59845,2024-09-07T21:28:55Z,link PR to issue,Andarist,59889
+59845,2024-09-07T21:28:57Z,assign user to PR,andrewbranch,andrewbranch
+59845,2024-09-07T21:28:58Z,add label to issue,typescript-bot,Fix Available
+59845,2024-09-07T21:28:58Z,add label to PR,typescript-bot,For Milestone Bug
+59845,2024-09-19T22:59:27Z,review PR,andrewbranch,59889
+59845,2024-09-19T22:59:36Z,merge PR,andrewbranch,
+59845,2024-09-19T22:59:37Z,close PR,andrewbranch,
+59845,2024-09-19T22:59:38Z,close issue,andrewbranch,
+58583,2024-05-20T10:02:46+00:00,create issue,acutmore,Declaration emit not dropping untyped computed property name
+58583,2024-05-23T16:40:11Z,add label to issue,weswigham,Bug
+58583,2024-05-23T16:40:11Z,add label to issue,weswigham,Domain: Declaration Emit
+58583,2024-05-23T16:40:11Z,add label to issue,weswigham,Recent Regression
+58583,2024-05-23T16:40:17Z,add milestone to issue,weswigham,TypeScript 5.5.1
+58583,2024-05-24T14:28:02Z,commit changes,dragomirtitian,1a3b926bd58b2bfcce240c53374aec17e30356a5
+58583,2024-05-24T14:31:31+00:00,create PR,dragomirtitian,58646
+58583,2024-05-24T14:31:32Z,link PR to issue,dragomirtitian,58646
+58583,2024-05-24T14:31:35Z,add label to issue,typescript-bot,Fix Available
+58583,2024-05-24T14:31:35Z,add label to PR,typescript-bot,For Milestone Bug
+58583,2024-05-24T14:39:13Z,head ref force pushed,dragomirtitian,
+58583,2024-05-24T17:25:38Z,review PR,weswigham,58646
+58583,2024-05-24T17:25:46Z,merge PR,weswigham,
+58583,2024-05-24T17:25:46Z,close PR,weswigham,
+58583,2024-05-24T17:25:47Z,close issue,weswigham,
+59304,2024-07-16T08:34:10+00:00,create issue,huseeiin,Convert to ESM uses template strings instead of string literals
+59304,2024-07-16T09:07:02Z,assign user to issue,mjbvz,mjbvz
+59304,2024-07-16T17:53:40Z,transferred,mjbvz,
+59304,2024-07-16T17:53:46Z,unassign user from issue,mjbvz,mjbvz
+59304,2024-07-16T18:14:19Z,add label to issue,DanielRosenwasser,Bug
+59304,2024-07-16T18:14:19Z,add label to issue,DanielRosenwasser,Help Wanted
+59304,2024-07-16T18:14:19Z,add label to issue,DanielRosenwasser,Domain: Refactorings
+59304,2024-07-16T18:14:19Z,add label to issue,DanielRosenwasser,Effort: Casual
+59304,2024-07-16T18:14:24Z,add milestone to issue,DanielRosenwasser,Backlog
+59304,2024-07-16T18:15:02Z,rename issue,DanielRosenwasser,Convert to ESM uses template strings instead of string literals
+59304,2024-07-16T18:48:44Z,commit changes,a-tarasyuk,ce1c83ebc38b2ebf7a0a9806f78ee5e6bfab69d9
+59304,2024-07-16T18:53:43+00:00,create PR,a-tarasyuk,59306
+59304,2024-07-16T18:53:44Z,link PR to issue,a-tarasyuk,59306
+59304,2024-07-16T18:53:46Z,add label to PR,typescript-bot,For Backlog Bug
+59304,2024-07-16T20:02:57Z,request review for PR,a-tarasyuk,jakebailey
+59304,2024-07-16T20:44:17Z,review PR,DanielRosenwasser,59306
+59304,2024-07-16T21:02:30Z,review PR,jakebailey,59306
+59304,2024-07-16T21:02:40Z,merge PR,jakebailey,
+59304,2024-07-16T21:02:40Z,close PR,jakebailey,
+59304,2024-07-16T21:02:41Z,close issue,jakebailey,
+58740,2024-06-03T00:34:55+00:00,create issue,mjbvz,Debug failure on paste with imports
+58740,2024-06-03T00:35:35Z,assign user to issue,navya9singh,navya9singh
+58740,2024-06-03T17:37:46Z,add label to issue,DanielRosenwasser,Bug
+58740,2024-06-03T17:37:46Z,add label to issue,DanielRosenwasser,Domain: Auto-import
+58740,2024-06-03T17:37:55Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.2
+58740,2024-06-20T17:16:39Z,commit changes,navya9singh,e31bb29504ac7c763e47a90b7db2c1ac7893819d
+58740,2024-06-20T18:18:03Z,remove milestone from issue,DanielRosenwasser,TypeScript 5.5.2
+58740,2024-06-20T18:18:03Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.0
+58740,2024-06-24T20:24:26Z,commit changes,navya9singh,c4d86b83505e3012197e6a7bc533317a8580ad99
+58740,2024-06-24T22:30:09Z,commit changes,navya9singh,1347b9f00652a8d988cdc82b23180b83f4b68915
+58740,2024-06-24T22:38:31Z,commit changes,navya9singh,45af3f007ad544f3c0fc817378032f91c697152e
+58740,2024-06-24T22:50:13+00:00,create PR,navya9singh,59004
+58740,2024-06-24T22:50:14Z,link PR to issue,navya9singh,59004
+58740,2024-06-24T22:50:16Z,assign user to PR,navya9singh,navya9singh
+58740,2024-06-24T22:50:17Z,add label to PR,typescript-bot,Author: Team
+58740,2024-06-24T22:50:18Z,add label to PR,typescript-bot,For Milestone Bug
+58740,2024-06-24T22:50:19Z,add label to issue,typescript-bot,Fix Available
+58740,2024-06-24T22:50:19Z,add label to issue,typescript-bot,Fix Available
+58740,2024-06-24T22:54:06Z,commit changes,navya9singh,9e4a30a4d92eff8d30ff7145d2f0065b40bcad87
+58740,2024-06-24T22:55:03Z,request review for PR,navya9singh,andrewbranch
+58740,2024-06-24T22:55:37Z,rename PR,navya9singh,Error for namespace import debug failure
+58740,2024-06-24T22:55:51Z,rename PR,navya9singh,Fixing namespace import debug failure
+58740,2024-06-25T18:02:22Z,review PR,andrewbranch,59004
+58740,2024-06-27T18:13:12Z,commit changes,navya9singh,e35b0f743bf3b6766ce38e935e858dbcd39c67d8
+58740,2024-06-27T18:29:44Z,commit changes,navya9singh,c0aaae444f1c04077239d536f461dc909e38f5d6
+58740,2024-06-27T18:32:17Z,commit changes,navya9singh,dc452e8b7fde844ae1ea73fbdad774c16574d277
+58740,2024-06-27T18:38:42Z,review PR,andrewbranch,59004
+58740,2024-07-11T17:45:42Z,commit changes,navya9singh,d47ff25e963101a67dcc6cfbf53e690fc425a5ee
+58740,2024-07-11T19:02:06Z,commit changes,navya9singh,ba4c3dda2dd51a2f121ad66221047f5f1a6914a3
+58740,2024-07-11T20:03:46Z,commit changes,navya9singh,fb453ee7c79fa6027107bbf02786acc2ed21a638
+58740,2024-07-11T20:26:47Z,commit changes,navya9singh,ba364e8c2c6de30d572e54360dadcb69e42bf912
+58740,2024-07-15T19:18:32Z,commit changes,navya9singh,b21b4a1f0cd8eaa3b8fc49a04fdffbf036a0190c
+58740,2024-07-15T19:21:50Z,commit changes,navya9singh,b23e6d841d121f93ae904b9f1b501218e2fdebaa
+58740,2024-07-15T19:37:23Z,request review for PR,navya9singh,andrewbranch
+58740,2024-07-18T17:51:40Z,commit changes,navya9singh,cb06e8f6aaa500b55e282c50b68d8707cdb5f355
+58740,2024-07-18T18:06:16Z,request review for PR,navya9singh,andrewbranch
+58740,2024-07-19T21:31:19Z,ready for review,navya9singh,
+58740,2024-07-20T00:08:47Z,commit changes,navya9singh,2a432e4d5824a629c9cdc05ff00a0bea0670aa72
+58740,2024-07-22T23:13:54Z,request review for PR,navya9singh,andrewbranch
+58740,2024-07-22T23:20:03Z,commit changes,navya9singh,e3deb17228932d6c39cdddddd60ddce0b759fb7a
+58740,2024-10-14T22:55:52Z,commit changes,iisaduan,616c423e41c70e61eef45c1a423aa1dd2cc2231d
+58740,2024-10-15T18:04:49Z,commit changes,iisaduan,12618007cfe35e536fc83b398b236629db8f751c
+58740,2024-10-21T05:20:57Z,commit changes,iisaduan,1c1a88e8cc8432f10d1b64399d0c124b210ba5ff
+58740,2024-10-21T17:23:31Z,commit changes,iisaduan,03ffc581f45ff33c14e97a9557b36d3783279058
+58740,2024-10-21T23:05:12Z,commit changes,iisaduan,90e89e65ef92a7694cfe10138740fa5eee947b7e
+58740,2024-10-22T19:21:49Z,link PR to issue,iisaduan,5
+58740,2024-10-22T19:27:07Z,commit changes,iisaduan,3ca07d106ad8f525fb690046a58efa6886807cb3
+58740,2024-10-23T23:50:04Z,commit changes,iisaduan,a20c2bb8d3480dc9cc23b892399a88e8573c6864
+58740,2024-10-23T23:55:41+00:00,create PR,iisaduan,60333
+58740,2024-10-23T23:55:41Z,request review for PR,iisaduan,andrewbranch
+58740,2024-10-23T23:55:41Z,request review for PR,iisaduan,navya9singh
+58740,2024-10-23T23:55:42Z,link PR to issue,iisaduan,60333
+58740,2024-10-24T21:30:53Z,commit changes,iisaduan,21a65986e2e01431c4d4bfaa7194bf79b6546736
+58740,2024-10-31T23:46:40Z,review PR,andrewbranch,60333
+58740,2024-11-01T00:03:12Z,merge PR,iisaduan,
+58740,2024-11-01T00:03:12Z,close PR,iisaduan,
+58740,2024-11-01T00:03:14Z,close issue,iisaduan,
+58740,2024-11-01T00:03:17Z,close PR,iisaduan,
+58740,2024-11-01T00:03:26Z,delete PR branch,iisaduan,60333
+58807,2024-06-08T11:14:03+00:00,create issue,MichaelMitchell-at,[nightly] Syntactically invalid declaration files emitted under extremely specific conditions
+58807,2024-06-09T20:23:09Z,commit changes,Andarist,c51749a5cf80dee6ac35092e5a2533ad5b86db3d
+58807,2024-06-09T20:24:19+00:00,create PR,Andarist,58810
+58807,2024-06-09T20:24:19Z,link PR to issue,Andarist,58810
+58807,2024-06-09T20:24:22Z,add label to PR,typescript-bot,For Uncommitted Bug
+58807,2024-06-11T17:05:37Z,review PR,weswigham,58810
+58807,2024-06-11T17:05:57Z,add label to issue,weswigham,Bug
+58807,2024-06-11T17:05:57Z,add label to issue,weswigham,Domain: Declaration Emit
+58807,2024-06-11T17:05:57Z,add label to issue,weswigham,Fix Available
+58807,2024-06-11T17:06:03Z,add milestone to issue,weswigham,TypeScript 5.5.2
+58807,2024-06-12T17:59:53Z,assign user to PR,weswigham,weswigham
+58807,2024-06-12T17:59:55Z,remove label from PR,typescript-bot,For Uncommitted Bug
+58807,2024-06-12T17:59:56Z,add label to PR,typescript-bot,For Milestone Bug
+58807,2024-06-12T18:56:11Z,commit changes,Andarist,68a0fcf94bb2640a9fa0ca1e86361d7e80ff3a8f
+58807,2024-06-12T19:03:25Z,request review for PR,Andarist,jakebailey
+58807,2024-06-12T19:56:46Z,commit changes,Andarist,2a217f0d3c0eae3e2c6bac265499d9eee362c743
+58807,2024-06-12T20:48:11Z,review PR,jakebailey,58810
+58807,2024-06-14T15:14:05Z,merge PR,jakebailey,
+58807,2024-06-14T15:14:05Z,close PR,jakebailey,
+58807,2024-06-14T15:14:07Z,close issue,jakebailey,
+59701,2024-08-20T22:47:40+00:00,create issue,DanielRosenwasser,Assertion failure when move-to-file code contains entities from ambient module
+59701,2024-08-20T22:47:40Z,add label to issue,DanielRosenwasser,Bug
+59701,2024-08-20T22:47:40Z,add label to issue,DanielRosenwasser,Domain: Refactorings
+59701,2024-08-20T22:47:40Z,add milestone to issue,DanielRosenwasser,TypeScript 5.7.0
+59701,2024-08-20T22:49:33Z,assign user to issue,navya9singh,navya9singh
+59701,2024-10-14T22:55:52Z,commit changes,iisaduan,616c423e41c70e61eef45c1a423aa1dd2cc2231d
+59701,2024-10-15T18:04:49Z,commit changes,iisaduan,12618007cfe35e536fc83b398b236629db8f751c
+59701,2024-10-21T05:20:57Z,commit changes,iisaduan,1c1a88e8cc8432f10d1b64399d0c124b210ba5ff
+59701,2024-10-21T17:23:31Z,commit changes,iisaduan,03ffc581f45ff33c14e97a9557b36d3783279058
+59701,2024-10-21T23:05:12Z,commit changes,iisaduan,90e89e65ef92a7694cfe10138740fa5eee947b7e
+59701,2024-10-22T19:21:49Z,link PR to issue,iisaduan,5
+59701,2024-10-22T19:27:07Z,commit changes,iisaduan,3ca07d106ad8f525fb690046a58efa6886807cb3
+59701,2024-10-23T23:50:04Z,commit changes,iisaduan,a20c2bb8d3480dc9cc23b892399a88e8573c6864
+59701,2024-10-23T23:55:41+00:00,create PR,iisaduan,60333
+59701,2024-10-23T23:55:41Z,request review for PR,iisaduan,andrewbranch
+59701,2024-10-23T23:55:41Z,request review for PR,iisaduan,navya9singh
+59701,2024-10-23T23:55:42Z,link PR to issue,iisaduan,60333
+59701,2024-10-24T21:30:53Z,commit changes,iisaduan,21a65986e2e01431c4d4bfaa7194bf79b6546736
+59701,2024-10-31T23:46:40Z,review PR,andrewbranch,60333
+59701,2024-11-01T00:03:12Z,merge PR,iisaduan,
+59701,2024-11-01T00:03:12Z,close PR,iisaduan,
+59701,2024-11-01T00:03:16Z,close issue,iisaduan,
+59701,2024-11-01T00:03:26Z,delete PR branch,iisaduan,60333
+60396,2024-11-03T15:46:52+00:00,create issue,d00rsfan,rewriteRelativeImportExtensions with import mjs file into mts file => TS2876: This relative import path is unsafe
+60396,2024-11-04T17:48:51Z,commit changes,andrewbranch,33366d1a276ba5ac1e597ba99a575bf0eb3f57ff
+60396,2024-11-04T17:50:10+00:00,create PR,andrewbranch,60415
+60396,2024-11-04T17:50:14Z,assign user to PR,andrewbranch,andrewbranch
+60396,2024-11-04T17:50:15Z,add label to PR,typescript-bot,Author: Team
+60396,2024-11-04T17:50:16Z,add label to PR,typescript-bot,For Milestone Bug
+60396,2024-11-04T17:52:06Z,request review for PR,andrewbranch,sandersn
+60396,2024-11-04T21:10:38Z,add label to issue,RyanCavanaugh,Bug
+60396,2024-11-04T21:10:42Z,assign user to issue,andrewbranch,andrewbranch
+60396,2024-11-04T21:10:44Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.1
+60396,2024-11-04T21:41:48Z,link PR to issue,andrewbranch,60415
+60396,2024-11-04T21:41:51Z,add label to issue,typescript-bot,Fix Available
+60396,2024-11-05T19:18:27Z,request review for PR,andrewbranch,jakebailey
+60396,2024-11-05T19:19:06Z,review PR,jakebailey,60415
+60396,2024-11-05T20:50:18Z,merge PR,andrewbranch,
+60396,2024-11-05T20:50:18Z,close PR,andrewbranch,
+60396,2024-11-05T20:50:20Z,close issue,andrewbranch,
+60396,2024-11-05T20:50:22Z,delete PR branch,andrewbranch,60415
+58806,2024-06-08T01:30:09+00:00,create issue,DanielRosenwasser,"Assertion violation in ""move to new file"""
+58806,2024-06-08T01:30:50Z,add label to issue,DanielRosenwasser,Bug
+58806,2024-06-08T01:30:51Z,add label to issue,DanielRosenwasser,Help Wanted
+58806,2024-06-08T01:30:51Z,add label to issue,DanielRosenwasser,Effort: Moderate
+58806,2024-06-08T01:30:51Z,add label to issue,DanielRosenwasser,Domain: Refactorings
+58806,2024-06-08T01:31:02Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.0
+58806,2024-06-08T01:31:14Z,assign user to issue,navya9singh,navya9singh
+58806,2024-06-09T20:32:48Z,commit changes,a-tarasyuk,5726e7260bdd600fe92e6aa8694a5255dfc38d43
+58806,2024-06-09T20:34:03+00:00,create PR,a-tarasyuk,58811
+58806,2024-06-09T20:34:06Z,add label to PR,typescript-bot,For Uncommitted Bug
+58806,2024-06-10T23:57:35Z,request review for PR,DanielRosenwasser,andrewbranch
+58806,2024-06-10T23:57:35Z,request review for PR,DanielRosenwasser,gabritto
+58806,2024-06-10T23:57:36Z,request review for PR,DanielRosenwasser,navya9singh
+58806,2024-06-11T16:45:39Z,review PR,andrewbranch,58811
+58806,2024-06-12T18:01:06Z,assign user to PR,andrewbranch,andrewbranch
+58806,2024-06-12T19:32:46Z,link PR to issue,a-tarasyuk,58811
+58806,2024-06-12T20:32:55Z,assign user to PR,navya9singh,navya9singh
+58806,2024-06-12T20:32:55Z,unassign user from PR,andrewbranch,andrewbranch
+58806,2024-06-18T23:32:35Z,remove milestone from issue,DanielRosenwasser,TypeScript 5.6.0
+58806,2024-06-18T23:32:35Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.2
+58806,2024-06-19T00:23:59Z,review PR,DanielRosenwasser,58811
+58806,2024-06-19T00:24:22Z,merge PR,DanielRosenwasser,
+58806,2024-06-19T00:24:23Z,close PR,DanielRosenwasser,
+58806,2024-07-26T21:51:30Z,remove milestone from issue,RyanCavanaugh,TypeScript 5.5.2
+58806,2024-07-26T21:51:30Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+58806,2024-07-26T21:51:35Z,add label to issue,RyanCavanaugh,Rescheduled
+58806,2024-10-08T21:29:42Z,close issue,iisaduan,
+59463,2024-07-29T19:25:04+00:00,create issue,scr4bble,"Feature that displays method argument names inline does not correctly handle method overloading (so variable name is taken from bad overload, probably from the first method definition)."
+59463,2024-07-29T20:03:04Z,assign user to issue,mjbvz,mjbvz
+59463,2024-07-29T20:56:10Z,transferred,mjbvz,
+59463,2024-07-29T20:56:14Z,unassign user from issue,mjbvz,mjbvz
+59463,2024-07-29T23:16:31Z,add label to issue,RyanCavanaugh,Needs More Info
+59463,2024-07-31T23:01:15Z,remove label from issue,RyanCavanaugh,Needs More Info
+59463,2024-07-31T23:01:44Z,add label to issue,RyanCavanaugh,Bug
+59463,2024-07-31T23:01:44Z,add label to issue,RyanCavanaugh,Help Wanted
+59463,2024-07-31T23:01:44Z,add label to issue,RyanCavanaugh,Domain: Inlay Hints
+59463,2024-07-31T23:01:46Z,add milestone to issue,RyanCavanaugh,Backlog
+59463,2024-08-01T18:33:12Z,commit changes,a-tarasyuk,05c2f6c6c9a07541e90e4debc26febe4e0e89592
+59463,2024-08-01T18:33:59+00:00,create PR,a-tarasyuk,59504
+59463,2024-08-01T18:34:00Z,link PR to issue,a-tarasyuk,59504
+59463,2024-08-01T18:34:03Z,add label to PR,typescript-bot,For Backlog Bug
+59463,2024-08-01T18:56:28Z,commit changes,a-tarasyuk,fef62f0020501bb1338fa06598dd6d3b3c8449ba
+59463,2024-08-01T19:09:46Z,request review for PR,DanielRosenwasser,gabritto
+59463,2024-08-01T19:09:46Z,request review for PR,DanielRosenwasser,MariaSolOs
+59463,2024-08-01T19:43:19Z,review PR,MariaSolOs,59504
+59463,2024-08-09T20:33:53Z,request review for PR,a-tarasyuk,DanielRosenwasser
+59463,2024-10-06T15:07:59Z,commit changes,a-tarasyuk,8fbfab7df86c5972767aba073cc654a46fbe52b3
+59463,2024-10-18T21:41:00Z,review PR,gabritto,59504
+59463,2024-10-18T21:44:43Z,merge PR,gabritto,
+59463,2024-10-18T21:44:43Z,close PR,gabritto,
+59463,2024-10-18T21:44:44Z,close issue,gabritto,
+59649,2024-08-15T10:21:00+00:00,create issue,tjx666,ts `Move to a new file` doesn't respect `importModuleSpecifier` setting
+59649,2024-08-15T11:03:50Z,assign user to issue,mjbvz,mjbvz
+59649,2024-08-15T22:24:01Z,transferred,mjbvz,
+59649,2024-08-16T22:08:46Z,add label to issue,RyanCavanaugh,Bug
+59649,2024-08-16T22:08:50Z,assign user to issue,navya9singh,navya9singh
+59649,2024-08-16T22:08:50Z,unassign user from issue,mjbvz,mjbvz
+59649,2024-08-16T22:08:53Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59649,2024-08-17T19:18:54Z,commit changes,a-tarasyuk,c5c7dc666e7eb97149735a3ead32e37f9b1e8f11
+59649,2024-08-17T19:21:59+00:00,create PR,a-tarasyuk,59670
+59649,2024-08-17T19:22:00Z,link PR to issue,a-tarasyuk,59670
+59649,2024-08-17T19:22:02Z,assign user to PR,navya9singh,navya9singh
+59649,2024-08-17T19:22:03Z,add label to PR,typescript-bot,For Milestone Bug
+59649,2024-08-17T19:22:04Z,add label to issue,typescript-bot,Fix Available
+59649,2024-08-22T23:46:08Z,review PR,DanielRosenwasser,59670
+59649,2024-08-22T23:46:28Z,merge PR,DanielRosenwasser,
+59649,2024-08-22T23:46:28Z,close PR,DanielRosenwasser,
+59649,2024-08-22T23:46:30Z,close issue,DanielRosenwasser,
+59649,2024-08-22T23:47:50Z,remove milestone from issue,DanielRosenwasser,TypeScript 5.7.0
+59649,2024-08-22T23:47:50Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.2
+59107,2024-07-02T06:45:53+00:00,create issue,fenying,Generic return type of function is missing of nested name-quoted properties
+59107,2024-07-02T09:39:45Z,commit changes,Andarist,49f75f59978eb0e616f1ac43e11f355baa9efd9a
+59107,2024-07-02T09:41:57+00:00,create PR,Andarist,59110
+59107,2024-07-02T09:41:58Z,link PR to issue,Andarist,59110
+59107,2024-07-02T09:42:01Z,add label to PR,typescript-bot,For Uncommitted Bug
+59107,2024-07-02T21:09:22Z,add label to issue,DanielRosenwasser,Bug
+59107,2024-07-02T21:09:22Z,add label to issue,DanielRosenwasser,Domain: Declaration Emit
+59107,2024-07-02T21:09:32Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.4
+59107,2024-07-02T21:09:37Z,assign user to issue,weswigham,weswigham
+59107,2024-07-09T18:21:47Z,review PR,weswigham,59110
+59107,2024-07-09T18:21:52Z,merge PR,weswigham,
+59107,2024-07-09T18:21:52Z,close PR,weswigham,
+59107,2024-07-09T18:21:53Z,close issue,weswigham,
+59107,2024-07-09T18:21:54Z,assign user to PR,weswigham,weswigham
+59107,2024-07-09T18:58:15Z,delete PR branch,Andarist,59110
+59821,2024-09-01T21:31:23+00:00,create issue,gentlee,RangeError: Maximum call stack size exceeded
+59821,2024-09-03T16:02:07Z,add label to issue,RyanCavanaugh,Bug
+59821,2024-09-03T16:02:10Z,assign user to issue,weswigham,weswigham
+59821,2024-09-03T16:02:13Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59821,2024-09-10T17:30:43Z,commit changes,weswigham,ac986ab76c42066ab08d19036a8c3e87f8ca3b6d
+59821,2024-09-10T17:50:12Z,commit changes,weswigham,a9898b9a214e2e5a218fc9b1cd80276f9e56eb00
+59821,2024-09-10T17:50:44+00:00,create PR,weswigham,59931
+59821,2024-09-10T17:50:44Z,request review for PR,weswigham,sandersn
+59821,2024-09-10T17:50:44Z,request review for PR,weswigham,andrewbranch
+59821,2024-09-10T17:50:45Z,link PR to issue,weswigham,59931
+59821,2024-09-10T17:50:47Z,assign user to PR,weswigham,weswigham
+59821,2024-09-10T17:50:47Z,add label to PR,typescript-bot,Author: Team
+59821,2024-09-10T17:50:47Z,add label to PR,typescript-bot,Author: Team
+59821,2024-09-10T17:50:47Z,add label to PR,typescript-bot,Author: Team
+59821,2024-09-10T17:50:49Z,add label to issue,typescript-bot,Fix Available
+59821,2024-09-10T17:50:49Z,add label to issue,typescript-bot,Fix Available
+59821,2024-09-10T17:50:49Z,add label to issue,typescript-bot,Fix Available
+59821,2024-09-10T17:50:49Z,add label to PR,typescript-bot,For Milestone Bug
+59821,2024-09-10T17:50:49Z,add label to PR,typescript-bot,For Milestone Bug
+59821,2024-09-13T21:40:56Z,review PR,sandersn,59931
+59821,2024-09-23T17:46:57Z,merge PR,weswigham,
+59821,2024-09-23T17:46:58Z,close PR,weswigham,
+59821,2024-09-23T17:46:59Z,close issue,weswigham,
+60087,2024-09-27T19:15:16+00:00,create issue,mjbvz,Exception on getPasteEdits between on disk file and unsaved file
+60087,2024-10-01T16:44:55Z,assign user to issue,navya9singh,navya9singh
+60087,2024-10-01T16:44:58Z,add label to issue,RyanCavanaugh,Bug
+60087,2024-10-01T16:45:00Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+60087,2024-10-28T19:39:53Z,commit changes,navya9singh,643bf64b3407bfae22409e20b65d0002215674e7
+60087,2024-10-28T19:45:00+00:00,create PR,navya9singh,60362
+60087,2024-10-28T19:45:01Z,link PR to issue,navya9singh,60362
+60087,2024-10-28T19:45:03Z,assign user to PR,navya9singh,navya9singh
+60087,2024-10-28T19:45:04Z,add label to PR,typescript-bot,Author: Team
+60087,2024-10-28T19:45:06Z,add label to issue,typescript-bot,Fix Available
+60087,2024-10-28T19:45:06Z,add label to PR,typescript-bot,For Milestone Bug
+60087,2024-10-28T20:18:39Z,request review for PR,navya9singh,andrewbranch
+60087,2024-10-29T22:13:48Z,review PR,andrewbranch,60362
+60087,2024-11-01T16:43:43Z,commit changes,navya9singh,e7207d2b3e76019ccdebcb9f4143b2b32c2fb4bd
+60087,2024-11-01T17:46:13Z,request review for PR,navya9singh,andrewbranch
+60087,2024-11-01T22:29:38Z,review PR,andrewbranch,60362
+60087,2024-11-03T05:55:36Z,merge PR,navya9singh,
+60087,2024-11-03T05:55:36Z,close PR,navya9singh,
+60087,2024-11-03T05:55:37Z,close issue,navya9singh,
+60246,2024-10-16T17:59:07+00:00,create issue,mjbvz,No paste edits returned
+60246,2024-10-16T17:59:22Z,assign user to issue,navya9singh,navya9singh
+60246,2024-10-16T19:50:54Z,add label to issue,RyanCavanaugh,Bug
+60246,2024-10-24T20:30:12Z,commit changes,iisaduan,6ed75a5c00e33ab86ea9310ece8af53be60ad488
+60246,2024-10-24T20:44:05Z,commit changes,iisaduan,090277d2852f07bc1f2c94c7b38d4ed289bc174e
+60246,2024-10-24T20:48:45+00:00,create PR,iisaduan,60339
+60246,2024-10-24T20:48:45Z,request review for PR,iisaduan,sandersn
+60246,2024-10-24T20:48:45Z,request review for PR,iisaduan,andrewbranch
+60246,2024-10-24T20:48:45Z,request review for PR,iisaduan,gabritto
+60246,2024-10-24T20:48:45Z,request review for PR,iisaduan,navya9singh
+60246,2024-10-24T20:48:46Z,link PR to issue,iisaduan,60339
+60246,2024-10-24T20:48:47Z,assign user to PR,iisaduan,iisaduan
+60246,2024-10-24T20:48:48Z,add label to PR,typescript-bot,Author: Team
+60246,2024-10-24T20:48:49Z,assign user to PR,navya9singh,navya9singh
+60246,2024-10-24T20:48:50Z,add label to PR,typescript-bot,For Uncommitted Bug
+60246,2024-10-24T20:48:50Z,add label to PR,typescript-bot,For Uncommitted Bug
+60246,2024-10-24T22:02:13Z,commit changes,iisaduan,a57c11b164e26aae5bc356cc6d3cb3cffe270db0
+60246,2024-10-29T20:22:51Z,review PR,sandersn,60339
+60246,2024-10-29T20:43:39Z,commit changes,iisaduan,35579a59f8218a5b904ab2a32d183c35426c076e
+60246,2024-10-29T20:47:16Z,commit changes,iisaduan,34ae29ba7c7e023c3d716362db2ffb17b111cca6
+60246,2024-10-29T21:05:32Z,merge PR,iisaduan,
+60246,2024-10-29T21:05:33Z,close PR,iisaduan,
+60246,2024-10-29T21:05:34Z,close issue,iisaduan,
+60246,2024-10-29T21:05:41Z,delete PR branch,iisaduan,60339
+59558,2024-08-08T10:09:50+00:00,create issue,Soarex16,Implement Interface Quick Fix generates duplicate declarations
+59558,2024-08-08T17:17:41Z,add label to issue,RyanCavanaugh,Bug
+59558,2024-08-08T17:17:44Z,assign user to issue,iisaduan,iisaduan
+59558,2024-08-08T17:17:48Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59558,2024-08-08T18:41:17Z,commit changes,a-tarasyuk,f76b7248000225107664127cae66b6826de64531
+59558,2024-08-08T18:42:10+00:00,create PR,a-tarasyuk,59563
+59558,2024-08-08T18:42:10Z,link PR to issue,a-tarasyuk,59563
+59558,2024-08-08T18:42:14Z,assign user to PR,iisaduan,iisaduan
+59558,2024-08-08T18:42:15Z,add label to PR,typescript-bot,For Milestone Bug
+59558,2024-08-08T18:42:16Z,add label to issue,typescript-bot,Fix Available
+59558,2024-08-08T20:47:14Z,commit changes,a-tarasyuk,fe16455e163a73d1fc1b60dfd074d389792c43a5
+59558,2024-08-09T20:33:34Z,request review for PR,a-tarasyuk,DanielRosenwasser
+59558,2024-08-13T20:43:25Z,commit changes,a-tarasyuk,06035df4124e20be24950b4c7d4c2af13036a0d0
+59558,2024-08-16T22:03:33Z,review PR,iisaduan,59563
+59558,2024-08-16T22:17:58Z,merge PR,iisaduan,
+59558,2024-08-16T22:17:59Z,close PR,iisaduan,
+59558,2024-08-16T22:18:00Z,close issue,iisaduan,
+58493,2024-05-10T15:46:08+00:00,create issue,danvk,Regression in detecting unused parameters in 5.5.0-beta
+58493,2024-05-10T15:47:27Z,add label to issue,RyanCavanaugh,Bug
+58493,2024-05-10T15:47:27Z,add label to issue,RyanCavanaugh,Help Wanted
+58493,2024-05-10T15:47:31Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.0
+58493,2024-05-10T15:47:52Z,remove milestone from issue,RyanCavanaugh,TypeScript 5.6.0
+58493,2024-05-10T15:47:52Z,add milestone to issue,RyanCavanaugh,TypeScript 5.5.1
+58493,2024-05-10T15:48:10Z,assign user to issue,sandersn,sandersn
+58493,2024-05-10T16:03:37Z,commit changes,danvk,257abf68c9f64425b2e3e0eabd68bfbc0cd32d9b
+58493,2024-05-10T16:55:13+00:00,create PR,danvk,58495
+58493,2024-05-10T16:55:14Z,link PR to issue,danvk,58495
+58493,2024-05-10T16:55:17Z,add label to PR,typescript-bot,For Uncommitted Bug
+58493,2024-05-10T18:23:40Z,commit changes,danvk,f89458821e3ab91f1a027ef8a9ed4900ba8a6002
+58493,2024-05-12T13:54:45Z,commit changes,danvk,03ce90fa248248ec3fdb50b5f1fa3e33299e7eba
+58493,2024-05-12T14:03:40Z,commit changes,danvk,6214e93df9a7e13350adf9317470ab9d018f0652
+58493,2024-05-12T14:03:47Z,commit changes,danvk,7b622716ab555f22ce9c867ddefc8c356d4be620
+58493,2024-05-12T15:15:38Z,commit changes,danvk,06426aa126927e336dd5c6865acba9ea2623621f
+58493,2024-05-12T15:22:07Z,commit changes,danvk,4f8c04491395e7ea8a9e124c4aea385429a8f224
+58493,2024-05-13T07:59:59Z,commit changes,Andarist,27ad6f180c141301fa218675d6a41d4e09073c8b
+58493,2024-05-13T08:00:45+00:00,create PR,Andarist,58514
+58493,2024-05-13T08:00:46Z,link PR to issue,Andarist,58514
+58493,2024-05-13T08:00:50Z,assign user to PR,sandersn,sandersn
+58493,2024-05-13T08:00:51Z,add label to PR,typescript-bot,For Milestone Bug
+58493,2024-05-13T08:00:53Z,add label to issue,typescript-bot,Fix Available
+58493,2024-05-13T13:13:38Z,commit changes,danvk,16a42f330bb721d8b2639ec4b67ddf8a2b04f6c2
+58493,2024-05-15T13:01:55Z,commit changes,danvk,b242dbdbd293f1eb5f2f0f9b57b75e124d80ea80
+58493,2024-05-15T13:02:40Z,commit changes,danvk,7f8343ac2967a74a2586f667164d45a53ea7fba0
+58493,2024-05-15T13:38:06Z,ready for review,danvk,
+58493,2024-05-17T21:51:51Z,review PR,sandersn,58514
+58493,2024-05-21T19:30:07Z,commit changes,danvk,d990b14ed0deebb21ec3ac3aa39bfa90862977d2
+58493,2024-06-10T08:09:26Z,commit changes,Andarist,2046dce4fcdcbde80f4032957ba29ac46d6f2596
+58493,2024-06-10T08:13:10Z,commit changes,Andarist,3d0b2b8342d3d16a1d0e5c334eae91a8bbf619b2
+58493,2024-06-10T08:15:03Z,request review for PR,Andarist,sandersn
+58493,2024-06-10T09:48:03Z,head ref force pushed,Andarist,
+58493,2024-06-10T17:13:13Z,commit changes,Andarist,0846b3620ab011b357f3b34d77d30c9992bcd185
+58493,2024-06-12T20:27:05Z,review PR,jakebailey,58514
+58493,2024-06-12T20:27:55Z,review PR,sandersn,58514
+58493,2024-06-12T20:29:59Z,merge PR,jakebailey,
+58493,2024-06-12T20:29:59Z,close PR,jakebailey,
+58493,2024-06-12T20:30:01Z,close issue,jakebailey,
+60118,2024-10-02T16:34:05+00:00,create issue,mjbvz,Crash for copilot code block
+60118,2024-10-07T20:30:39Z,add label to issue,RyanCavanaugh,Bug
+60118,2024-10-07T20:30:43Z,assign user to issue,sandersn,sandersn
+60118,2024-10-07T20:30:45Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+60118,2024-10-30T18:42:05Z,commit changes,sandersn,4c59808788db73e78a3a425638fabb1496333882
+60118,2024-10-30T18:55:28+00:00,create PR,sandersn,60377
+60118,2024-10-30T18:55:29Z,link PR to issue,sandersn,60377
+60118,2024-10-30T18:55:31Z,assign user to PR,sandersn,sandersn
+60118,2024-10-30T18:55:32Z,add label to PR,typescript-bot,Author: Team
+60118,2024-10-30T18:55:33Z,add label to PR,typescript-bot,For Milestone Bug
+60118,2024-10-30T18:55:34Z,add label to issue,typescript-bot,Fix Available
+60118,2024-10-30T18:57:33Z,rename PR,sandersn,Fix a crash in an anonymous buffer that copilot is writing to.
+60118,2024-10-30T22:30:01Z,review PR,iisaduan,60377
+60118,2024-10-30T22:36:20Z,merge PR,sandersn,
+60118,2024-10-30T22:36:20Z,close PR,sandersn,
+60118,2024-10-30T22:36:21Z,close issue,sandersn,
+60118,2024-10-30T22:36:21Z,delete PR branch,sandersn,60377
+58450,2024-05-03T13:48:44Z,commit changes,andrewbranch,246f74bd91036c92a0a4c8a22632e66bc03bd6c5
+58450,2024-05-06T21:36:17+00:00,create issue,andrewbranch,"`importHelpers` with CommonJS `.js` file results in ""This syntax requires an imported helper but module 'tslib' cannot be found"""
+58450,2024-05-06T21:36:21Z,assign user to issue,andrewbranch,andrewbranch
+58450,2024-05-06T21:36:32Z,add label to issue,andrewbranch,Bug
+58450,2024-05-06T21:36:36Z,add milestone to issue,andrewbranch,TypeScript 5.5.1
+58450,2024-05-06T21:38:33+00:00,create PR,andrewbranch,58451
+58450,2024-05-06T21:38:33Z,link PR to issue,andrewbranch,58451
+58450,2024-05-06T21:38:37Z,assign user to PR,andrewbranch,andrewbranch
+58450,2024-05-06T21:38:38Z,add label to PR,typescript-bot,Author: Team
+58450,2024-05-06T21:38:41Z,add label to PR,typescript-bot,For Milestone Bug
+58450,2024-05-06T21:38:42Z,add label to issue,typescript-bot,Fix Available
+58450,2024-05-06T21:39:08Z,request review for PR,andrewbranch,rbuckton
+58450,2024-05-07T15:26:13Z,request review for PR,andrewbranch,jakebailey
+58450,2024-05-07T15:26:28Z,request review for PR,andrewbranch,gabritto
+58450,2024-05-07T15:30:19Z,review PR,jakebailey,58451
+58450,2024-05-07T17:11:40Z,commit changes,andrewbranch,598bb32583baa6bbfd0260404b8cce974ada105c
+58450,2024-05-07T18:28:20Z,merge PR,andrewbranch,
+58450,2024-05-07T18:28:20Z,close PR,andrewbranch,
+58450,2024-05-07T18:28:22Z,close issue,andrewbranch,
+58450,2024-05-07T18:28:23Z,delete PR branch,andrewbranch,58451
+59798,2024-08-29T20:11:47+00:00,create issue,alexdima,Alias import is moved incorrectly when moving code to another file
+59798,2024-08-30T19:53:06Z,add label to issue,RyanCavanaugh,Bug
+59798,2024-08-30T19:53:10Z,assign user to issue,iisaduan,iisaduan
+59798,2024-08-30T19:53:12Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59798,2024-09-07T06:14:24Z,commit changes,iisaduan,b9c2e44d18c5118c6e94fe594e4021a5d1529d78
+59798,2024-09-07T06:24:31Z,commit changes,iisaduan,35513d3668d7abebeddf6217c58cde930ab83edf
+59798,2024-09-07T07:02:14+00:00,create PR,iisaduan,59885
+59798,2024-09-07T07:02:15Z,link PR to issue,iisaduan,59885
+59798,2024-09-07T07:02:17Z,assign user to PR,iisaduan,iisaduan
+59798,2024-09-07T07:02:18Z,add label to PR,typescript-bot,Author: Team
+59798,2024-09-07T07:02:19Z,add label to PR,typescript-bot,For Milestone Bug
+59798,2024-09-07T07:02:20Z,add label to issue,typescript-bot,Fix Available
+59798,2024-09-07T07:02:28Z,request review for PR,iisaduan,navya9singh
+59798,2024-09-07T07:02:42Z,request review for PR,iisaduan,andrewbranch
+59798,2024-09-07T07:51:36Z,commit changes,iisaduan,d0b08bd8c51f201faaaae49b51b1bd6c66b03ae9
+59798,2024-09-08T05:45:24Z,rename PR,iisaduan,add support for autoimports/moveToFile to generate aliased named imports
+59798,2024-09-09T17:57:30Z,review PR,andrewbranch,59885
+59798,2024-09-10T22:10:20Z,commit changes,iisaduan,a116dc7ff1629b3e8c3e26ec472f415957f8ce4c
+59798,2024-09-10T22:38:37Z,merge PR,iisaduan,
+59798,2024-09-10T22:38:37Z,close PR,iisaduan,
+59798,2024-09-10T22:38:38Z,close issue,iisaduan,
+59798,2024-09-10T22:38:46Z,delete PR branch,iisaduan,59885
+59836,2024-09-03T07:36:43+00:00,create issue,imcotton,`Array.fromAsync` type define on its `mapFn` missing the index as second argument
+59836,2024-09-03T07:50:34Z,commit changes,Andarist,01fb2252d59fbf6db7f4cdc7731c2c73e25513e7
+59836,2024-09-03T07:51:05+00:00,create PR,Andarist,59837
+59836,2024-09-03T07:51:06Z,link PR to issue,Andarist,59837
+59836,2024-09-03T07:51:08Z,add label to PR,typescript-bot,For Uncommitted Bug
+59836,2024-09-03T15:40:00Z,add label to issue,RyanCavanaugh,Bug
+59836,2024-09-03T15:40:03Z,add milestone to issue,RyanCavanaugh,Backlog
+59836,2024-09-03T17:07:25Z,review PR,iisaduan,59837
+59836,2024-09-03T17:18:18Z,merge PR,iisaduan,
+59836,2024-09-03T17:18:18Z,close PR,iisaduan,
+59836,2024-09-03T17:18:19Z,close issue,iisaduan,
+59177,2024-06-29T19:08:36Z,commit changes,Andarist,9cc30dc5ad190ebadabc6487b899ee7b77b31e14
+59177,2024-06-29T19:09:37+00:00,create PR,Andarist,59075
+59177,2024-06-29T19:09:39Z,add label to PR,typescript-bot,For Uncommitted Bug
+59177,2024-07-04T14:00:35Z,commit changes,ahejlsberg,cc7777358b896abe13456930cd899bfba03e51bf
+59177,2024-07-04T14:09:03Z,commit changes,ahejlsberg,5cf08e52b8e7e2462cd9ae31bd0206f2f8f88153
+59177,2024-07-04T23:50:32Z,commit changes,ahejlsberg,bdfc038fc02aa36754a882b4b0e2d031fa1ff075
+59177,2024-07-04T23:50:52Z,commit changes,ahejlsberg,f4652e184e415a44fe1d496214ce743bbc2966d6
+59177,2024-07-08T17:17:40+00:00,create issue,ahejlsberg,Ghost errors and inconsistencies in destructuring patterns
+59177,2024-07-08T17:22:36Z,assign user to issue,ahejlsberg,ahejlsberg
+59177,2024-07-08T17:22:40Z,add label to issue,ahejlsberg,Bug
+59177,2024-07-08T17:22:50Z,add milestone to issue,ahejlsberg,TypeScript 5.6.0
+59177,2024-07-08T17:37:05Z,link PR to issue,JoostK,59075
+59177,2024-07-08T19:17:24Z,commit changes,ahejlsberg,1c45b7f0021a30cd842ecc204878072cc927ba92
+59177,2024-07-08T19:17:50Z,commit changes,ahejlsberg,215ba5b97cc6aa900f9950fabfa4f4bbc08fb84b
+59177,2024-07-08T19:21:35+00:00,create PR,ahejlsberg,59183
+59177,2024-07-08T19:21:36Z,link PR to issue,ahejlsberg,59183
+59177,2024-07-08T19:21:38Z,assign user to PR,ahejlsberg,ahejlsberg
+59177,2024-07-08T19:21:39Z,add label to PR,typescript-bot,Author: Team
+59177,2024-07-08T19:21:41Z,add label to PR,typescript-bot,For Backlog Bug
+59177,2024-07-08T19:21:41Z,add label to PR,typescript-bot,For Milestone Bug
+59177,2024-07-08T19:21:42Z,add label to issue,typescript-bot,Fix Available
+59177,2024-07-08T19:21:42Z,add label to issue,typescript-bot,Fix Available
+59177,2024-07-09T00:37:35Z,commit changes,ahejlsberg,aecda54eb3d19292053b0dad92241b7aacbd0009
+59177,2024-07-09T13:31:38Z,commit changes,ahejlsberg,e23ad6194fa9b98484e212e964d2b76e5eb6091b
+59177,2024-07-09T13:46:56Z,commit changes,ahejlsberg,d36e028769a51715bdc708887a17b85e214175b1
+59177,2024-07-09T14:10:40Z,request review for PR,ahejlsberg,DanielRosenwasser
+59177,2024-07-09T14:10:40Z,request review for PR,ahejlsberg,RyanCavanaugh
+59177,2024-07-09T17:44:41Z,close PR,Andarist,
+59177,2024-07-09T17:45:44Z,delete PR branch,Andarist,59075
+59177,2024-07-15T20:24:05Z,review PR,RyanCavanaugh,59183
+59177,2024-07-15T20:48:46Z,close issue,ahejlsberg,
+59201,2024-07-09T15:16:37+00:00,create issue,simon-paris,Circular declarations cause infinite loops in getExportInfos since v5.5
+59201,2024-07-09T16:03:52Z,assign user to issue,andrewbranch,andrewbranch
+59201,2024-07-09T16:04:01Z,add label to issue,andrewbranch,Bug
+59201,2024-07-09T16:04:01Z,add label to issue,andrewbranch,Crash
+59201,2024-07-09T16:04:08Z,add milestone to issue,andrewbranch,TypeScript 5.5.4
+59201,2024-07-09T23:35:11Z,commit changes,andrewbranch,6325a2bf8397eed95ccefaca35d2353ebffc3321
+59201,2024-07-10T00:00:48Z,commit changes,andrewbranch,0387b947928db15647d265199c6c92d5473f2ae3
+59201,2024-07-10T00:01:30+00:00,create PR,andrewbranch,59215
+59201,2024-07-10T00:01:30Z,link PR to issue,andrewbranch,59215
+59201,2024-07-10T00:01:33Z,assign user to PR,andrewbranch,andrewbranch
+59201,2024-07-10T00:01:33Z,add label to PR,typescript-bot,Author: Team
+59201,2024-07-10T00:01:35Z,add label to PR,typescript-bot,For Milestone Bug
+59201,2024-07-10T00:01:36Z,add label to issue,typescript-bot,Fix Available
+59201,2024-07-10T01:37:19Z,close PR,jakebailey,
+59201,2024-07-10T01:37:21Z,reopen PR,jakebailey,
+59201,2024-07-10T16:37:22Z,request review for PR,andrewbranch,iisaduan
+59201,2024-07-10T16:37:22Z,request review for PR,andrewbranch,navya9singh
+59201,2024-07-10T20:24:25Z,review PR,iisaduan,59215
+59201,2024-07-10T22:37:12Z,merge PR,andrewbranch,
+59201,2024-07-10T22:37:12Z,close PR,andrewbranch,
+59201,2024-07-10T22:37:13Z,close issue,andrewbranch,
+59201,2024-07-10T22:37:15Z,delete PR branch,andrewbranch,59215
+58687,2023-08-14T17:02:50Z,commit changes,Andarist,12dbb98d5b7f092f857a70f6561bc1dcbcdee0cc
+58687,2023-08-14T17:04:15+00:00,create PR,Andarist,55371
+58687,2023-08-14T17:04:19Z,add label to PR,typescript-bot,For Uncommitted Bug
+58687,2023-08-14T17:34:46Z,head ref force pushed,Andarist,
+58687,2023-08-16T22:58:53Z,commit changes,Andarist,d6fe15f8dbd249cf7e80a84fae69578caf65df00
+58687,2023-08-16T22:59:07Z,remove label from PR,typescript-bot,For Uncommitted Bug
+58687,2023-08-16T22:59:08Z,add label to PR,typescript-bot,For Backlog Bug
+58687,2023-08-23T20:25:09Z,add PR to project,sandersn,3886818
+58687,2023-08-23T23:17:15Z,request review for PR,sandersn,weswigham
+58687,2023-08-23T23:17:16Z,request review for PR,sandersn,gabritto
+58687,2023-08-23T23:17:21Z,assign user to PR,gabritto,gabritto
+58687,2023-09-13T18:54:50Z,review PR,weswigham,55371
+58687,2024-01-24T13:19:19Z,commit changes,Andarist,7a4bc1b5ca220d777b32cd3f9da459628cef3ddb
+58687,2024-01-24T23:02:35Z,commit changes,Andarist,c978136d122e4671792ce5a9bf95e50170257713
+58687,2024-01-24T23:06:29Z,commit changes,Andarist,aac896109e605249b00de24df4e24e3519a6003c
+58687,2024-01-25T22:52:34Z,review PR,gabritto,55371
+58687,2024-03-14T20:08:13Z,commit changes,Andarist,6d63a94587602098236c9ab1882d205ef006a192
+58687,2024-05-29T00:12:33+00:00,create issue,ahejlsberg,Template literal type reduction is inconsistent (regression in 5.5-beta)
+58687,2024-05-29T00:13:01Z,add label to issue,ahejlsberg,Bug
+58687,2024-05-29T00:13:07Z,add label to issue,ahejlsberg,Recent Regression
+58687,2024-05-29T00:13:16Z,add milestone to issue,ahejlsberg,TypeScript 5.5.1
+58687,2024-05-29T00:18:13Z,link PR to issue,ahejlsberg,55371
+58687,2024-05-29T18:39:29Z,commit changes,gabritto,f62cc7a2c0f6d6f1937031e6823efd0eb3f70801
+58687,2024-05-29T18:42:17+00:00,create PR,gabritto,58702
+58687,2024-05-29T18:42:17Z,link PR to issue,gabritto,58702
+58687,2024-05-29T18:42:21Z,assign user to PR,gabritto,gabritto
+58687,2024-05-29T18:42:21Z,add label to PR,typescript-bot,Author: Team
+58687,2024-05-29T18:42:22Z,add label to PR,typescript-bot,For Milestone Bug
+58687,2024-05-29T18:42:23Z,add label to issue,typescript-bot,Fix Available
+58687,2024-05-29T18:52:39Z,commit changes,Andarist,95d67b5d485b2d4329ddd35538c687a4b2b918c7
+58687,2024-05-29T18:54:19+00:00,create PR,Andarist,58703
+58687,2024-05-29T18:54:19Z,link PR to issue,Andarist,58703
+58687,2024-05-29T18:54:22Z,add label to PR,typescript-bot,For Milestone Bug
+58687,2024-05-29T19:37:00Z,ready for review,gabritto,
+58687,2024-05-29T19:42:13Z,convert to draft,gabritto,
+58687,2024-05-29T19:51:20Z,commit changes,gabritto,7dedaf2bb35bf65506e967fa67979dc3f8f24ea3
+58687,2024-05-29T20:20:08Z,request review for PR,gabritto,ahejlsberg
+58687,2024-05-30T08:14:52Z,close PR,Andarist,
+58687,2024-05-30T13:47:47Z,review PR,ahejlsberg,58702
+58687,2024-05-30T14:03:39Z,delete PR branch,Andarist,58703
+58687,2024-05-30T16:38:02Z,ready for review,gabritto,
+58687,2024-05-30T16:53:58Z,merge PR,gabritto,
+58687,2024-05-30T16:53:58Z,close PR,gabritto,
+58687,2024-05-30T16:53:59Z,close issue,gabritto,
+58687,2024-05-30T16:53:59Z,delete PR branch,gabritto,58702
+58907,2024-06-18T02:29:59+00:00,create issue,synulux,"Module augmentation seems to break entirely a class definition/body IntelliSense autocomplete. Debug failure (exception on executing command ""completionInfo"")."
+58907,2024-06-18T15:23:01Z,assign user to issue,iisaduan,iisaduan
+58907,2024-06-18T15:23:03Z,add label to issue,RyanCavanaugh,Bug
+58907,2024-06-18T15:23:06Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.0
+58907,2024-06-20T18:57:17Z,commit changes,Andarist,f1f5766be7338a4b0bcd517dbc6c8ee2e7ab616f
+58907,2024-06-21T08:14:27Z,commit changes,Andarist,7567a31be3da1a81aa0a380603f8ebedfa59131a
+58907,2024-06-21T20:25:06+00:00,create PR,Andarist,58965
+58907,2024-06-21T20:25:07Z,link PR to issue,Andarist,58965
+58907,2024-06-21T20:25:10Z,assign user to PR,iisaduan,iisaduan
+58907,2024-06-21T20:25:12Z,add label to issue,typescript-bot,Fix Available
+58907,2024-06-21T20:25:12Z,add label to PR,typescript-bot,For Milestone Bug
+58907,2024-06-21T20:53:26Z,head ref force pushed,Andarist,
+58907,2024-06-28T07:09:27Z,commit changes,Andarist,dfc3f7d5aeb0a2c990e6f9ce9ee1f7d85ce694f7
+58907,2024-06-28T07:11:21Z,commit changes,Andarist,1133e69d2511aab0ad5c76692aabc4141c959059
+58907,2024-06-28T13:22:26Z,request review for PR,sandersn,gabritto
+58907,2024-06-28T13:22:26Z,request review for PR,sandersn,iisaduan
+58907,2024-07-03T21:06:43Z,review PR,gabritto,58965
+58907,2024-08-09T21:43:10Z,review PR,andrewbranch,58965
+58907,2024-08-09T23:41:22Z,commit changes,iisaduan,0fdb0106eab3d3a10c9569af71f06a66ddea87af
+58907,2024-08-09T23:41:22Z,commit changes,iisaduan,0fdb0106eab3d3a10c9569af71f06a66ddea87af
+58907,2024-08-09T23:44:23+00:00,create PR,iisaduan,59582
+58907,2024-08-09T23:44:23Z,request review for PR,iisaduan,andrewbranch
+58907,2024-08-09T23:44:24Z,link PR to issue,iisaduan,59582
+58907,2024-08-09T23:44:26Z,assign user to PR,iisaduan,iisaduan
+58907,2024-08-09T23:44:26Z,add label to PR,typescript-bot,Author: Team
+58907,2024-08-09T23:44:28Z,add label to PR,typescript-bot,For Milestone Bug
+58907,2024-08-09T23:54:39Z,add label to PR,typescript-bot,Fix Available
+58907,2024-08-10T08:11:22Z,close PR,Andarist,
+58907,2024-08-12T20:06:51Z,commit changes,iisaduan,0dae0db168e8a6e636076a74deeb68743f842167
+58907,2024-08-12T20:06:51Z,commit changes,iisaduan,0dae0db168e8a6e636076a74deeb68743f842167
+58907,2024-08-12T20:29:37Z,commit changes,andrewbranch,ed038e935c6e9f07fb76b9cc47c4c6cac62149fe
+58907,2024-08-12T20:52:03+00:00,create PR,andrewbranch,59609
+58907,2024-08-12T20:52:03Z,link PR to issue,andrewbranch,59609
+58907,2024-08-12T20:52:06Z,assign user to PR,andrewbranch,andrewbranch
+58907,2024-08-12T20:52:07Z,add label to PR,typescript-bot,Author: Team
+58907,2024-08-12T20:52:08Z,assign user to PR,iisaduan,iisaduan
+58907,2024-08-12T20:52:09Z,add label to PR,typescript-bot,For Milestone Bug
+58907,2024-08-13T20:53:33Z,ready for review,andrewbranch,
+58907,2024-08-13T20:53:44Z,request review for PR,andrewbranch,iisaduan
+58907,2024-08-13T20:53:51Z,request review for PR,andrewbranch,sandersn
+58907,2024-08-13T20:53:51Z,request review for PR,andrewbranch,weswigham
+58907,2024-08-13T23:36:13Z,review PR,iisaduan,59609
+58907,2024-08-14T18:54:54Z,review PR,sandersn,59609
+58907,2024-08-15T17:24:19Z,commit changes,andrewbranch,76ff40c5239c58d1a1ab2cf1139107b08af31b69
+58907,2024-08-15T23:18:43Z,review dismissed,andrewbranch,
+58907,2024-08-15T23:18:58Z,close issue,andrewbranch,
+58907,2024-08-15T23:19:45Z,close PR,iisaduan,
+58907,2024-08-15T23:20:53Z,delete PR branch,iisaduan,59582
+58697,2024-05-29T15:20:56+00:00,create issue,dragomirtitian,Spread of two generic array types is misreported as having length 2
+58697,2024-05-30T07:52:49Z,commit changes,Andarist,4f24c80c38c5c34ca4c31be979d88bf8a12f0eec
+58697,2024-05-30T08:03:20Z,commit changes,Andarist,4b315552433e52e965171859b38ba9fd6dd693af
+58697,2024-05-30T08:04:21+00:00,create PR,Andarist,58708
+58697,2024-05-30T08:04:22Z,link PR to issue,Andarist,58708
+58697,2024-05-30T08:04:25Z,add label to PR,typescript-bot,For Uncommitted Bug
+58697,2024-05-31T00:31:48Z,review PR,jakebailey,58708
+58697,2024-05-31T00:32:07Z,request review for PR,jakebailey,weswigham
+58697,2024-06-06T20:17:09Z,add label to issue,RyanCavanaugh,Bug
+58697,2024-06-06T20:17:09Z,add label to issue,RyanCavanaugh,Help Wanted
+58697,2024-06-06T20:17:11Z,add milestone to issue,RyanCavanaugh,Backlog
+58697,2024-06-14T17:55:45Z,review PR,weswigham,58708
+58697,2024-06-14T18:12:17Z,commit changes,Andarist,62b6dce48a6d01f7b966a2ce6f9eed4802b72b32
+58697,2024-06-14T19:12:10Z,commit changes,Andarist,e251a9d42020fb7410e845d6380e8c515a0f53d6
+58697,2024-06-14T19:12:23Z,remove label from PR,typescript-bot,For Uncommitted Bug
+58697,2024-06-14T19:12:23Z,add label to PR,typescript-bot,For Backlog Bug
+58697,2024-06-14T20:17:42Z,merge PR,weswigham,
+58697,2024-06-14T20:17:42Z,close PR,weswigham,
+58697,2024-06-14T20:17:43Z,close issue,weswigham,
+58494,2024-05-10T16:16:15+00:00,create issue,DimaIT,Computed string literal can't be used as generic argument
+58494,2024-05-11T17:16:18Z,commit changes,ahejlsberg,be4006ddfb238d40a45224ef163b07b9c8c605f3
+58494,2024-05-11T17:16:41Z,assign user to issue,ahejlsberg,ahejlsberg
+58494,2024-05-11T17:43:44Z,commit changes,ahejlsberg,65757f0dcf12ad1eec30f953246cfd322ba03434
+58494,2024-05-11T17:45:28+00:00,create PR,ahejlsberg,58500
+58494,2024-05-11T17:45:28Z,link PR to issue,ahejlsberg,58500
+58494,2024-05-11T17:45:32Z,assign user to PR,ahejlsberg,ahejlsberg
+58494,2024-05-11T17:45:32Z,add label to PR,typescript-bot,Author: Team
+58494,2024-05-11T17:45:36Z,add label to PR,typescript-bot,For Uncommitted Bug
+58494,2024-05-11T17:46:20Z,add milestone to issue,ahejlsberg,TypeScript 5.5.1
+58494,2024-05-11T17:46:32Z,add label to issue,ahejlsberg,Bug
+58494,2024-05-12T00:24:09Z,add label to issue,ahejlsberg,Fix Available
+58494,2024-05-13T21:44:31Z,review PR,jakebailey,58500
+58494,2024-05-14T13:44:05Z,merge PR,ahejlsberg,
+58494,2024-05-14T13:44:06Z,close PR,ahejlsberg,
+58494,2024-05-14T13:44:06Z,delete PR branch,ahejlsberg,58500
+58494,2024-05-14T13:44:07Z,close issue,ahejlsberg,
+58682,2024-05-28T20:24:09+00:00,create issue,ericanderson,TS 5.5.0-beta Regression: generated .d.ts is not compatible 
+58682,2024-05-28T21:30:21Z,rename issue,ericanderson,TS 5.5.0-beta Regression: generated .d.ts is not compatible 
+58682,2024-05-30T17:35:39Z,add label to issue,DanielRosenwasser,Bug
+58682,2024-05-30T17:35:39Z,add label to issue,DanielRosenwasser,Fixed
+58682,2024-05-30T17:35:43Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.1
+58682,2024-05-30T17:36:08Z,close issue,DanielRosenwasser,
+59159,2024-07-06T11:37:34+00:00,create issue,Andarist,TypeError: Cannot read properties of undefined (reading 'flags') at needsNameFromDeclaration at getNameForExportedSymbol
+59159,2024-07-06T21:12:44Z,commit changes,Andarist,ccb9d5e17b7b32d24f9740ccdd249f3647fb7457
+59159,2024-07-06T21:13:24+00:00,create PR,Andarist,59160
+59159,2024-07-06T21:13:25Z,link PR to issue,Andarist,59160
+59159,2024-07-06T21:13:27Z,add label to PR,typescript-bot,For Uncommitted Bug
+59159,2024-07-06T21:22:42Z,commit changes,Andarist,ee5b933f1d10525a237d4547c2ce352670d051b4
+59159,2024-07-09T16:07:20Z,assign user to issue,andrewbranch,andrewbranch
+59159,2024-07-09T16:07:32Z,add label to issue,andrewbranch,Bug
+59159,2024-07-09T16:07:32Z,add label to issue,andrewbranch,Crash
+59159,2024-07-09T16:07:40Z,assign user to PR,andrewbranch,andrewbranch
+59159,2024-07-09T22:27:23Z,request review for PR,sandersn,andrewbranch
+59159,2024-07-09T22:27:33Z,request review for PR,sandersn,iisaduan
+59159,2024-07-10T16:51:04Z,add milestone to issue,andrewbranch,TypeScript 5.5.4
+59159,2024-07-10T17:28:51Z,review PR,andrewbranch,59160
+59159,2024-07-17T23:38:58Z,milestoned,DanielRosenwasser,
+59159,2024-07-17T23:39:00Z,remove label from PR,typescript-bot,For Uncommitted Bug
+59159,2024-07-17T23:39:01Z,add label to issue,typescript-bot,Fix Available
+59159,2024-07-17T23:39:01Z,add label to PR,typescript-bot,For Milestone Bug
+59159,2024-07-17T23:41:47Z,merge PR,DanielRosenwasser,
+59159,2024-07-17T23:41:47Z,close PR,DanielRosenwasser,
+59159,2024-07-17T23:41:49Z,close issue,DanielRosenwasser,
+60135,2024-10-03T20:40:35Z,commit changes,JoostK,1a5a3d9aa2f6014e15e9fd199b414b5990c85f97
+60135,2024-10-03T20:45:20+00:00,create issue,JoostK,Grammatical error in TS9025 diagnostic
+60135,2024-10-03T20:45:57+00:00,create PR,JoostK,60136
+60135,2024-10-03T20:45:58Z,link PR to issue,JoostK,60136
+60135,2024-10-03T20:46:00Z,add label to PR,typescript-bot,For Uncommitted Bug
+60135,2024-10-03T20:56:16Z,review PR,RyanCavanaugh,60136
+60135,2024-10-03T20:56:24Z,add label to issue,RyanCavanaugh,Bug
+60135,2024-10-03T20:56:24Z,add label to issue,RyanCavanaugh,Help Wanted
+60135,2024-10-03T20:56:25Z,add milestone to issue,RyanCavanaugh,Backlog
+60135,2024-10-07T18:12:48Z,merge PR,DanielRosenwasser,
+60135,2024-10-07T18:12:48Z,close PR,DanielRosenwasser,
+60135,2024-10-07T18:12:50Z,close issue,DanielRosenwasser,
+60135,2024-10-07T18:13:24Z,remove milestone from issue,DanielRosenwasser,Backlog
+60135,2024-10-07T18:13:25Z,add milestone to issue,DanielRosenwasser,TypeScript 5.7.1
+59011,2015-03-24T00:29:01Z,commit changes,JsonFreeman,abe4076417a9232377498a6e113b70ac7c9d2105
+59011,2015-03-24T01:22:43Z,commit changes,JsonFreeman,3497e27d561214174b9b686b36dae71b44cabad9
+59011,2015-03-24T02:30:03Z,commit changes,JsonFreeman,b7f2990305d72c2084ad3b6ee67f3b9da878e636
+59011,2015-03-24T23:33:24Z,commit changes,JsonFreeman,2288946afc0dded99f92ef19bf5e3c5deaea1f51
+59011,2015-03-24T23:33:56Z,commit changes,JsonFreeman,376574d1be89195a34c5b04ce33ecc41282919f2
+59011,2015-03-24T23:52:00Z,commit changes,JsonFreeman,4a0af76064ae039efd99b47133eb35a21c1cc43f
+59011,2015-03-25T01:29:52Z,commit changes,JsonFreeman,8c2cd2610317dcc0f22f3f57c60c959a2cb53e41
+59011,2015-03-25T01:39:25Z,commit changes,JsonFreeman,42ed6aab89ff1bd739f11ba6f0ab1bbfb57e38fe
+59011,2015-03-25T19:08:19Z,commit changes,JsonFreeman,806c9ce25b1a78ac442b5f6de169b4b02f7a15b2
+59011,2015-03-25T20:35:27Z,commit changes,JsonFreeman,06d6717859cb065492bfd65552f939ac9f3ed6e7
+59011,2015-03-25T22:20:00Z,commit changes,JsonFreeman,17d201f92225370bf1a4521c1728bed1beb3f98a
+59011,2015-03-25T22:21:00Z,commit changes,JsonFreeman,6b2d5ceb7c40533cdb82617d38e78c9d0cd866a9
+59011,2015-03-26T00:20:51Z,commit changes,JsonFreeman,a477b63420407985b2df252604946d600cbdc4c3
+59011,2015-03-26T00:36:47Z,commit changes,JsonFreeman,e1f2fbff63cb6835dd557e4aa20b092145ce005c
+59011,2015-03-26T01:16:05+00:00,create PR,JsonFreeman,2498
+59011,2015-03-26T01:16:06Z,add label to PR,msftclas,cla-not-required
+59011,2015-03-26T01:38:14Z,commit changes,JsonFreeman,197a42a692d818d683451820c8896c25320034b1
+59011,2015-03-26T01:41:11Z,remove label from PR,JsonFreeman,cla-not-required
+59011,2015-03-26T02:06:34Z,commit changes,JsonFreeman,17719e85ff1d4f05e6df257c9a3f787c055c8ef9
+59011,2015-03-26T19:26:40Z,commit changes,JsonFreeman,de8de7ac969fe7f60871efdbdc8f0e728b717223
+59011,2015-03-26T22:15:02Z,commit changes,JsonFreeman,903c1d8dd8b1768f843be86d6fdf2b6da1a036df
+59011,2015-04-08T23:14:24Z,commit changes,JsonFreeman,d459c590281bc0a64cc08b0f2a19ff07146ce5fe
+59011,2015-04-08T23:41:56Z,commit changes,JsonFreeman,846c2252970b9f59d9c1ea8af53549f001ebd751
+59011,2015-04-08T23:58:56Z,merge PR,JsonFreeman,
+59011,2015-04-08T23:58:56Z,close PR,JsonFreeman,
+59011,2015-04-08T23:58:59Z,delete PR branch,JsonFreeman,2498
+59011,2018-06-18T18:46:54Z,lock PR,microsoft,2498
+59011,2024-06-25T14:22:51+00:00,create issue,remcohaszing,TypeScript generates invalid types if `@import` tags are spread over multiple lines
+59011,2024-06-25T14:30:56Z,link PR to issue,remcohaszing,2498
+59011,2024-06-25T21:25:35Z,commit changes,a-tarasyuk,937f0cbf8636abdded7228cdb85c485057d5f387
+59011,2024-06-25T21:26:42+00:00,create PR,a-tarasyuk,59026
+59011,2024-06-25T21:26:42Z,link PR to issue,a-tarasyuk,59026
+59011,2024-06-25T21:26:45Z,add label to PR,typescript-bot,For Uncommitted Bug
+59011,2024-06-26T17:46:03Z,review PR,DanielRosenwasser,59026
+59011,2024-06-26T17:46:44Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.3
+59011,2024-06-26T17:46:57Z,add label to issue,DanielRosenwasser,Bug
+59011,2024-06-26T17:46:57Z,add label to issue,DanielRosenwasser,Domain: JSDoc
+59011,2024-06-26T17:46:57Z,add label to issue,DanielRosenwasser,Domain: Declaration Emit
+59011,2024-06-26T17:46:57Z,add label to issue,DanielRosenwasser,Domain: JavaScript
+59011,2024-06-26T19:03:48Z,review PR,sandersn,59026
+59011,2024-06-26T21:34:38Z,commit changes,a-tarasyuk,fc9ec9e2dfb4925b105691c37332ed99f9a2c3ad
+59011,2024-06-26T21:34:46Z,remove label from PR,typescript-bot,For Uncommitted Bug
+59011,2024-06-26T21:34:47Z,add label to issue,typescript-bot,Fix Available
+59011,2024-06-26T21:34:47Z,add label to PR,typescript-bot,For Milestone Bug
+59011,2024-06-26T21:41:29Z,commit changes,a-tarasyuk,f9e9a44587b6ba2bca5c1c2c439938a5b6a1795e
+59011,2024-06-30T18:18:57Z,commit changes,a-tarasyuk,85f588ecc8378cd4b6d552673508b431a9347084
+59011,2024-07-09T16:05:00Z,remove milestone from issue,andrewbranch,TypeScript 5.5.3
+59011,2024-07-09T16:05:00Z,add milestone to issue,andrewbranch,TypeScript 5.5.4
+59011,2024-07-09T21:52:32Z,review PR,sandersn,59026
+59011,2024-07-09T22:03:27Z,commit changes,a-tarasyuk,231f39cd515fb1622036156402db43f65ca16be8
+59011,2024-07-10T20:12:32Z,commit changes,a-tarasyuk,d3c50a2e3ec048eb420df162a6e29f8d5981412e
+59011,2024-07-10T22:37:50Z,merge PR,sandersn,
+59011,2024-07-10T22:37:50Z,close PR,sandersn,
+59011,2024-07-10T22:37:51Z,close issue,sandersn,
+59789,2018-11-01T23:17:49Z,commit changes,sandersn,9faa82db8f688fdf18591f7aeb2e748a7e0eb975
+59789,2018-11-01T23:22:39+00:00,create PR,sandersn,28303
+59789,2018-11-02T15:11:53Z,commit changes,sandersn,57586bfdf1270a40ce8621d7bebac154ce19a26a
+59789,2024-08-28T20:21:11+00:00,create issue,clydin,"`""importHelpers"": true` combined with `""module"": ""preserve""` results in undefined helper usage"
+59789,2024-08-28T20:25:09Z,link PR to issue,clydin,28303
+59789,2024-08-30T20:00:12Z,assign user to issue,rbuckton,rbuckton
+59789,2024-08-30T20:00:16Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.2
+59789,2024-08-30T20:00:20Z,add label to issue,RyanCavanaugh,Needs Investigation
+59789,2024-08-30T21:06:11Z,remove label from issue,rbuckton,Needs Investigation
+59789,2024-08-30T21:06:11Z,add label to issue,rbuckton,Bug
+59789,2024-08-30T21:06:11Z,add label to issue,rbuckton,Domain: tslib and Helper Functions
+59789,2024-09-04T18:59:50Z,commit changes,rbuckton,b15def41bc8291360747bab15d3546213834c482
+59789,2024-09-04T19:34:48+00:00,create PR,rbuckton,59852
+59789,2024-09-04T19:34:48Z,request review for PR,rbuckton,andrewbranch
+59789,2024-09-04T19:34:49Z,link PR to issue,rbuckton,59852
+59789,2024-09-04T19:34:51Z,assign user to PR,rbuckton,rbuckton
+59789,2024-09-04T19:34:51Z,add label to PR,typescript-bot,Author: Team
+59789,2024-09-04T19:34:53Z,add label to PR,typescript-bot,For Milestone Bug
+59789,2024-09-04T19:34:54Z,add label to issue,typescript-bot,Fix Available
+59789,2024-09-04T19:34:54Z,add label to issue,typescript-bot,Fix Available
+59789,2024-09-04T22:29:09Z,review PR,andrewbranch,59852
+59789,2024-09-05T21:48:39Z,merge PR,rbuckton,
+59789,2024-09-05T21:48:39Z,close PR,rbuckton,
+59789,2024-09-05T21:48:40Z,close issue,rbuckton,
+59789,2024-09-05T21:48:41Z,delete PR branch,rbuckton,59852
+59825,2024-09-02T09:35:30+00:00,create issue,Andarist,`getNavigationTree` crash on invalid class merge and function merge with expando members
+59825,2024-09-03T15:41:57Z,add label to issue,RyanCavanaugh,Bug
+59825,2024-09-03T15:42:01Z,assign user to issue,iisaduan,iisaduan
+59825,2024-09-03T15:42:04Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59825,2024-10-06T14:47:51Z,commit changes,a-tarasyuk,368c8675dd5be2e4cab2225ee6f07c362d16e6b0
+59825,2024-10-06T14:53:48+00:00,create PR,a-tarasyuk,60152
+59825,2024-10-06T14:53:49Z,link PR to issue,a-tarasyuk,60152
+59825,2024-10-06T14:53:51Z,assign user to PR,iisaduan,iisaduan
+59825,2024-10-06T14:53:52Z,add label to PR,typescript-bot,For Milestone Bug
+59825,2024-10-06T14:53:53Z,add label to issue,typescript-bot,Fix Available
+59825,2024-10-07T19:58:06Z,review PR,iisaduan,60152
+59825,2024-10-07T19:58:15Z,merge PR,iisaduan,
+59825,2024-10-07T19:58:15Z,close PR,iisaduan,
+59825,2024-10-07T19:58:16Z,close issue,iisaduan,
+58934,2024-06-19T18:37:59+00:00,create issue,mjbvz,getPasteEdits returns edits even when no imports are added
+58934,2024-06-19T18:38:06Z,assign user to issue,navya9singh,navya9singh
+58934,2024-06-20T23:04:43Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.0
+58934,2024-06-20T23:04:46Z,add label to issue,DanielRosenwasser,Bug
+58934,2024-07-01T18:39:48Z,commit changes,navya9singh,57202316e2e5054479cb525ac7405276ef4faac0
+58934,2024-07-01T18:40:51Z,commit changes,navya9singh,a4c8fc48aabc751c0d561968165f5187d4ade34f
+58934,2024-07-01T20:23:09Z,commit changes,navya9singh,c98a8da2fc4ed5cf9cf8d40f4ad017fd6cf96682
+58934,2024-07-08T21:42:20Z,commit changes,navya9singh,e66685b45a32b88c668c9c8d3afdfa20e41279d5
+58934,2024-07-08T21:44:09Z,commit changes,navya9singh,c6b788e7f20b8c12b294e536be42b9ddb09896e2
+58934,2024-07-08T21:46:56Z,commit changes,navya9singh,a7e16d0324112c0360c4a17ad444863db541c280
+58934,2024-07-08T21:57:56+00:00,create PR,navya9singh,59189
+58934,2024-07-08T21:57:57Z,link PR to issue,navya9singh,59189
+58934,2024-07-08T21:57:59Z,assign user to PR,navya9singh,navya9singh
+58934,2024-07-08T21:58:00Z,add label to PR,typescript-bot,Author: Team
+58934,2024-07-08T21:58:01Z,add label to PR,typescript-bot,For Milestone Bug
+58934,2024-07-08T21:58:02Z,add label to issue,typescript-bot,Fix Available
+58934,2024-07-08T22:15:07Z,request review for PR,navya9singh,andrewbranch
+58934,2024-07-09T17:07:58Z,commit changes,navya9singh,a7e99333ca6ec5a0a910bb55b804deb15e87fccc
+58934,2024-07-09T17:20:09Z,review PR,andrewbranch,59189
+58934,2024-07-09T17:27:41Z,merge PR,navya9singh,
+58934,2024-07-09T17:27:41Z,close PR,navya9singh,
+58934,2024-07-09T17:27:42Z,close issue,navya9singh,
+59237,2024-07-11T12:48:59+00:00,create issue,unflxw,Line comment in type cast incorrectly compiles to early return
+59237,2024-07-11T16:06:28Z,add label to issue,RyanCavanaugh,Bug
+59237,2024-07-11T16:06:31Z,assign user to issue,rbuckton,rbuckton
+59237,2024-07-11T16:06:34Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.0
+59237,2024-10-21T18:53:33Z,commit changes,rbuckton,4c0663f8285e6469dec93f75271be239a9deeeaa
+59237,2024-10-21T18:59:11+00:00,create PR,rbuckton,60304
+59237,2024-10-21T18:59:11Z,request review for PR,rbuckton,weswigham
+59237,2024-10-21T18:59:11Z,request review for PR,rbuckton,andrewbranch
+59237,2024-10-21T18:59:12Z,link PR to issue,rbuckton,60304
+59237,2024-10-21T18:59:14Z,assign user to PR,rbuckton,rbuckton
+59237,2024-10-21T18:59:14Z,add label to PR,typescript-bot,Author: Team
+59237,2024-10-21T18:59:15Z,add label to PR,typescript-bot,Author: Team
+59237,2024-10-21T18:59:16Z,add label to PR,typescript-bot,For Milestone Bug
+59237,2024-10-21T18:59:16Z,add label to PR,typescript-bot,For Milestone Bug
+59237,2024-10-21T18:59:17Z,add label to issue,typescript-bot,Fix Available
+59237,2024-10-21T18:59:17Z,add label to issue,typescript-bot,Fix Available
+59237,2024-10-21T19:01:34Z,commit changes,rbuckton,4eefae3925f945fe1a72fa9977df0134fd0593a5
+59237,2024-10-21T19:05:52Z,commit changes,rbuckton,2dcadef741ec8005f1fb6b85aef5fdcd627f2163
+59237,2024-10-21T19:06:01Z,rename PR,rbuckton,More rigorous ASI prevention when emitting `return`/`yield`
+59237,2024-10-22T22:48:42Z,review PR,andrewbranch,60304
+59237,2024-10-22T23:20:51Z,merge PR,rbuckton,
+59237,2024-10-22T23:20:52Z,close PR,rbuckton,
+59237,2024-10-22T23:20:53Z,close issue,rbuckton,
+59237,2024-10-22T23:20:53Z,delete PR branch,rbuckton,60304
+59747,2024-08-25T10:31:42+00:00,create issue,hediet,Cannot Move React Class Component To New File
+59747,2024-08-27T18:04:39Z,add label to issue,DanielRosenwasser,Bug
+59747,2024-08-27T18:04:39Z,add label to issue,DanielRosenwasser,Domain: Refactorings
+59747,2024-08-27T18:04:42Z,assign user to issue,navya9singh,navya9singh
+59747,2024-08-27T18:04:50Z,add label to issue,DanielRosenwasser,Help Wanted
+59747,2024-08-27T18:04:55Z,add label to issue,DanielRosenwasser,Effort: Moderate
+59747,2024-08-27T18:05:00Z,add milestone to issue,DanielRosenwasser,TypeScript 5.7.0
+59747,2024-10-14T22:55:52Z,commit changes,iisaduan,616c423e41c70e61eef45c1a423aa1dd2cc2231d
+59747,2024-10-15T18:04:49Z,commit changes,iisaduan,12618007cfe35e536fc83b398b236629db8f751c
+59747,2024-10-21T05:20:57Z,commit changes,iisaduan,1c1a88e8cc8432f10d1b64399d0c124b210ba5ff
+59747,2024-10-21T17:23:31Z,commit changes,iisaduan,03ffc581f45ff33c14e97a9557b36d3783279058
+59747,2024-10-21T23:05:12Z,commit changes,iisaduan,90e89e65ef92a7694cfe10138740fa5eee947b7e
+59747,2024-10-22T19:21:49Z,link PR to issue,iisaduan,5
+59747,2024-10-22T19:27:07Z,commit changes,iisaduan,3ca07d106ad8f525fb690046a58efa6886807cb3
+59747,2024-10-23T23:50:04Z,commit changes,iisaduan,a20c2bb8d3480dc9cc23b892399a88e8573c6864
+59747,2024-10-23T23:55:41+00:00,create PR,iisaduan,60333
+59747,2024-10-23T23:55:41Z,request review for PR,iisaduan,andrewbranch
+59747,2024-10-23T23:55:41Z,request review for PR,iisaduan,navya9singh
+59747,2024-10-23T23:55:42Z,link PR to issue,iisaduan,60333
+59747,2024-10-24T21:30:53Z,commit changes,iisaduan,21a65986e2e01431c4d4bfaa7194bf79b6546736
+59747,2024-10-31T23:46:40Z,review PR,andrewbranch,60333
+59747,2024-11-01T00:03:12Z,merge PR,iisaduan,
+59747,2024-11-01T00:03:12Z,close PR,iisaduan,
+59747,2024-11-01T00:03:17Z,close issue,iisaduan,
+59747,2024-11-01T00:03:26Z,delete PR branch,iisaduan,60333
+59587,2024-08-10T20:48:08+00:00,create issue,maxpatiiuk,Printer introduces syntax error into .tsx files
+59587,2024-08-12T19:01:38Z,add label to issue,RyanCavanaugh,Bug
+59587,2024-08-12T19:01:41Z,assign user to issue,weswigham,weswigham
+59587,2024-08-12T19:01:44Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59587,2024-08-12T20:38:29Z,commit changes,a-tarasyuk,2b7a022c23e46dd2fc38982511d027723c82ee5b
+59587,2024-08-12T20:39:31+00:00,create PR,a-tarasyuk,59608
+59587,2024-08-12T20:39:32Z,link PR to issue,a-tarasyuk,59608
+59587,2024-08-12T20:39:34Z,assign user to PR,weswigham,weswigham
+59587,2024-08-12T20:39:35Z,add label to issue,typescript-bot,Fix Available
+59587,2024-08-12T20:39:35Z,add label to PR,typescript-bot,For Milestone Bug
+59587,2024-08-12T21:52:48Z,commit changes,weswigham,75f1f1eb822c8652a86f16c49fcaa3e8d30312ac
+59587,2024-08-12T22:13:05+00:00,create PR,weswigham,59612
+59587,2024-08-12T22:13:05Z,link PR to issue,weswigham,59612
+59587,2024-08-12T22:13:07Z,assign user to PR,weswigham,weswigham
+59587,2024-08-12T22:13:08Z,add label to PR,typescript-bot,Author: Team
+59587,2024-08-12T22:13:09Z,add label to PR,typescript-bot,For Milestone Bug
+59587,2024-08-12T22:14:58Z,request review for PR,weswigham,jakebailey
+59587,2024-08-12T22:15:10Z,close PR,a-tarasyuk,
+59587,2024-08-12T22:15:13Z,delete PR branch,a-tarasyuk,59608
+59587,2024-08-13T16:50:31Z,review PR,jakebailey,59612
+59587,2024-08-13T18:55:27Z,merge PR,weswigham,
+59587,2024-08-13T18:55:27Z,close PR,weswigham,
+59587,2024-08-13T18:55:28Z,close issue,weswigham,
+58921,2024-06-18T23:39:20+00:00,create issue,typhonrt,JSDoc @import _unintentional?_ passthrough to generated declarations. 
+58921,2024-06-19T00:05:12Z,add label to issue,DanielRosenwasser,Bug
+58921,2024-06-19T00:05:12Z,add label to issue,DanielRosenwasser,Help Wanted
+58921,2024-06-19T00:05:12Z,add label to issue,DanielRosenwasser,Domain: Declaration Emit
+58921,2024-06-19T00:05:12Z,add label to issue,DanielRosenwasser,Effort: Casual
+58921,2024-06-19T00:05:17Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.0
+58921,2024-06-19T00:05:23Z,assign user to issue,weswigham,weswigham
+58921,2024-07-23T23:08:25Z,close issue,weswigham,
+58909,2024-06-18T04:15:36+00:00,create issue,MichaelMitchell-at,Isolated declarations errors occur in third-party node_modules when they ship with original TypeScript source files
+58909,2024-06-18T15:07:04Z,add label to issue,RyanCavanaugh,Bug
+58909,2024-06-18T15:07:07Z,assign user to issue,weswigham,weswigham
+58909,2024-06-18T15:07:08Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.0
+58909,2024-06-20T17:29:38Z,add label to issue,weswigham,Domain: Isolated Declarations
+58909,2024-07-09T18:05:49Z,commit changes,weswigham,e147cb332cff104b7dd414c2877fc9b4f8397870
+58909,2024-07-09T18:10:28+00:00,create PR,weswigham,59203
+58909,2024-07-09T18:10:28Z,request review for PR,weswigham,jakebailey
+58909,2024-07-09T18:10:29Z,link PR to issue,weswigham,59203
+58909,2024-07-09T18:10:31Z,assign user to PR,weswigham,weswigham
+58909,2024-07-09T18:10:31Z,add label to PR,typescript-bot,Author: Team
+58909,2024-07-09T18:10:33Z,add label to issue,typescript-bot,Fix Available
+58909,2024-07-09T18:10:33Z,add label to PR,typescript-bot,For Milestone Bug
+58909,2024-07-09T20:57:00Z,review PR,jakebailey,59203
+58909,2024-07-09T23:03:17Z,merge PR,weswigham,
+58909,2024-07-09T23:03:17Z,close PR,weswigham,
+58909,2024-07-09T23:03:19Z,close issue,weswigham,
+58909,2024-07-09T23:03:21Z,delete PR branch,weswigham,59203
+58512,2024-05-13T05:38:26+00:00,create issue,MichaelMitchell-at,[transpileDeclaration API][5.5] Incorrectly creates new alias for generic parameter
+58512,2024-05-13T18:07:21Z,commit changes,weswigham,3d41691b3baf77386e11fe227a18cddbfcba9ef4
+58512,2024-05-13T18:11:19Z,commit changes,weswigham,4fa7b590db904d05e7703709907667515a9e630d
+58512,2024-05-13T18:13:46+00:00,create PR,weswigham,58522
+58512,2024-05-13T18:13:46Z,link PR to issue,weswigham,58522
+58512,2024-05-13T18:13:46Z,request review for PR,weswigham,jakebailey
+58512,2024-05-13T18:13:50Z,assign user to PR,weswigham,weswigham
+58512,2024-05-13T18:13:51Z,add label to PR,typescript-bot,Author: Team
+58512,2024-05-13T18:13:53Z,add label to PR,typescript-bot,For Uncommitted Bug
+58512,2024-05-13T18:14:02Z,rename PR,weswigham,Preserve return type nodes which resolve to errors in declaration emit
+58512,2024-05-13T18:15:51Z,add label to issue,weswigham,Bug
+58512,2024-05-13T18:15:51Z,add label to issue,weswigham,Domain: Declaration Emit
+58512,2024-05-13T18:33:16Z,review PR,jakebailey,58522
+58512,2024-05-13T18:55:01Z,merge PR,weswigham,
+58512,2024-05-13T18:55:01Z,close PR,weswigham,
+58512,2024-05-13T18:55:02Z,close issue,weswigham,
+58512,2024-05-14T17:19:14Z,add label to issue,weswigham,Domain: ts.transpileDeclaration
+59397,2024-07-23T17:50:17+00:00,create issue,amerrit2,JsDoc is missing/duplicated in declarations for overloads declared in classes declared in functions
+59397,2024-07-29T18:56:25Z,add label to issue,RyanCavanaugh,Bug
+59397,2024-07-29T18:56:26Z,add label to issue,RyanCavanaugh,Help Wanted
+59397,2024-07-29T18:56:27Z,add milestone to issue,RyanCavanaugh,Backlog
+59397,2024-08-18T19:55:22Z,commit changes,a-tarasyuk,c62daf53a647300534472cac50b69c9572ba9bf8
+59397,2024-08-18T19:59:12+00:00,create PR,a-tarasyuk,59675
+59397,2024-08-18T19:59:12Z,link PR to issue,a-tarasyuk,59675
+59397,2024-08-18T19:59:15Z,add label to PR,typescript-bot,For Backlog Bug
+59397,2024-10-06T15:06:46Z,commit changes,a-tarasyuk,cf51d5ed3c5ae9233453ff742a9c2e51ed9b386e
+59397,2024-10-08T18:10:34Z,review PR,jakebailey,59675
+59397,2024-10-21T21:29:04Z,commit changes,a-tarasyuk,38b0fb94381804468370704edc6e690846a721a4
+59397,2024-10-23T18:34:24Z,merge PR,jakebailey,
+59397,2024-10-23T18:34:24Z,close PR,jakebailey,
+59397,2024-10-23T18:34:26Z,close issue,jakebailey,
+58710,2024-05-30T09:04:50+00:00,create issue,jgoux,"5.5.0-dev.20240524 regression on ""The inferred type of 'X' cannot be named without a reference"""
+58710,2024-05-30T20:30:06Z,add label to issue,weswigham,Bug
+58710,2024-05-30T20:30:06Z,add label to issue,weswigham,Domain: Declaration Emit
+58710,2024-05-30T20:30:06Z,add label to issue,weswigham,Recent Regression
+58710,2024-05-30T22:26:27Z,commit changes,dragomirtitian,5032d294f6adcbe7f7d81c7e61faf8f5bef8a142
+58710,2024-05-30T22:27:15+00:00,create PR,dragomirtitian,58720
+58710,2024-05-30T22:27:16Z,link PR to issue,dragomirtitian,58720
+58710,2024-05-30T22:27:18Z,add label to PR,typescript-bot,For Uncommitted Bug
+58710,2024-05-30T22:46:06Z,review PR,weswigham,58720
+58710,2024-05-30T22:51:38Z,merge PR,weswigham,
+58710,2024-05-30T22:51:38Z,close PR,weswigham,
+58710,2024-05-30T22:51:39Z,close issue,weswigham,
+59779,2024-08-28T01:36:53+00:00,create issue,ChiriVulpes,"The semicolons: ""remove"" formatting option doesn't remove extraneous semicolons"
+59779,2024-08-29T16:54:06Z,add label to issue,RyanCavanaugh,Bug
+59779,2024-08-29T16:54:06Z,add label to issue,RyanCavanaugh,Help Wanted
+59779,2024-08-29T16:54:07Z,add milestone to issue,RyanCavanaugh,Backlog
+59779,2024-08-29T16:54:12Z,add label to issue,RyanCavanaugh,Domain: Formatter
+59779,2024-08-29T19:59:41Z,commit changes,a-tarasyuk,993e5cadaf7747947f6aa9199d90f6f03749e67b
+59779,2024-08-29T20:04:35+00:00,create PR,a-tarasyuk,59797
+59779,2024-08-29T20:04:35Z,link PR to issue,a-tarasyuk,59797
+59779,2024-08-29T20:04:38Z,add label to PR,typescript-bot,For Backlog Bug
+59779,2024-08-29T20:22:38Z,commit changes,a-tarasyuk,4536cd688c24010034191afe02ffb4745d5f036d
+59779,2024-08-29T20:36:07Z,commit changes,a-tarasyuk,b7bddd8e3062428aa51c1d4c9c2c3c58a1ab25f4
+59779,2024-10-06T15:05:57Z,commit changes,a-tarasyuk,dd7112da8fcb7bcfde6e5cfde7118d96e0cd4eae
+59779,2024-10-21T21:34:29Z,commit changes,a-tarasyuk,d0f9ff81a4c58da46ec4cb0c04afd8ad71046234
+59779,2024-10-22T22:42:19Z,review PR,andrewbranch,59797
+59779,2024-10-22T22:42:28Z,merge PR,andrewbranch,
+59779,2024-10-22T22:42:28Z,close PR,andrewbranch,
+59779,2024-10-22T22:42:30Z,close issue,andrewbranch,
+58936,2024-06-19T20:06:57+00:00,create issue,mjbvz,getPasteEdits returns wrong range for primary edit
+58936,2024-06-19T20:07:21Z,assign user to issue,navya9singh,navya9singh
+58936,2024-06-20T23:04:23Z,add label to issue,DanielRosenwasser,Bug
+58936,2024-06-20T23:04:27Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.0
+58936,2024-07-18T17:40:44Z,commit changes,navya9singh,c5d45edf937b26d577221499dfa9dcaeebd064ae
+58936,2024-07-19T22:58:42Z,commit changes,navya9singh,39b73089e3fada642846d1476ba50d13ba03da39
+58936,2024-07-19T23:03:34+00:00,create PR,navya9singh,59369
+58936,2024-07-19T23:03:34Z,link PR to issue,navya9singh,59369
+58936,2024-07-19T23:03:37Z,assign user to PR,navya9singh,navya9singh
+58936,2024-07-19T23:03:37Z,add label to PR,typescript-bot,Author: Team
+58936,2024-07-19T23:03:39Z,add label to issue,typescript-bot,Fix Available
+58936,2024-07-19T23:03:39Z,add label to PR,typescript-bot,For Milestone Bug
+58936,2024-07-19T23:08:58Z,request review for PR,navya9singh,andrewbranch
+58936,2024-07-20T00:40:10Z,review PR,DanielRosenwasser,59369
+58936,2024-07-22T16:49:52Z,commit changes,navya9singh,eb0859e485cd97081fefb19f95dae2733726e2f0
+58936,2024-07-22T17:07:47Z,request review for PR,navya9singh,DanielRosenwasser
+58936,2024-07-22T22:53:17Z,review PR,sheetalkamat,59369
+58936,2024-07-22T22:54:38Z,review PR,sheetalkamat,59369
+58936,2024-07-22T23:07:39Z,commit changes,navya9singh,710e379b91d0c7af93acd0399b52a779bceb5ae0
+58936,2024-07-22T23:11:50Z,review PR,sheetalkamat,59369
+58936,2024-07-22T23:36:22Z,request review for PR,navya9singh,DanielRosenwasser
+58936,2024-07-23T00:12:42Z,review PR,DanielRosenwasser,59369
+58936,2024-07-23T00:14:35Z,merge PR,navya9singh,
+58936,2024-07-23T00:14:35Z,close PR,navya9singh,
+58936,2024-07-23T00:14:37Z,close issue,navya9singh,
+59345,2024-07-18T15:19:43+00:00,create issue,Roise-yue,Debugging failure caused by lack of backtick（`）
+59345,2024-07-26T17:58:44Z,add label to issue,RyanCavanaugh,Bug
+59345,2024-07-26T17:58:57Z,assign user to issue,iisaduan,iisaduan
+59345,2024-07-26T17:59:00Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.1
+59345,2024-07-26T19:05:28Z,commit changes,Andarist,73ebeca2328ba7e9e0e28f58b681933a18e1a459
+59345,2024-07-26T19:07:44+00:00,create PR,Andarist,59434
+59345,2024-07-26T19:07:44Z,link PR to issue,Andarist,59434
+59345,2024-07-26T19:07:47Z,assign user to PR,iisaduan,iisaduan
+59345,2024-07-26T19:07:48Z,add label to issue,typescript-bot,Fix Available
+59345,2024-07-26T19:07:48Z,add label to PR,typescript-bot,For Milestone Bug
+59345,2024-07-26T19:40:47Z,commit changes,Andarist,b2c11d55df84cac0e827481203f64e117cf66c45
+59345,2024-07-26T20:28:39Z,commit changes,Andarist,b4195a7dd33eedaa918f050821e39ed1d1b8cf53
+59345,2024-07-26T20:35:45Z,commit changes,Andarist,dfb2722df7b62c412bee6efb62f7899d359c5543
+59345,2024-07-26T20:36:50Z,commit changes,Andarist,f29230abb16ba8c1febbd8f65b5b9bd53d5e5b19
+59345,2024-07-26T20:42:21Z,request review for PR,Andarist,jakebailey
+59345,2024-07-26T21:34:38Z,review PR,jakebailey,59434
+59345,2024-07-26T21:34:48Z,merge PR,jakebailey,
+59345,2024-07-26T21:34:49Z,close PR,jakebailey,
+59345,2024-07-26T21:34:50Z,close issue,jakebailey,
+59345,2024-07-26T21:39:05Z,delete PR branch,Andarist,59434
+59755,2024-08-26T09:56:31+00:00,create issue,Knagis,"5.6.1-rc Incorrectly assumes ""this"" is not nullish even when declared as such"
+59755,2024-08-26T19:09:45Z,assign user to issue,RyanCavanaugh,RyanCavanaugh
+59755,2024-08-26T19:10:10Z,commit changes,RyanCavanaugh,bf077f24c0baad3578f39918c0c76539030cc260
+59755,2024-08-26T19:12:07Z,commit changes,RyanCavanaugh,ea2c597187123c28b7d914fa37b0bc43a3273122
+59755,2024-08-26T19:13:47Z,add label to issue,RyanCavanaugh,Bug
+59755,2024-08-26T19:13:50Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.2
+59755,2024-08-26T19:15:32+00:00,create PR,RyanCavanaugh,59761
+59755,2024-08-26T19:15:33Z,link PR to issue,RyanCavanaugh,59761
+59755,2024-08-26T19:15:35Z,assign user to PR,RyanCavanaugh,RyanCavanaugh
+59755,2024-08-26T19:15:36Z,add label to PR,typescript-bot,Author: Team
+59755,2024-08-26T19:15:37Z,add label to PR,typescript-bot,For Milestone Bug
+59755,2024-08-26T19:15:38Z,add label to issue,typescript-bot,Fix Available
+59755,2024-08-26T19:17:02Z,review PR,jakebailey,59761
+59755,2024-08-26T19:30:27Z,merge PR,RyanCavanaugh,
+59755,2024-08-26T19:30:27Z,close PR,RyanCavanaugh,
+59755,2024-08-26T19:30:28Z,close issue,RyanCavanaugh,
+59755,2024-08-27T17:34:53Z,delete PR branch,RyanCavanaugh,59761
+59032,2024-06-26T05:01:17+00:00,create issue,bjornbacklund,TS 5.5.2: JavaScript and TypeScript language service has been disabled after crashing repeatedly
+59032,2024-06-26T21:50:47Z,add label to issue,RyanCavanaugh,Bug
+59032,2024-06-26T21:50:51Z,assign user to issue,DanielRosenwasser,DanielRosenwasser
+59032,2024-06-26T21:50:53Z,add milestone to issue,RyanCavanaugh,TypeScript 5.5.3
+59032,2024-07-02T15:41:55Z,close issue,bjornbacklund,
+59422,2024-07-25T11:38:54+00:00,create issue,Roise-yue,Debug Failure. Expected 55 <= 54
+59422,2024-07-26T07:58:37Z,commit changes,Andarist,fefebf8420853ca7cdc5921bf3c28f2be7311cfb
+59422,2024-07-26T07:59:21+00:00,create PR,Andarist,59428
+59422,2024-07-26T07:59:21Z,link PR to issue,Andarist,59428
+59422,2024-07-26T07:59:24Z,add label to PR,typescript-bot,For Uncommitted Bug
+59422,2024-07-26T08:48:42Z,commit changes,Andarist,32bef9453ad13deeb5d84a1ca4f964be4cabf6f3
+59422,2024-07-26T20:11:36Z,add label to issue,RyanCavanaugh,Bug
+59422,2024-07-26T20:11:36Z,add label to issue,RyanCavanaugh,Help Wanted
+59422,2024-07-28T07:47:17Z,commit changes,Andarist,49cf4d29fb7169194394379ce64a34602aa0bd61
+59422,2024-07-28T07:47:25Z,assign user to PR,armanio123,armanio123
+59422,2024-07-28T07:47:26Z,remove label from PR,typescript-bot,For Uncommitted Bug
+59422,2024-07-28T07:47:27Z,add label to PR,typescript-bot,For Milestone Bug
+59422,2024-07-28T07:47:28Z,add label to issue,typescript-bot,Fix Available
+59422,2024-07-29T20:25:05Z,review PR,jakebailey,59428
+59422,2024-07-29T20:31:16Z,merge PR,jakebailey,
+59422,2024-07-29T20:31:16Z,close PR,jakebailey,
+59422,2024-07-29T20:31:18Z,close issue,jakebailey,
+59150,2024-07-05T19:03:57+00:00,create issue,maxpatiiuk,bug(Printer): LF newline in template strings is escaped when it shouldn't be
+59150,2024-07-05T21:50:07Z,add label to issue,andrewbranch,Needs Investigation
+59150,2024-07-05T21:50:11Z,assign user to issue,rbuckton,rbuckton
+59150,2024-07-05T21:50:15Z,add milestone to issue,andrewbranch,TypeScript 5.6.0
+59150,2024-10-21T18:12:53Z,commit changes,rbuckton,ea65ce05446f84da511bfbd0fd6edc3518ece4e7
+59150,2024-10-21T18:15:40+00:00,create PR,rbuckton,60303
+59150,2024-10-21T18:15:40Z,request review for PR,rbuckton,jakebailey
+59150,2024-10-21T18:15:40Z,request review for PR,rbuckton,iisaduan
+59150,2024-10-21T18:15:41Z,link PR to issue,rbuckton,60303
+59150,2024-10-21T18:15:42Z,assign user to PR,rbuckton,rbuckton
+59150,2024-10-21T18:15:43Z,add label to PR,typescript-bot,Author: Team
+59150,2024-10-21T18:15:43Z,add label to PR,typescript-bot,Author: Team
+59150,2024-10-21T18:15:44Z,add label to PR,typescript-bot,For Milestone Bug
+59150,2024-10-21T18:15:45Z,add label to PR,typescript-bot,For Milestone Bug
+59150,2024-10-21T18:15:45Z,add label to PR,typescript-bot,For Milestone Bug
+59150,2024-10-21T18:15:45Z,add label to PR,typescript-bot,For Milestone Bug
+59150,2024-10-21T18:15:45Z,add label to PR,typescript-bot,For Milestone Bug
+59150,2024-10-21T18:15:46Z,add label to issue,typescript-bot,Fix Available
+59150,2024-10-21T18:15:46Z,add label to issue,typescript-bot,Fix Available
+59150,2024-10-21T18:15:46Z,add label to issue,typescript-bot,Fix Available
+59150,2024-10-21T18:15:46Z,add label to issue,typescript-bot,Fix Available
+59150,2024-10-21T18:15:46Z,add label to issue,typescript-bot,Fix Available
+59150,2024-10-21T18:15:46Z,add label to issue,typescript-bot,Fix Available
+59150,2024-10-21T19:02:15Z,commit changes,rbuckton,bfd41c11eea68fad97e8aeac1a8cd3667d697184
+59150,2024-10-21T19:02:48Z,review PR,jakebailey,60303
+59150,2024-10-21T19:12:33Z,remove label from issue,rbuckton,Needs Investigation
+59150,2024-10-21T19:12:33Z,add label to issue,rbuckton,Bug
+59150,2024-10-21T19:12:33Z,add label to issue,rbuckton,Domain: Transforms
+59150,2024-10-21T19:13:26Z,review PR,iisaduan,60303
+59150,2024-10-21T20:18:47Z,review PR,DanielRosenwasser,60303
+59150,2024-10-21T20:18:54Z,merge PR,DanielRosenwasser,
+59150,2024-10-21T20:18:54Z,close PR,DanielRosenwasser,
+59150,2024-10-21T20:18:55Z,close issue,DanielRosenwasser,
+59150,2024-10-21T20:18:55Z,delete PR branch,DanielRosenwasser,60303
+59150,2024-10-21T20:19:02Z,remove milestone from issue,DanielRosenwasser,TypeScript 5.6.0
+59150,2024-10-21T20:19:02Z,add milestone to issue,DanielRosenwasser,TypeScript 5.7.1
+59030,2024-06-26T01:51:54+00:00,create issue,clemyan,Unable to use top-level for-await loops with module `preserve`
+59030,2024-06-26T19:19:06Z,commit changes,Andarist,388f0853847e6dc53a307f8f10245be5b091657d
+59030,2024-06-26T19:19:59+00:00,create PR,Andarist,59042
+59030,2024-06-26T19:20:00Z,link PR to issue,Andarist,59042
+59030,2024-06-26T19:20:02Z,add label to PR,typescript-bot,For Uncommitted Bug
+59030,2024-06-26T19:39:10Z,review PR,andrewbranch,59042
+59030,2024-06-26T19:40:07Z,merge PR,andrewbranch,
+59030,2024-06-26T19:40:07Z,close PR,andrewbranch,
+59030,2024-06-26T19:40:08Z,close issue,andrewbranch,
+59030,2024-06-26T19:40:18Z,assign user to issue,andrewbranch,andrewbranch
+59030,2024-06-26T19:40:21Z,add label to issue,andrewbranch,Bug
+59030,2024-06-26T19:40:26Z,add milestone to issue,andrewbranch,TypeScript 5.6.0
+59024,2024-06-25T20:25:04+00:00,create issue,SuperchupuDev,`isolatedDeclarations` not giving related errors under `noEmit`
+59024,2024-06-26T18:43:50Z,commit changes,sheetalkamat,73d0cafb7d593e40a77668a33869e9f459039083
+59024,2024-06-26T19:51:50Z,add label to issue,RyanCavanaugh,Bug
+59024,2024-06-26T19:51:54Z,assign user to issue,sheetalkamat,sheetalkamat
+59024,2024-06-26T19:51:57Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.0
+59024,2024-06-27T21:39:38Z,commit changes,sheetalkamat,61b1933337f74d61fe619a5d2d0c8c0ea9908853
+59024,2024-06-27T22:58:32Z,commit changes,sheetalkamat,8b6cc163ada14e154b91765ec592bae7a7c37ce3
+59024,2024-06-28T06:32:07Z,commit changes,sheetalkamat,07d7eb3c213896fd31626d18b01a96b66847804a
+59024,2024-06-28T16:55:39Z,commit changes,sheetalkamat,32a807519fb96b8caab52603bf2931369d536ff6
+59024,2024-06-28T17:01:04+00:00,create PR,sheetalkamat,59065
+59024,2024-06-28T17:01:06Z,assign user to PR,sheetalkamat,sheetalkamat
+59024,2024-06-28T17:01:07Z,add label to PR,typescript-bot,Author: Team
+59024,2024-06-28T17:01:08Z,add label to PR,typescript-bot,For Uncommitted Bug
+59024,2024-06-28T17:01:32Z,link PR to issue,sheetalkamat,59065
+59024,2024-06-28T17:01:35Z,remove label from PR,typescript-bot,For Uncommitted Bug
+59024,2024-06-28T17:01:36Z,add label to PR,typescript-bot,For Milestone Bug
+59024,2024-06-28T17:01:37Z,add label to issue,typescript-bot,Fix Available
+59024,2024-06-28T17:25:37Z,head ref force pushed,sheetalkamat,
+59024,2024-06-28T18:28:16Z,close PR,sheetalkamat,
+59024,2024-06-28T18:28:19Z,reopen PR,sheetalkamat,
+59024,2024-06-28T18:28:53Z,request review for PR,sheetalkamat,andrewbranch
+59024,2024-06-28T18:28:53Z,request review for PR,sheetalkamat,jakebailey
+59024,2024-06-28T18:29:00Z,request review for PR,sheetalkamat,weswigham
+59024,2024-06-28T18:29:46Z,ready for review,sheetalkamat,
+59024,2024-06-28T18:42:44Z,commit changes,sheetalkamat,4eae97418b9a30052a19c5f7207dd403fce60485
+59024,2024-06-28T19:09:11Z,close PR,sheetalkamat,
+59024,2024-06-28T19:09:14Z,reopen PR,sheetalkamat,
+59024,2024-06-28T20:27:51Z,review PR,weswigham,59065
+59024,2024-06-28T20:36:24Z,commit changes,sheetalkamat,ad2102d9b47a3cb7a68bf4c1c8ed61d2abe5a147
+59024,2024-06-28T20:55:49Z,merge PR,sheetalkamat,
+59024,2024-06-28T20:55:49Z,close PR,sheetalkamat,
+59024,2024-06-28T20:55:50Z,close issue,sheetalkamat,
+59024,2024-06-28T20:55:51Z,delete PR branch,sheetalkamat,59065
+59024,2024-08-20T09:56:09Z,link PR to issue,jh-leong,11669
+28810,2018-12-03T00:10:19+00:00,create issue,rhys-vdw,TS 3.2.1 TypeError: Cannot read property 'kind' of undefined
+28810,2018-12-04T18:56:11Z,add label to issue,weswigham,Bug
+28810,2018-12-04T18:56:11Z,add label to issue,weswigham,Needs More Info
+28810,2018-12-04T18:56:11Z,add label to issue,weswigham,API
+28810,2018-12-04T18:56:11Z,add label to issue,weswigham,Needs Investigation
+28810,2018-12-04T18:56:11Z,add label to issue,weswigham,Crash
+28810,2019-01-10T00:24:29Z,commit changes,weswigham,5848d3ecb1e4b9d65d1ae9c85e162fa3b47bd707
+28810,2019-01-10T00:42:10+00:00,create PR,weswigham,29339
+28810,2019-01-10T00:42:10Z,link PR to issue,weswigham,29339
+28810,2019-01-10T00:42:21Z,request review for PR,weswigham,sandersn
+28810,2019-01-24T23:21:32Z,assigned,weswigham,
+28810,2019-03-07T21:04:18Z,commit changes,weswigham,431feb33d7a09e405feb56ab382685beea1c3052
+28810,2019-03-07T21:07:25Z,commit changes,weswigham,d64179f3b9157e77a5ca4dcb959df3c9bebd1f40
+28810,2019-03-07T21:33:51Z,review PR,sheetalkamat,29339
+28810,2019-03-07T21:34:29Z,close issue,weswigham,
+28810,2019-03-07T21:34:29Z,merge PR,weswigham,
+28810,2019-03-07T21:34:29Z,close PR,weswigham,
+28810,2019-03-07T21:34:33Z,delete PR branch,weswigham,29339
+28810,2019-03-07T22:57:20Z,remove label from issue,RyanCavanaugh,Needs Investigation
+28810,2020-06-22T16:07:31Z,link PR to issue,anthonyjoeseph,45630
+28810,2021-08-30T00:07:48Z,commit changes,vepanimas,5a028bd8af6b3ab059de36e452c8cfcb69fd4a29
+28810,2021-08-30T00:08:03Z,commit changes,vepanimas,9a2a7ee1b8cd3f3dd035cd39829285e44a6334c6
+28810,2021-08-30T00:11:15+00:00,create PR,vepanimas,45630
+28810,2021-08-30T00:11:20Z,add label to PR,typescript-bot,For Uncommitted Bug
+28810,2021-09-02T17:12:26Z,review PR,andrewbranch,45630
+28810,2021-09-21T22:23:15Z,add PR to project,sandersn,3886818
+28810,2022-02-03T19:44:15Z,close PR,RyanCavanaugh,
+59353,2024-07-19T06:53:25+00:00,create issue,Roise-yue,Debug Failure caused by missing right parenthesis
+59353,2024-07-26T07:58:37Z,commit changes,Andarist,fefebf8420853ca7cdc5921bf3c28f2be7311cfb
+59353,2024-07-26T07:59:21+00:00,create PR,Andarist,59428
+59353,2024-07-26T07:59:24Z,add label to PR,typescript-bot,For Uncommitted Bug
+59353,2024-07-26T08:48:42Z,commit changes,Andarist,32bef9453ad13deeb5d84a1ca4f964be4cabf6f3
+59353,2024-07-26T08:49:32Z,link PR to issue,Andarist,59428
+59353,2024-07-26T23:22:19Z,add label to issue,RyanCavanaugh,Bug
+59353,2024-07-26T23:22:21Z,assign user to issue,armanio123,armanio123
+59353,2024-07-26T23:22:24Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59353,2024-07-28T07:47:17Z,commit changes,Andarist,49cf4d29fb7169194394379ce64a34602aa0bd61
+59353,2024-07-28T07:47:25Z,assign user to PR,armanio123,armanio123
+59353,2024-07-28T07:47:26Z,remove label from PR,typescript-bot,For Uncommitted Bug
+59353,2024-07-28T07:47:27Z,add label to PR,typescript-bot,For Milestone Bug
+59353,2024-07-28T07:47:28Z,add label to issue,typescript-bot,Fix Available
+59353,2024-07-29T20:25:05Z,review PR,jakebailey,59428
+59353,2024-07-29T20:31:16Z,merge PR,jakebailey,
+59353,2024-07-29T20:31:16Z,close PR,jakebailey,
+59353,2024-07-29T20:31:18Z,close issue,jakebailey,
+59650,2024-08-15T15:44:44+00:00,create issue,a-x-,Refactor: move to new file does not work
+59650,2024-08-15T16:04:44Z,assign user to issue,mjbvz,mjbvz
+59650,2024-08-15T22:24:36Z,transferred,mjbvz,
+59650,2024-08-15T22:25:17Z,unassign user from issue,mjbvz,mjbvz
+59650,2024-08-16T16:30:57Z,assign user to issue,navya9singh,navya9singh
+59650,2024-08-16T16:30:59Z,add label to issue,RyanCavanaugh,Bug
+59650,2024-08-16T16:31:02Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59650,2024-10-14T22:55:52Z,commit changes,iisaduan,616c423e41c70e61eef45c1a423aa1dd2cc2231d
+59650,2024-10-15T18:04:49Z,commit changes,iisaduan,12618007cfe35e536fc83b398b236629db8f751c
+59650,2024-10-21T05:20:57Z,commit changes,iisaduan,1c1a88e8cc8432f10d1b64399d0c124b210ba5ff
+59650,2024-10-21T17:23:31Z,commit changes,iisaduan,03ffc581f45ff33c14e97a9557b36d3783279058
+59650,2024-10-21T23:05:12Z,commit changes,iisaduan,90e89e65ef92a7694cfe10138740fa5eee947b7e
+59650,2024-10-22T19:21:49Z,link PR to issue,iisaduan,5
+59650,2024-10-22T19:27:07Z,commit changes,iisaduan,3ca07d106ad8f525fb690046a58efa6886807cb3
+59650,2024-10-23T23:50:04Z,commit changes,iisaduan,a20c2bb8d3480dc9cc23b892399a88e8573c6864
+59650,2024-10-23T23:55:41+00:00,create PR,iisaduan,60333
+59650,2024-10-23T23:55:41Z,request review for PR,iisaduan,andrewbranch
+59650,2024-10-23T23:55:41Z,request review for PR,iisaduan,navya9singh
+59650,2024-10-23T23:55:42Z,link PR to issue,iisaduan,60333
+59650,2024-10-24T21:30:53Z,commit changes,iisaduan,21a65986e2e01431c4d4bfaa7194bf79b6546736
+59650,2024-10-31T23:46:40Z,review PR,andrewbranch,60333
+59650,2024-11-01T00:03:12Z,merge PR,iisaduan,
+59650,2024-11-01T00:03:12Z,close PR,iisaduan,
+59650,2024-11-01T00:03:15Z,close issue,iisaduan,
+59650,2024-11-01T00:03:26Z,delete PR branch,iisaduan,60333
+58764,2024-06-03T20:54:16+00:00,create issue,DanielRosenwasser,`lib.d.ts` Updates for TypeScript 5.6
+58764,2024-06-03T20:54:22Z,add label to issue,DanielRosenwasser,Bug
+58764,2024-06-03T20:54:22Z,add label to issue,DanielRosenwasser,Domain: lib.d.ts
+58764,2024-06-03T20:54:27Z,assign user to issue,sandersn,sandersn
+58764,2024-06-03T20:54:31Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.0
+58764,2024-07-19T21:27:04Z,close issue,DanielRosenwasser,
+3928,2015-07-19T23:47:32+00:00,create issue,pieter-lazzaro,TSX not correctly mapping imported names.
+3928,2015-07-20T17:02:09Z,add label to issue,RyanCavanaugh,Bug
+3928,2015-07-20T17:02:11Z,assign user to issue,RyanCavanaugh,RyanCavanaugh
+3928,2015-07-20T18:11:00Z,add milestone to issue,mhegazy,TypeScript 1.6
+3928,2015-07-21T18:35:05Z,commit changes,RyanCavanaugh,d86fd85bd5423910afa8880aed7b136a4f1f0680
+3928,2015-07-21T18:36:14+00:00,create PR,RyanCavanaugh,3955
+3928,2015-07-21T18:36:14Z,link PR to issue,RyanCavanaugh,3955
+3928,2015-07-21T18:36:15Z,add label to PR,msftclas,cla-not-required
+3928,2015-07-21T19:32:24Z,commit changes,RyanCavanaugh,4ac078be0e086a43c225b0baacb738f1bc89f6ea
+3928,2015-07-22T17:27:55Z,merge PR,RyanCavanaugh,
+3928,2015-07-22T17:27:55Z,close PR,RyanCavanaugh,
+3928,2015-07-22T17:28:04Z,add label to issue,RyanCavanaugh,Fixed
+3928,2015-07-22T17:28:06Z,close issue,RyanCavanaugh,
+3928,2015-07-28T17:02:12Z,delete PR branch,RyanCavanaugh,3955
+3928,2015-07-31T05:11:56Z,reopen issue,RyanCavanaugh,
+3928,2015-07-31T05:12:02Z,remove label from issue,RyanCavanaugh,Fixed
+3928,2015-08-04T00:15:05Z,link PR to issue,ngbrown,5197
+3928,2015-08-04T17:14:52Z,close issue,RyanCavanaugh,
+3928,2015-08-04T17:18:42Z,add label to issue,mhegazy,Fixed
+3928,2015-10-09T21:44:01Z,commit changes,Paul van Brenk,2260f09c38f8784d58335cf87a251bc4e94d5131
+3928,2015-10-09T21:44:28Z,commit changes,Paul van Brenk,ebb0e980eaa2bdce26538829916f7bde34de26ca
+3928,2015-10-09T21:46:36+00:00,create PR,paulvanbrenk,5197
+3928,2015-10-09T21:46:38Z,add label to PR,msftclas,cla-not-required
+3928,2015-10-09T22:14:31Z,rename PR,DanielRosenwasser,Support block indentation style
+3928,2015-10-09T22:16:56Z,rename PR,paulvanbrenk,Support different indentation styles
+3928,2015-10-09T23:24:43Z,commit changes,paulvanbrenk,ab8e93cc7497d90cc2f5bb2dbbe91ae8915906ed
+3928,2015-10-09T23:46:31Z,merge PR,paulvanbrenk,
+3928,2015-10-09T23:46:31Z,close PR,paulvanbrenk,
+3928,2015-10-09T23:46:34Z,delete PR branch,paulvanbrenk,5197
+3928,2018-06-19T20:23:57Z,lock issue,microsoft,3928
+3928,2018-06-19T20:24:06Z,lock PR,microsoft,3955
+3928,2018-06-19T20:29:44Z,lock PR,microsoft,5197
+59490,2024-07-31T19:10:34+00:00,create issue,jakubmazanec,React's `ComponentProps` type issues in TypeScript 5.5.4
+59490,2024-08-01T18:35:02Z,add label to issue,RyanCavanaugh,Bug
+59490,2024-08-01T18:35:04Z,assign user to issue,weswigham,weswigham
+59490,2024-08-01T18:35:08Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.1
+59490,2024-08-02T07:41:47Z,commit changes,Andarist,ee5ecfaed312fdf02536df27113c29c60b3dcdd9
+59490,2024-08-02T07:52:49+00:00,create PR,Andarist,59510
+59490,2024-08-02T07:52:49Z,link PR to issue,Andarist,59510
+59490,2024-08-02T07:52:52Z,assign user to PR,weswigham,weswigham
+59490,2024-08-02T07:52:53Z,add label to issue,typescript-bot,Fix Available
+59490,2024-08-02T07:52:53Z,add label to PR,typescript-bot,For Milestone Bug
+59490,2024-08-06T17:56:45Z,review PR,weswigham,59510
+59490,2024-08-07T10:57:43Z,commit changes,Andarist,549ba363fbce6a5b6a8baf9cc8c2fd215f93b3f4
+59490,2024-08-07T11:01:54Z,commit changes,Andarist,c21266aa3b2903c497782f86b8ca6ce383c364ba
+59490,2024-08-08T19:27:13Z,review PR,jakebailey,59510
+59490,2024-08-09T03:24:11Z,merge PR,jakebailey,
+59490,2024-08-09T03:24:11Z,close PR,jakebailey,
+59490,2024-08-09T03:24:12Z,close issue,jakebailey,
+59484,2024-07-31T13:10:34+00:00,create issue,acutmore,Constructor overload still present in emitted JS
+59484,2024-07-31T16:36:51Z,assign user to issue,rbuckton,rbuckton
+59484,2024-07-31T16:36:57Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.1
+59484,2024-07-31T16:37:05Z,add label to issue,RyanCavanaugh,Bug
+59484,2024-07-31T19:28:16Z,commit changes,a-tarasyuk,ba976076b2531a1677e22aca45ff1ac4e54b7c01
+59484,2024-07-31T19:29:57+00:00,create PR,a-tarasyuk,59491
+59484,2024-07-31T19:29:57Z,link PR to issue,a-tarasyuk,59491
+59484,2024-07-31T19:30:00Z,assign user to PR,rbuckton,rbuckton
+59484,2024-07-31T19:30:01Z,add label to PR,typescript-bot,For Milestone Bug
+59484,2024-07-31T19:30:02Z,add label to issue,typescript-bot,Fix Available
+59484,2024-08-08T16:37:29Z,review PR,rbuckton,59491
+59484,2024-08-08T16:37:57Z,merge PR,rbuckton,
+59484,2024-08-08T16:37:57Z,close PR,rbuckton,
+59484,2024-08-08T16:37:58Z,close issue,rbuckton,
+59651,2024-08-15T11:12:55+00:00,create issue,tjx666,typescript `Move to a new file` doesn't work when namespace import react
+59651,2024-08-15T12:03:59Z,assign user to issue,mjbvz,mjbvz
+59651,2024-08-15T22:30:56Z,transferred,mjbvz,
+59651,2024-08-15T22:31:01Z,unassign user from issue,mjbvz,mjbvz
+59651,2024-08-15T23:14:07Z,add label to issue,RyanCavanaugh,Bug
+59651,2024-08-15T23:14:09Z,assign user to issue,navya9singh,navya9singh
+59651,2024-08-15T23:14:13Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59651,2024-10-14T22:55:52Z,commit changes,iisaduan,616c423e41c70e61eef45c1a423aa1dd2cc2231d
+59651,2024-10-15T18:04:49Z,commit changes,iisaduan,12618007cfe35e536fc83b398b236629db8f751c
+59651,2024-10-21T05:20:57Z,commit changes,iisaduan,1c1a88e8cc8432f10d1b64399d0c124b210ba5ff
+59651,2024-10-21T17:23:31Z,commit changes,iisaduan,03ffc581f45ff33c14e97a9557b36d3783279058
+59651,2024-10-21T23:05:12Z,commit changes,iisaduan,90e89e65ef92a7694cfe10138740fa5eee947b7e
+59651,2024-10-22T19:21:49Z,link PR to issue,iisaduan,5
+59651,2024-10-22T19:27:07Z,commit changes,iisaduan,3ca07d106ad8f525fb690046a58efa6886807cb3
+59651,2024-10-23T23:50:04Z,commit changes,iisaduan,a20c2bb8d3480dc9cc23b892399a88e8573c6864
+59651,2024-10-23T23:55:41+00:00,create PR,iisaduan,60333
+59651,2024-10-23T23:55:41Z,request review for PR,iisaduan,andrewbranch
+59651,2024-10-23T23:55:41Z,request review for PR,iisaduan,navya9singh
+59651,2024-10-23T23:55:42Z,link PR to issue,iisaduan,60333
+59651,2024-10-24T21:30:53Z,commit changes,iisaduan,21a65986e2e01431c4d4bfaa7194bf79b6546736
+59651,2024-10-31T23:46:40Z,review PR,andrewbranch,60333
+59651,2024-11-01T00:03:12Z,merge PR,iisaduan,
+59651,2024-11-01T00:03:12Z,close PR,iisaduan,
+59651,2024-11-01T00:03:15Z,close issue,iisaduan,
+59651,2024-11-01T00:03:26Z,delete PR branch,iisaduan,60333
+60007,2024-09-19T17:20:05+00:00,create issue,andrewbranch,"JSDoc `@import` of ""tslib"" fails under `--moduleResolution bundler`"
+60007,2024-09-19T17:20:15Z,assign user to issue,andrewbranch,andrewbranch
+60007,2024-09-19T17:20:23Z,add milestone to issue,andrewbranch,TypeScript 5.7.0
+60007,2024-09-19T17:20:29Z,add label to issue,andrewbranch,Bug
+60007,2024-09-19T21:15:20Z,commit changes,andrewbranch,c2597d0ea4bd1f7462ff2a5c08ef1101b663a221
+60007,2024-09-19T21:41:00+00:00,create PR,andrewbranch,60011
+60007,2024-09-19T21:41:01Z,link PR to issue,andrewbranch,60011
+60007,2024-09-19T21:41:03Z,assign user to PR,andrewbranch,andrewbranch
+60007,2024-09-19T21:41:04Z,add label to PR,typescript-bot,Author: Team
+60007,2024-09-19T21:41:05Z,add label to PR,typescript-bot,For Milestone Bug
+60007,2024-09-19T21:41:06Z,add label to issue,typescript-bot,Fix Available
+60007,2024-09-19T21:42:35Z,request review for PR,andrewbranch,sandersn
+60007,2024-09-25T20:43:33Z,review PR,sandersn,60011
+60007,2024-09-25T20:53:22Z,commit changes,sandersn,72ad4efb96a36bcd3ccbd416a2a37e5b818b403a
+60007,2024-09-25T20:53:48Z,review PR,sandersn,60011
+60007,2024-09-25T21:11:07Z,merge PR,sandersn,
+60007,2024-09-25T21:11:07Z,close PR,sandersn,
+60007,2024-09-25T21:11:08Z,close issue,sandersn,
+60007,2024-10-14T15:07:11Z,delete PR branch,andrewbranch,60011
+58598,2024-05-21T03:18:46+00:00,create issue,MichaelMitchell-at,[transpileDeclaration API][5.5] Self referencing generic type constraint with union gets emitted as `unknown`
+58598,2024-05-21T21:58:14Z,commit changes,weswigham,4222e9494c5fdff59afba926bdd9f843769563e5
+58598,2024-05-21T22:02:16+00:00,create PR,weswigham,58610
+58598,2024-05-21T22:02:17Z,link PR to issue,weswigham,58610
+58598,2024-05-21T22:02:19Z,assign user to PR,weswigham,weswigham
+58598,2024-05-21T22:02:20Z,add label to PR,typescript-bot,Author: Team
+58598,2024-05-21T22:02:21Z,add label to PR,typescript-bot,For Uncommitted Bug
+58598,2024-05-21T22:05:47Z,commit changes,weswigham,15ca54c76b7ba6a5869967ca67462673ae4131a4
+58598,2024-05-21T22:23:10Z,commit changes,typescript-bot,ac9b208b766e284b54fab5fbbf36ab3b1b0896c1
+58598,2024-05-21T22:25:11Z,ready for review,weswigham,
+58598,2024-05-21T22:25:30Z,request review for PR,weswigham,sandersn
+58598,2024-05-21T22:25:30Z,request review for PR,weswigham,jakebailey
+58598,2024-05-22T18:48:06Z,review PR,sandersn,58610
+58598,2024-05-23T16:38:17Z,add label to issue,weswigham,Bug
+58598,2024-05-23T16:38:17Z,add label to issue,weswigham,Domain: ts.transpileDeclaration
+58598,2024-05-23T16:38:17Z,add label to issue,weswigham,Domain: Isolated Declarations
+58598,2024-05-23T16:38:57Z,merge PR,weswigham,
+58598,2024-05-23T16:38:57Z,close PR,weswigham,
+58598,2024-05-23T16:38:58Z,close issue,weswigham,
+60401,2024-11-03T22:30:49+00:00,create issue,kbjr,Comma operator seems to confuse nullish coalescing
+60401,2024-11-03T23:07:30Z,commit changes,Andarist,10129a452a893f9b6ab166912ccb7529058e9947
+60401,2024-11-03T23:07:56+00:00,create PR,Andarist,60402
+60401,2024-11-03T23:07:57Z,link PR to issue,Andarist,60402
+60401,2024-11-03T23:07:59Z,add label to PR,typescript-bot,For Uncommitted Bug
+60401,2024-11-03T23:09:28Z,commit changes,Andarist,6d61888818a96bb272733ad0cab40df8d7309fc7
+60401,2024-11-04T18:55:42Z,request review for PR,DanielRosenwasser,RyanCavanaugh
+60401,2024-11-04T19:05:50Z,review PR,jakebailey,60402
+60401,2024-11-04T19:29:34Z,add label to issue,RyanCavanaugh,Bug
+60401,2024-11-04T19:29:36Z,add milestone to issue,RyanCavanaugh,Backlog
+60401,2024-11-04T19:29:53Z,review PR,RyanCavanaugh,60402
+60401,2024-11-04T20:43:31Z,merge PR,RyanCavanaugh,
+60401,2024-11-04T20:43:31Z,close PR,RyanCavanaugh,
+60401,2024-11-04T20:43:32Z,close issue,RyanCavanaugh,
+58438,2024-05-05T09:14:06+00:00,create issue,psznm,"Selecting suggestion of string completion deletes everything up to end of line, if no ending quote is present"
+58438,2024-06-02T01:45:10Z,assign user to issue,iisaduan,iisaduan
+58438,2024-06-02T01:53:23Z,add label to issue,iisaduan,Bug
+58438,2024-06-03T07:37:55Z,commit changes,iisaduan,f64f803657841aab5c4f1740325db60506c71a9c
+58438,2024-06-03T07:51:18+00:00,create PR,iisaduan,58742
+58438,2024-06-03T07:51:18Z,link PR to issue,iisaduan,58742
+58438,2024-06-03T07:51:21Z,assign user to PR,iisaduan,iisaduan
+58438,2024-06-03T07:51:21Z,add label to PR,typescript-bot,Author: Team
+58438,2024-06-03T07:51:23Z,add label to PR,typescript-bot,For Uncommitted Bug
+58438,2024-06-03T07:55:09Z,rename PR,iisaduan,fix58438: do not delete comments/code following unterminated string completion
+58438,2024-06-03T07:56:06Z,request review for PR,iisaduan,DanielRosenwasser
+58438,2024-06-03T07:56:06Z,request review for PR,iisaduan,andrewbranch
+58438,2024-06-03T07:56:06Z,request review for PR,iisaduan,gabritto
+58438,2024-06-03T17:12:48Z,review PR,andrewbranch,58742
+58438,2024-06-03T17:33:38Z,commit changes,iisaduan,ed87064fbe891b52d658a86e06a4e11a850ba0c7
+58438,2024-06-03T17:35:11Z,review PR,DanielRosenwasser,58742
+58438,2024-06-03T19:42:34Z,commit changes,iisaduan,315e5ceca9abea1bab4cb070ac041dac4a8d5460
+58438,2024-06-03T19:54:57Z,request review for PR,iisaduan,DanielRosenwasser
+58438,2024-06-03T20:27:48Z,commit changes,DanielRosenwasser,289fab04250beeaac9c0bee5fb3c6fa21f48d52b
+58438,2024-06-03T20:28:09Z,review PR,DanielRosenwasser,58742
+58438,2024-06-04T04:10:32Z,merge PR,iisaduan,
+58438,2024-06-04T04:10:32Z,close PR,iisaduan,
+58438,2024-06-04T04:10:33Z,close issue,iisaduan,
+58438,2024-06-04T20:10:21Z,delete PR branch,iisaduan,58742
+59450,2024-07-28T12:25:42+00:00,create issue,m-shaka,Conditional type evaluation not deferred when it depends on an implicitly-present type parameter
+59450,2024-07-29T15:44:16Z,add label to issue,RyanCavanaugh,Not a Defect
+59450,2024-07-29T15:47:45Z,remove label from issue,RyanCavanaugh,Not a Defect
+59450,2024-07-29T15:47:51Z,add label to issue,RyanCavanaugh,Bug
+59450,2024-07-29T15:47:53Z,add milestone to issue,RyanCavanaugh,Backlog
+59450,2024-07-29T15:48:17Z,rename issue,RyanCavanaugh,Conditional type evaluation not deferred when it depends on an implicitly-present type parameter
+59450,2024-07-31T04:24:58Z,commit changes,Andarist,383635d78eecc8c549be6b362651894b0e58871d
+59450,2024-07-31T04:27:11+00:00,create PR,Andarist,59481
+59450,2024-07-31T04:27:11Z,link PR to issue,Andarist,59481
+59450,2024-07-31T04:27:15Z,add label to PR,typescript-bot,For Backlog Bug
+59450,2024-07-31T04:43:32Z,head ref force pushed,Andarist,
+59450,2024-08-02T15:46:14Z,assign user to issue,ahejlsberg,ahejlsberg
+59450,2024-08-02T17:34:56Z,commit changes,ahejlsberg,5b502e6c0a3ee4a80e8f80ffb4e2e2b82c1e896e
+59450,2024-08-02T17:35:08Z,commit changes,ahejlsberg,6c6eb3360b602729b7d6566bf5f551cd4ddee3bc
+59450,2024-08-02T17:36:30+00:00,create PR,ahejlsberg,59516
+59450,2024-08-02T17:36:30Z,link PR to issue,ahejlsberg,59516
+59450,2024-08-02T17:36:33Z,assign user to PR,ahejlsberg,ahejlsberg
+59450,2024-08-02T17:36:34Z,add label to PR,typescript-bot,Author: Team
+59450,2024-08-02T17:36:35Z,add label to PR,typescript-bot,For Milestone Bug
+59450,2024-08-02T17:36:36Z,add label to issue,typescript-bot,Fix Available
+59450,2024-08-02T23:44:55Z,request review for PR,ahejlsberg,DanielRosenwasser
+59450,2024-08-02T23:44:55Z,request review for PR,ahejlsberg,RyanCavanaugh
+59450,2024-08-03T09:03:25Z,close PR,Andarist,
+59450,2024-08-03T09:03:28Z,assign user to PR,ahejlsberg,ahejlsberg
+59450,2024-08-06T23:06:37Z,review PR,jakebailey,59516
+59450,2024-08-08T20:38:46Z,merge PR,ahejlsberg,
+59450,2024-08-08T20:38:46Z,close PR,ahejlsberg,
+59450,2024-08-08T20:38:47Z,close issue,ahejlsberg,
+59450,2024-08-08T20:38:49Z,delete PR branch,ahejlsberg,59516
+59450,2024-08-22T05:54:29Z,link PR to issue,m-shaka,3310
+58772,2024-06-04T17:46:48+00:00,create issue,lauraharker,Duplicate exports.* = assignments in CommonJS output in some cases
+58772,2024-06-07T15:58:49Z,add label to issue,RyanCavanaugh,Bug
+58772,2024-06-07T15:58:53Z,assign user to issue,rbuckton,rbuckton
+58772,2024-06-07T15:58:54Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.0
+58772,2024-07-02T22:04:36Z,commit changes,a-tarasyuk,abb324ef21329e0fcde3dc46768c66d6c5719db8
+58772,2024-07-02T22:06:50+00:00,create PR,a-tarasyuk,59120
+58772,2024-07-02T22:06:50Z,link PR to issue,a-tarasyuk,59120
+58772,2024-07-02T22:06:53Z,assign user to PR,rbuckton,rbuckton
+58772,2024-07-02T22:06:53Z,add label to PR,typescript-bot,For Milestone Bug
+58772,2024-07-02T22:06:54Z,add label to issue,typescript-bot,Fix Available
+58772,2024-07-08T20:41:39Z,review PR,jakebailey,59120
+58772,2024-07-08T20:41:50Z,request review for PR,jakebailey,rbuckton
+58772,2024-07-22T23:10:30Z,merge PR,jakebailey,
+58772,2024-07-22T23:10:30Z,close PR,jakebailey,
+58772,2024-07-22T23:10:31Z,close issue,jakebailey,
+58558,2024-05-17T16:08:46+00:00,create issue,lucacasonato,Isolated declarations allows return types that reference local expr or type
+58558,2024-05-17T16:09:16Z,rename issue,lucacasonato,Isolated declarations allows return type that references local expr or type
+58558,2024-05-17T16:09:24Z,rename issue,lucacasonato,Isolated declarations allows return types that references local expr or type
+58558,2024-05-17T16:09:29Z,rename issue,lucacasonato,Isolated declarations allows return types that reference local expr or type
+58558,2024-05-17T23:48:39Z,add label to issue,weswigham,Domain: Declaration Emit
+58558,2024-05-17T23:48:39Z,add label to issue,weswigham,Domain: Isolated Declarations
+58558,2024-05-20T22:30:44Z,remove label from issue,weswigham,Domain: Isolated Declarations
+58558,2024-05-20T22:30:44Z,add label to issue,weswigham,Bug
+58558,2024-05-20T22:30:44Z,add label to issue,weswigham,Recent Regression
+58558,2024-05-20T22:39:27Z,add label to issue,weswigham,Domain: Isolated Declarations
+58558,2024-05-20T22:39:32Z,remove label from issue,weswigham,Recent Regression
+58558,2024-05-22T18:04:43Z,commit changes,dragomirtitian,6d1b6987a7a1f84c37bcc9882e659b93c46a7b15
+58558,2024-05-22T18:07:28+00:00,create PR,dragomirtitian,58620
+58558,2024-05-22T18:07:29Z,link PR to issue,dragomirtitian,58620
+58558,2024-05-22T18:07:31Z,add label to PR,typescript-bot,For Uncommitted Bug
+58558,2024-05-22T18:11:26Z,commit changes,dragomirtitian,b8447e29cc7c0b5380e0f925d5499385ac61c7c8
+58558,2024-05-22T18:43:43Z,review PR,weswigham,58620
+58558,2024-05-22T22:20:32Z,commit changes,dragomirtitian,728cdce50cbf5ad07032f91e023e5db05a22db6e
+58558,2024-05-22T22:31:21Z,commit changes,dragomirtitian,30c55c81afff813b9e8e76ec1758faf9c9a4a5de
+58558,2024-05-22T22:50:59Z,review PR,weswigham,58620
+58558,2024-05-22T22:51:11Z,merge PR,weswigham,
+58558,2024-05-22T22:51:11Z,close PR,weswigham,
+58558,2024-05-22T22:51:12Z,close issue,weswigham,
+59108,2024-07-02T08:50:08+00:00,create issue,Titozzz,Regression in types after v5.5
+59108,2024-07-02T22:15:00Z,commit changes,Andarist,e722c8366934a45cc828ec6a2ac885261f37ea70
+59108,2024-07-02T22:16:02+00:00,create PR,Andarist,59121
+59108,2024-07-02T22:16:03Z,link PR to issue,Andarist,59121
+59108,2024-07-02T22:16:05Z,add label to PR,typescript-bot,For Uncommitted Bug
+59108,2024-07-05T21:21:36Z,assign user to issue,weswigham,weswigham
+59108,2024-07-05T21:21:42Z,add milestone to issue,andrewbranch,TypeScript 5.5.3
+59108,2024-07-05T21:21:48Z,add label to issue,andrewbranch,Bug
+59108,2024-07-05T21:22:02Z,assign user to PR,weswigham,weswigham
+59108,2024-07-05T21:22:04Z,remove label from PR,typescript-bot,For Uncommitted Bug
+59108,2024-07-05T21:22:05Z,add label to issue,typescript-bot,Fix Available
+59108,2024-07-05T21:22:05Z,add label to PR,typescript-bot,For Milestone Bug
+59108,2024-07-09T16:05:01Z,remove milestone from issue,andrewbranch,TypeScript 5.5.3
+59108,2024-07-09T16:05:01Z,add milestone to issue,andrewbranch,TypeScript 5.5.4
+59108,2024-07-09T17:52:59Z,commit changes,Andarist,f03f85961232139c1116c638772320a11a8d3b79
+59108,2024-07-09T18:33:47Z,review PR,weswigham,59121
+59108,2024-07-09T18:34:07Z,merge PR,weswigham,
+59108,2024-07-09T18:34:07Z,close PR,weswigham,
+59108,2024-07-09T18:34:08Z,close issue,weswigham,
+59108,2024-07-09T18:35:42Z,delete PR branch,Andarist,59121
+59108,2024-07-16T18:36:59Z,milestoned,DanielRosenwasser,
+58819,2024-06-10T13:50:32+00:00,create issue,turadg,getSpecifierForModuleSymbol failing in 5.5 rc
+58819,2024-06-13T16:51:36Z,assign user to issue,andrewbranch,andrewbranch
+58819,2024-06-13T16:51:39Z,add label to issue,RyanCavanaugh,Bug
+58819,2024-06-13T16:51:43Z,add milestone to issue,RyanCavanaugh,TypeScript 5.5.2
+58819,2024-06-14T23:38:58Z,commit changes,andrewbranch,ade482cabeee8cb49c7a47b654db19650dec5868
+58819,2024-06-14T23:39:34+00:00,create PR,andrewbranch,58872
+58819,2024-06-14T23:39:34Z,link PR to issue,andrewbranch,58872
+58819,2024-06-14T23:39:37Z,assign user to PR,andrewbranch,andrewbranch
+58819,2024-06-14T23:39:38Z,add label to PR,typescript-bot,Author: Team
+58819,2024-06-14T23:39:39Z,add label to PR,typescript-bot,For Milestone Bug
+58819,2024-06-14T23:39:40Z,add label to issue,typescript-bot,Fix Available
+58819,2024-06-14T23:39:50Z,request review for PR,andrewbranch,weswigham
+58819,2024-06-14T23:45:33Z,review PR,weswigham,58872
+58819,2024-06-15T01:21:00Z,milestoned,DanielRosenwasser,
+58819,2024-06-17T19:01:41Z,merge PR,DanielRosenwasser,
+58819,2024-06-17T19:01:41Z,close PR,DanielRosenwasser,
+58819,2024-06-17T19:01:42Z,close issue,DanielRosenwasser,
+58819,2024-06-17T20:25:32Z,delete PR branch,andrewbranch,58872
+59252,2024-07-12T07:00:15+00:00,create issue,KnorpelSenf,Incorrect report of `Signature '(): false' must be a type predicate` since TS 5.5
+59252,2024-07-12T07:08:51Z,rename issue,KnorpelSenf,Incorrect report of `Signature '(): false' must be a type predicate` since TS 5.5
+59252,2024-07-12T17:44:57Z,add label to issue,RyanCavanaugh,Working as Intended
+59252,2024-07-12T23:09:43Z,remove label from issue,RyanCavanaugh,Working as Intended
+59252,2024-07-16T21:39:25Z,add label to issue,RyanCavanaugh,Bug
+59252,2024-07-16T21:39:25Z,add label to issue,RyanCavanaugh,Help Wanted
+59252,2024-07-16T21:48:42+00:00,create PR,RyanCavanaugh,59310
+59252,2024-07-16T21:48:43Z,link PR to issue,RyanCavanaugh,59310
+59252,2024-07-16T21:48:46Z,assign user to PR,RyanCavanaugh,RyanCavanaugh
+59252,2024-07-16T21:48:46Z,add label to PR,typescript-bot,Author: Team
+59252,2024-07-16T21:48:47Z,add label to PR,typescript-bot,For Uncommitted Bug
+59252,2024-07-16T21:54:40Z,convert to draft,RyanCavanaugh,
+59252,2024-07-16T22:01:26Z,commit changes,RyanCavanaugh,54a83b9901d25cfd895a46b6c6d5e2cb2b54431f
+59252,2024-07-16T22:02:17Z,head ref force pushed,RyanCavanaugh,
+59252,2024-07-17T17:32:58Z,commit changes,RyanCavanaugh,08a65b1d0587bd2a0d4e20b33081ea76371c0e4e
+59252,2024-07-17T17:33:39Z,ready for review,RyanCavanaugh,
+59252,2024-07-17T18:39:50Z,review PR,jakebailey,59310
+59252,2024-07-17T23:55:22Z,review dismissed,jakebailey,
+59252,2024-07-23T19:37:47Z,commit changes,RyanCavanaugh,a26f4350d6f589e8d69ec2000e7e53512eae54e7
+59252,2024-07-23T19:41:05Z,commit changes,RyanCavanaugh,094509a5581e7b0139d28bb3ee9e38cd1597ccb4
+59252,2024-08-02T17:01:24Z,review PR,jakebailey,59310
+59252,2024-08-02T17:38:36Z,merge PR,RyanCavanaugh,
+59252,2024-08-02T17:38:36Z,close PR,RyanCavanaugh,
+59252,2024-08-02T17:38:37Z,close issue,RyanCavanaugh,
+59252,2024-08-02T17:38:40Z,delete PR branch,RyanCavanaugh,59310
+58616,2024-05-22T11:50:57+00:00,create issue,finom,"More flexible handling of circular types with ""typeof function"" inference "
+58616,2024-05-24T14:26:56Z,assign user to issue,ahejlsberg,ahejlsberg
+58616,2024-05-24T14:27:36Z,add label to issue,ahejlsberg,Bug
+58616,2024-05-24T14:29:12Z,add label to issue,ahejlsberg,Possible Improvement
+58616,2024-05-24T17:21:13Z,commit changes,ahejlsberg,317eeae4e65dd265c5bfea11da47db2e77f70c0e
+58616,2024-05-24T17:22:02Z,commit changes,ahejlsberg,6e3d434d7bb81097cb547e6f8a2e99bb4331c740
+58616,2024-05-24T17:24:27Z,commit changes,ahejlsberg,feba86ddd6af75817d34a5e9a7cfe24cab975074
+58616,2024-05-24T17:25:13+00:00,create PR,ahejlsberg,58650
+58616,2024-05-24T17:25:13Z,link PR to issue,ahejlsberg,58650
+58616,2024-05-24T17:25:16Z,assign user to PR,ahejlsberg,ahejlsberg
+58616,2024-05-24T17:25:17Z,add label to PR,typescript-bot,Author: Team
+58616,2024-05-24T17:25:18Z,add label to PR,typescript-bot,For Uncommitted Bug
+58616,2024-05-24T17:35:29Z,commit changes,ahejlsberg,0e28408efa563fda802163b481e1e18de33e717c
+58616,2024-05-24T17:38:17Z,request review for PR,ahejlsberg,DanielRosenwasser
+58616,2024-05-24T17:38:17Z,request review for PR,ahejlsberg,RyanCavanaugh
+58616,2024-05-24T17:38:36Z,add milestone to issue,ahejlsberg,TypeScript 5.5.1
+58616,2024-05-26T16:32:37Z,add label to issue,ahejlsberg,Fix Available
+58616,2024-05-27T17:44:16Z,review PR,gabritto,58650
+58616,2024-05-28T15:10:07Z,merge PR,ahejlsberg,
+58616,2024-05-28T15:10:07Z,close PR,ahejlsberg,
+58616,2024-05-28T15:10:07Z,delete PR branch,ahejlsberg,58650
+58616,2024-05-28T15:10:08Z,close issue,ahejlsberg,
+59051,2024-06-27T07:02:01+00:00,create issue,RomainLanz,TS 5.5 - Imports used by decorator output are removed
+59051,2024-06-28T01:58:10Z,add label to issue,DanielRosenwasser,Bug
+59051,2024-06-28T01:58:10Z,add label to issue,DanielRosenwasser,Domain: Declaration Emit
+59051,2024-06-28T01:58:10Z,add label to issue,DanielRosenwasser,Recent Regression
+59051,2024-06-28T01:58:18Z,assign user to issue,rbuckton,rbuckton
+59051,2024-06-28T01:58:24Z,add milestone to issue,DanielRosenwasser,TypeScript 5.6.0
+59051,2024-07-17T17:07:09Z,commit changes,jakebailey,0fd3b427db04120fa954c0c6f9b819851ab224ce
+59051,2024-07-17T17:19:21Z,commit changes,jakebailey,fdf4432cf868611ed3bbfd060ed9d998cd368475
+59051,2024-07-17T17:20:27+00:00,create PR,jakebailey,59325
+59051,2024-07-17T17:20:27Z,link PR to issue,jakebailey,59325
+59051,2024-07-17T17:20:27Z,request review for PR,jakebailey,weswigham
+59051,2024-07-17T17:20:27Z,request review for PR,jakebailey,andrewbranch
+59051,2024-07-17T17:20:27Z,request review for PR,jakebailey,rbuckton
+59051,2024-07-17T17:32:08Z,remove milestone from issue,DanielRosenwasser,TypeScript 5.6.0
+59051,2024-07-17T17:32:08Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.4
+59051,2024-07-17T17:34:38Z,assign user to PR,jakebailey,jakebailey
+59051,2024-07-17T17:34:39Z,add label to PR,typescript-bot,Author: Team
+59051,2024-07-17T17:34:40Z,assign user to PR,rbuckton,rbuckton
+59051,2024-07-17T17:34:40Z,add label to PR,typescript-bot,For Milestone Bug
+59051,2024-07-17T17:34:41Z,add label to issue,typescript-bot,Fix Available
+59051,2024-07-17T17:34:41Z,add label to issue,typescript-bot,Fix Available
+59051,2024-07-17T20:37:07Z,commit changes,jakebailey,e6407a88e2e6ebec7243dfb7f45edd04c6510f51
+59051,2024-07-17T20:43:01Z,rename PR,jakebailey,Don't skip markLinkedReferences on ambient properties
+59051,2024-07-17T20:55:53Z,request review for PR,jakebailey,weswigham
+59051,2024-07-17T22:56:37Z,review PR,weswigham,59325
+59051,2024-07-17T23:10:13Z,merge PR,jakebailey,
+59051,2024-07-17T23:10:13Z,close PR,jakebailey,
+59051,2024-07-17T23:10:14Z,close issue,jakebailey,
+59051,2024-07-17T23:10:17Z,delete PR branch,jakebailey,59325
+59051,2024-07-17T23:37:43Z,assign user to issue,jakebailey,jakebailey
+59051,2024-07-17T23:37:43Z,unassign user from issue,rbuckton,rbuckton
+60175,2024-10-09T03:07:46+00:00,create issue,acutmore,Ambiguous scoping of if statement body
+60175,2024-10-09T16:08:47Z,add label to issue,RyanCavanaugh,Bug
+60175,2024-10-09T16:08:47Z,add label to issue,RyanCavanaugh,Help Wanted
+60175,2024-10-09T16:08:49Z,add milestone to issue,RyanCavanaugh,Backlog
+60175,2024-10-10T10:21:43Z,commit changes,Andarist,763f526795d477b6eafe45849a069b5c6f6e470e
+60175,2024-10-10T10:22:44+00:00,create PR,Andarist,60183
+60175,2024-10-10T10:22:45Z,link PR to issue,Andarist,60183
+60175,2024-10-10T10:22:48Z,add label to PR,typescript-bot,For Backlog Bug
+60175,2024-10-10T18:59:58Z,review PR,jakebailey,60183
+60175,2024-10-10T19:00:12Z,request review for PR,jakebailey,rbuckton
+60175,2024-10-10T19:00:12Z,request review for PR,jakebailey,RyanCavanaugh
+60175,2024-10-18T16:24:34Z,merge PR,RyanCavanaugh,
+60175,2024-10-18T16:24:34Z,close PR,RyanCavanaugh,
+60175,2024-10-18T16:24:36Z,close issue,RyanCavanaugh,
+58603,2024-05-21T10:33:21+00:00,create issue,WGroenestein,Type union not matched starting from TS 5.1
+58603,2024-06-06T22:56:03Z,add label to issue,RyanCavanaugh,Needs Investigation
+58603,2024-06-06T22:56:07Z,assign user to issue,ahejlsberg,ahejlsberg
+58603,2024-06-22T05:49:27Z,remove label from issue,ahejlsberg,Needs Investigation
+58603,2024-06-22T05:49:27Z,add label to issue,ahejlsberg,Bug
+58603,2024-06-22T05:49:34Z,add milestone to issue,ahejlsberg,TypeScript 5.6.0
+58603,2024-06-22T06:21:39Z,commit changes,ahejlsberg,5e6a5145d1f3845a134196255a942528e3c69062
+58603,2024-06-22T06:21:58Z,commit changes,ahejlsberg,53fa660cef5d0cef0407656d056bd0ec9977cc2a
+58603,2024-06-22T06:24:25+00:00,create PR,ahejlsberg,58970
+58603,2024-06-22T06:24:25Z,link PR to issue,ahejlsberg,58970
+58603,2024-06-22T06:24:27Z,assign user to PR,ahejlsberg,ahejlsberg
+58603,2024-06-22T06:24:28Z,add label to PR,typescript-bot,Author: Team
+58603,2024-06-22T06:24:29Z,add label to PR,typescript-bot,For Milestone Bug
+58603,2024-06-22T06:24:30Z,add label to issue,typescript-bot,Fix Available
+58603,2024-06-22T06:48:59Z,commit changes,ahejlsberg,9323ec0786f8266ae8348776155c8e6d79cdf15f
+58603,2024-06-22T08:37:47Z,commit changes,ahejlsberg,f1c7c9fdc793320383c2798ac504d2ce147c3452
+58603,2024-06-22T12:04:12Z,close PR,ahejlsberg,
+58603,2024-06-22T12:05:06Z,commit changes,ahejlsberg,2e68b7614bcab17a0f7d89fb9f513d4cdae997aa
+58603,2024-06-22T12:05:25Z,commit changes,ahejlsberg,c994e9ff702dffd9d91c0e47a79630e884e08c03
+58603,2024-06-22T12:06:31+00:00,create PR,ahejlsberg,58974
+58603,2024-06-22T12:06:32Z,link PR to issue,ahejlsberg,58974
+58603,2024-06-22T12:06:34Z,assign user to PR,ahejlsberg,ahejlsberg
+58603,2024-06-22T12:06:35Z,add label to PR,typescript-bot,Author: Team
+58603,2024-06-22T12:06:36Z,add label to PR,typescript-bot,For Milestone Bug
+58603,2024-06-23T07:43:40Z,commit changes,ahejlsberg,559d8e7fc25ef14c3c9f1cc82dc7ea176fda555b
+58603,2024-06-23T07:45:06Z,request review for PR,ahejlsberg,RyanCavanaugh
+58603,2024-06-24T14:35:59Z,review PR,jakebailey,58974
+58603,2024-06-24T15:47:41Z,review PR,RyanCavanaugh,58974
+58603,2024-06-25T05:14:12Z,merge PR,ahejlsberg,
+58603,2024-06-25T05:14:12Z,close PR,ahejlsberg,
+58603,2024-06-25T05:14:13Z,close issue,ahejlsberg,
+58603,2024-06-25T05:14:13Z,delete PR branch,ahejlsberg,58974
+59253,2024-07-12T10:06:39+00:00,create issue,SamVerschueren,RangeError: Maximum call stack size exceeded when building monaco (5.5.2)
+59253,2024-07-17T17:22:37Z,add label to issue,DanielRosenwasser,Bug
+59253,2024-07-17T17:22:37Z,add label to issue,DanielRosenwasser,Crash
+59253,2024-07-17T17:22:37Z,add label to issue,DanielRosenwasser,Domain: JS Emit
+59253,2024-07-17T17:27:59Z,assign user to issue,weswigham,weswigham
+59253,2024-07-17T17:28:33Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.4
+59253,2024-07-22T23:15:18Z,remove milestone from issue,DanielRosenwasser,TypeScript 5.5.4
+59253,2024-07-22T23:15:18Z,add milestone to issue,DanielRosenwasser,TypeScript 5.5.5
+59253,2024-07-23T18:15:44Z,add label to issue,weswigham,Fixed
+59253,2024-07-23T18:15:44Z,add label to issue,weswigham,Fix Available
+59253,2024-08-06T21:35:39Z,close issue,weswigham,
+60439,2024-11-06T17:17:50Z,commit changes,RyanCavanaugh,9599a192b065bbebf554266c5a788b09767b0923
+60439,2024-11-06T17:18:41+00:00,create PR,RyanCavanaugh,60433
+60439,2024-11-06T17:18:44Z,assign user to PR,RyanCavanaugh,RyanCavanaugh
+60439,2024-11-06T17:18:45Z,add label to PR,typescript-bot,Author: Team
+60439,2024-11-06T17:18:46Z,add label to PR,typescript-bot,For Uncommitted Bug
+60439,2024-11-06T19:35:50+00:00,create issue,RyanCavanaugh,Nullish semantics missed `MetaProperty`
+60439,2024-11-06T19:39:23Z,assign user to issue,RyanCavanaugh,RyanCavanaugh
+60439,2024-11-06T19:39:28Z,add label to issue,RyanCavanaugh,Bug
+60439,2024-11-06T19:39:31Z,add milestone to issue,RyanCavanaugh,TypeScript 5.8.0
+60439,2024-11-06T19:42:25Z,link PR to issue,RyanCavanaugh,60433
+60439,2024-11-06T19:43:12Z,commit changes,RyanCavanaugh,316f0ab7f9fd2cf79ddaf2264d3a629c5d433c43
+60439,2024-11-06T19:48:17+00:00,create PR,RyanCavanaugh,60440
+60439,2024-11-06T19:48:18Z,link PR to issue,RyanCavanaugh,60440
+60439,2024-11-06T19:48:21Z,assign user to PR,RyanCavanaugh,RyanCavanaugh
+60439,2024-11-06T19:48:21Z,add label to PR,typescript-bot,Author: Team
+60439,2024-11-06T19:48:23Z,add label to PR,typescript-bot,For Milestone Bug
+60439,2024-11-06T19:48:24Z,add label to issue,typescript-bot,Fix Available
+60439,2024-11-06T21:00:38Z,review PR,jakebailey,60440
+60439,2024-11-06T21:06:12Z,merge PR,RyanCavanaugh,
+60439,2024-11-06T21:06:12Z,close PR,RyanCavanaugh,
+60439,2024-11-06T21:06:13Z,close issue,RyanCavanaugh,
+60439,2024-11-06T21:06:15Z,delete PR branch,RyanCavanaugh,60440
+59284,2024-07-13T18:46:11+00:00,create issue,connor4312,TS error moving a function to another file
+59284,2024-07-13T18:46:18Z,assign user to issue,mjbvz,mjbvz
+59284,2024-07-15T19:00:28Z,transferred,mjbvz,
+59284,2024-09-24T00:41:37Z,unassign user from issue,mjbvz,mjbvz
+59284,2024-09-26T18:35:33Z,add label to issue,RyanCavanaugh,Bug
+59284,2024-09-26T18:35:36Z,assign user to issue,iisaduan,iisaduan
+59284,2024-09-26T18:35:39Z,add milestone to issue,RyanCavanaugh,TypeScript 5.7.0
+59284,2024-10-14T22:55:52Z,commit changes,iisaduan,616c423e41c70e61eef45c1a423aa1dd2cc2231d
+59284,2024-10-15T18:04:49Z,commit changes,iisaduan,12618007cfe35e536fc83b398b236629db8f751c
+59284,2024-10-21T05:20:57Z,commit changes,iisaduan,1c1a88e8cc8432f10d1b64399d0c124b210ba5ff
+59284,2024-10-21T17:23:31Z,commit changes,iisaduan,03ffc581f45ff33c14e97a9557b36d3783279058
+59284,2024-10-21T23:05:12Z,commit changes,iisaduan,90e89e65ef92a7694cfe10138740fa5eee947b7e
+59284,2024-10-22T19:21:49Z,link PR to issue,iisaduan,5
+59284,2024-10-22T19:27:07Z,commit changes,iisaduan,3ca07d106ad8f525fb690046a58efa6886807cb3
+59284,2024-10-23T23:50:04Z,commit changes,iisaduan,a20c2bb8d3480dc9cc23b892399a88e8573c6864
+59284,2024-10-23T23:55:41+00:00,create PR,iisaduan,60333
+59284,2024-10-23T23:55:41Z,request review for PR,iisaduan,andrewbranch
+59284,2024-10-23T23:55:41Z,request review for PR,iisaduan,navya9singh
+59284,2024-10-23T23:55:42Z,link PR to issue,iisaduan,60333
+59284,2024-10-24T21:30:53Z,commit changes,iisaduan,21a65986e2e01431c4d4bfaa7194bf79b6546736
+59284,2024-10-31T23:46:40Z,review PR,andrewbranch,60333
+59284,2024-11-01T00:03:12Z,merge PR,iisaduan,
+59284,2024-11-01T00:03:12Z,close PR,iisaduan,
+59284,2024-11-01T00:03:14Z,close issue,iisaduan,
+59284,2024-11-01T00:03:26Z,delete PR branch,iisaduan,60333
+58549,2024-05-16T10:14:24+00:00,create issue,lucacasonato,Isolated declarations inconsistent about banning default assignment patterns for function parameters  
+58549,2024-05-17T23:49:46Z,add label to issue,weswigham,Domain: Isolated Declarations
+58549,2024-05-23T16:33:18Z,add label to issue,weswigham,Bug
+58549,2024-05-23T16:33:24Z,add milestone to issue,weswigham,TypeScript 5.5.1
+58549,2024-05-23T21:42:55Z,commit changes,dragomirtitian,b282f772e5ad88572934a4abe1043e5d11097dcd
+58549,2024-05-23T21:45:02+00:00,create PR,dragomirtitian,58637
+58549,2024-05-23T21:45:03Z,link PR to issue,dragomirtitian,58637
+58549,2024-05-23T21:45:05Z,add label to PR,typescript-bot,For Milestone Bug
+58549,2024-05-23T21:45:06Z,add label to issue,typescript-bot,Fix Available
+58549,2024-05-24T18:49:35Z,review PR,weswigham,58637
+58549,2024-05-24T18:50:47Z,merge PR,weswigham,
+58549,2024-05-24T18:50:47Z,close PR,weswigham,
+58549,2024-05-24T18:50:48Z,close issue,weswigham,
+58563,2024-05-17T20:26:42+00:00,create issue,kirkwaiblinger,Request to expose `getBigIntLiteralType` on the TS Type Checker
+58563,2024-06-17T16:09:34Z,add label to issue,RyanCavanaugh,Bug
+58563,2024-06-17T16:09:34Z,add label to issue,RyanCavanaugh,Help Wanted
+58563,2024-06-17T16:09:37Z,add milestone to issue,RyanCavanaugh,Backlog
+58563,2024-06-17T16:12:24Z,commit changes,jakebailey,8158dffddb911502b79313cfba022908f26d4846
+58563,2024-06-17T16:15:10+00:00,create PR,jakebailey,58887
+58563,2024-06-17T16:15:10Z,link PR to issue,jakebailey,58887
+58563,2024-06-17T16:15:10Z,request review for PR,jakebailey,DanielRosenwasser
+58563,2024-06-17T16:15:10Z,request review for PR,jakebailey,andrewbranch
+58563,2024-06-17T16:15:10Z,request review for PR,jakebailey,RyanCavanaugh
+58563,2024-06-17T16:15:13Z,assign user to PR,jakebailey,jakebailey
+58563,2024-06-17T16:15:13Z,add label to PR,typescript-bot,Author: Team
+58563,2024-06-17T16:15:13Z,add label to PR,typescript-bot,Author: Team
+58563,2024-06-17T16:15:13Z,add label to PR,typescript-bot,Author: Team
+58563,2024-06-17T16:15:14Z,add label to PR,typescript-bot,For Backlog Bug
+58563,2024-06-17T16:15:14Z,add label to PR,typescript-bot,For Backlog Bug
+58563,2024-06-17T16:15:14Z,add label to PR,typescript-bot,For Backlog Bug
+58563,2024-06-17T17:48:53Z,review PR,andrewbranch,58887
+58563,2024-06-17T17:50:04Z,commit changes,jakebailey,4eb560f2cd95d7f39d80e443241061dee1daf742
+58563,2024-06-17T18:25:43Z,merge PR,jakebailey,
+58563,2024-06-17T18:25:43Z,close PR,jakebailey,
+58563,2024-06-17T18:25:44Z,close issue,jakebailey,
+58563,2024-06-17T18:25:45Z,delete PR branch,jakebailey,58887
+58749,2024-06-03T15:09:13Z,commit changes,dragomirtitian,af7a6386257ef8ad468af94d5e4aae10aadcda36
+58749,2024-06-03T15:09:45+00:00,create issue,dragomirtitian,[ts-5.5-rc] Import elided in spite of being use in declarations
+58749,2024-06-03T15:10:48+00:00,create PR,dragomirtitian,58750
+58749,2024-06-03T15:10:49Z,link PR to issue,dragomirtitian,58750
+58749,2024-06-03T15:10:52Z,add label to PR,typescript-bot,For Uncommitted Bug
+58749,2024-06-03T16:46:22Z,commit changes,dragomirtitian,884d4e148b2d3605711011501fddba56d37e92b2
+58749,2024-06-03T16:59:46Z,assign user to issue,weswigham,weswigham
+58749,2024-06-03T16:59:48Z,add label to issue,RyanCavanaugh,Bug
+58749,2024-06-03T16:59:51Z,add milestone to issue,RyanCavanaugh,TypeScript 5.5.1
+58749,2024-06-03T17:05:49Z,review PR,weswigham,58750
+58749,2024-06-03T17:06:00Z,merge PR,weswigham,
+58749,2024-06-03T17:06:00Z,close PR,weswigham,
+58749,2024-06-03T17:06:01Z,close issue,weswigham,
+58749,2024-06-03T17:06:02Z,assign user to PR,weswigham,weswigham
+58600,2024-05-21T05:39:58+00:00,create issue,yume-chan,tsc crash with `Error: start < 0` in a specific config
+58600,2024-05-22T16:54:22Z,assign user to issue,iisaduan,iisaduan
+58600,2024-05-22T16:54:24Z,add label to issue,RyanCavanaugh,Bug
+58600,2024-05-22T16:54:27Z,add milestone to issue,RyanCavanaugh,TypeScript 5.6.0
+58600,2024-05-26T15:42:36Z,commit changes,Andarist,a821a2ba1936409ecc82cbb1a45c4af25c7a42e9
+58600,2024-05-26T19:16:41Z,commit changes,Andarist,908ddd029d32c00e982f65e2a85aae5b0b914136
+58600,2024-05-27T09:07:29Z,commit changes,Andarist,ca9be693eed7e84cf77947924f89f2afd9468aac
+58600,2024-05-27T09:09:02+00:00,create PR,Andarist,58668
+58600,2024-05-27T09:09:02Z,link PR to issue,Andarist,58668
+58600,2024-05-27T09:09:05Z,assign user to PR,iisaduan,iisaduan
+58600,2024-05-27T09:09:06Z,add label to PR,typescript-bot,For Milestone Bug
+58600,2024-05-27T09:09:07Z,add label to issue,typescript-bot,Fix Available
+58600,2024-05-27T09:23:18Z,commit changes,Andarist,c69d9cc7c78b6dae18f65f500295e0d9eef4bd81
+58600,2024-05-30T19:42:10Z,commit changes,Andarist,60a95d89e3b7c986e7c22d51640ff26eb25a58ed
+58600,2024-05-30T19:42:14Z,commit changes,Andarist,1c41b56913f6059d72dc5bc09d5d969b18985e06
+58600,2024-05-30T19:46:21Z,commit changes,Andarist,a68b4ccd28720f1cc3634c55c8ab839193517aeb
+58600,2024-06-07T06:48:49Z,commit changes,Andarist,039a66e0b78df460d475946bb1b67aa6274915dd
+58600,2024-06-07T07:20:06Z,head ref force pushed,Andarist,
+58600,2024-06-20T18:07:01Z,review PR,jakebailey,58668
+58600,2024-06-20T18:19:50Z,review PR,sheetalkamat,58668
+58600,2024-06-22T08:51:29Z,commit changes,Andarist,64837f5a2ba540017f024f1c9e7947d16cc19142
+58600,2024-06-22T12:08:31Z,commit changes,Andarist,88dba918ff3d50d879e0dc33c40b9878a5a7c0bb
+58600,2024-06-22T15:19:44Z,review PR,sheetalkamat,58668
+58600,2024-06-24T16:03:32Z,merge PR,jakebailey,
+58600,2024-06-24T16:03:32Z,close PR,jakebailey,
+58600,2024-06-24T16:03:34Z,close issue,jakebailey,
